@@ -1,0 +1,92 @@
+,id,text,expected_domain,predicted_domain
+0,0,Scientists retracted claim that sea levels are rising.,FAKE,FAKE
+1,1,"(Koch Industries) is among the worst in toxic air pollution in the entire United States ... and churns out more climate-changing greenhouse gases than oil giants Chevron, Shell and Valero.",FAKE,FAKE
+2,2,"As soon as renewables were introduced into the grid, electricity prices increased and delivery became unreliable.",FAKE,FAKE
+3,3,"says Sweet, who has authored several sea-level rise studies.",TRUE,FAKE
+4,4,"While many scientists have acknowledged the mismatch between model predictions and actual temperature observations, few have really challenged the validity of the models themselves.",TRUE,FAKE
+5,5,The warming causes the oceans to release CO2.,TRUE,TRUE
+6,6,"Thats because as Antarcticas mass shrinks, the ice sheets gravitational pull on the ocean relaxes somewhat, and the seas travel back across the globe to pile up far away  with U.S. coasts being one prime destination.",TRUE,TRUE
+7,7,Past Australian droughts occurred when global temperatures were lower than now and wetter years occurred when such temperatures were rising.,TRUE,FAKE
+8,8,Dropped stations show more warming than kept stations.,TRUE,FAKE
+9,9,"Until last June, most scientists acknowledged that warming reached a peak in the late 1990s",TRUE,TRUE
+10,10,"Less energy is escaping to space:Carbon dioxide (CO2)acts like a blanket; adding more CO2 makes the 'blanket' thicker, and humans are adding more CO2 all the time.",TRUE,FAKE
+11,11,Species that have a lot of plasticity tend to be generalists.,TRUE,FAKE
+12,12,"Nevertheless over the last decade, daily record high temperatures occurred twice as often as record lows.",FAKE,FAKE
+13,13,"Their ECS estimate is 1.5 degrees, with a probability range between 1.05 and 2.45 degrees.",FAKE,TRUE
+14,14,The majority of peer reviewed research at the time predicted warming due to increasing CO2.,TRUE,FAKE
+15,15,The exception to this ice loss is Antarctic sea ice which has been growing despite the warming Southern Ocean.,TRUE,FAKE
+16,16,"That drop in temperature came after what was described in the National Geographic as 'six decades of abnormal warmth'.""",FAKE,FAKE
+17,17,"Some scientists believe that solar activity is more likely to influence todays climate than carbon dioxide, and Dr Soon has compiled data showing temperature in America, Canada and Mexico rises and falls in line with solar activity.",FAKE,FAKE
+18,18,"""The Keeling curve, which is widely used to show the increase in CO2 emissions, is based on data from the top of Mount Mauna Loa in Hawaii.",TRUE,FAKE
+19,19,The worldwide temperature record has been changed.,TRUE,FAKE
+20,20,Arctic icemelt is a natural cycle.,FAKE,FAKE
+21,21,"The strong El Nio has continued into 2016, raising the possibility that this year will, yet again, set a global temperature record",TRUE,TRUE
+22,22,Short term cooling over the last few years is largely due to a strong La Nina phase in the Pacific Ocean and a prolonged solar minimum.,TRUE,FAKE
+23,23,"If there were [carbon emissions], we could not see because most carbon is black.",FAKE,FAKE
+24,24,"CO2 limits won't cool the planet, but they can make the difference between continued accelerating global warming to catastrophic levels vs. slowing and eventually stopping the warming at hopefully safe levels.",TRUE,TRUE
+25,25,[ocean acidification was ] First referenced in a peer-reviewed study in Nature in 2003,TRUE,TRUE
+26,26,CO2 emissions were much smaller 100 years ago.,TRUE,FAKE
+27,27,Obama administration's Clean Power Plan would have little or no effect on carbon dioxide emissions.,FAKE,FAKE
+28,28,There is long-term correlation between CO2 and global temperature; other effects are short-term.,TRUE,FAKE
+29,29,"The warming is extremely rapid on the geologic time scale, and no other factor can explain it as well as human emissions of greenhouse gases.",TRUE,TRUE
+30,30,HFCs (hydrofluorocarbons) are tens of thousands of times more polluting than carbon dioxide.,TRUE,FAKE
+31,31,"Carbon emissions are declining in most rich nations and have been declining in Britain, Germany, and France since the mid-1970s",TRUE,FAKE
+32,32,"While there are many drivers of climate, CO2 is the most dominant radiative forcing and is increasing faster than any other forcing.",TRUE,FAKE
+33,33,"The most notorious was 252 million years ago; it began when carbon warmed the planet by five degrees, accelerated when that warming triggered the release of methane in the Arctic, and ended with 97 percent of all life on Earth dead.",TRUE,TRUE
+34,34,"The melting Greenland ice sheet is already a major contributor to rising sea level and if it was eventually lost entirely, the oceans would rise by six metres around the world, flooding many of the worlds largest cities.",TRUE,TRUE
+35,35,"In one particularly damning email, CRU director Phil Jones said he had used Mikes Nature trick to hide the decline in temperatures in the second half of the 20th century.",TRUE,FAKE
+36,36,"Last year, though, was a wet one on the Rio Grande, with a strong snowpack in the winter of 2016-17 that allowed the conservancy district to store water in upstream reservoirs.",TRUE,FAKE
+37,37,For decades horticulturalists have pumped carbon dioxide into glasshouses to increase yields.,TRUE,FAKE
+38,38,"While methane is a more potent greenhouse gas than CO2, there is over 200 times more CO2 in the atmosphere.",TRUE,FAKE
+39,39,"While there are direct ways in which CO2 is a pollutant (acidification of the ocean), its primary impact is its greenhouse warming effect.",TRUE,TRUE
+40,40,Everybody knows that the Pacific island of Tuvalu is sinking. ...,TRUE,TRUE
+41,41,The effects of enhanced CO2 on terrestrial plants are variable and complex and dependent on numerous factors.,TRUE,TRUE
+42,42,"Consequently, the total amount of Arctic sea ice in 2008 and 2009 are the lowest on record.",FAKE,FAKE
+43,43,Most likely the primary control knob [on climate change] is the ocean waters and this environment that we live in.,TRUE,FAKE
+44,44,"Growers regularly pump CO2 into greenhouses, raising levels to three times that of the natural environment, to produce stronger, greener, healthier plants.",TRUE,FAKE
+45,45,"For instance, wind turbines kill birds and insects, and palm-oil plantations destroy the biodiversity of the rainforests",TRUE,TRUE
+46,46,The EPA director under Obama said the Clean Power Initiative would have no effect on man-made CO2 emissions.,FAKE,FAKE
+47,47,An independent inquiry found CRU is a small research unit with limited resources and their rigour and honesty are not in doubt.,TRUE,FAKE
+48,48,Hurricane Harvey gave Houston and the surrounding region a $125 billion lesson about the costs of misjudging the potential for floods,TRUE,TRUE
+49,49,The extent of climate changes influence on the jet stream is an intense subject of research.,TRUE,FAKE
+50,50,"President Obama's proposal calls for serious cuts in our own long-term carbon emissions, but China and India will still be allowed to increase their emissions.",FAKE,FAKE
+51,51,"While the north-east, midwest and upper great plains have experienced a 30% increase in heavy rainfall episodes  considered once-in-every-five year downpours  parts of the west, particularly California, have been parched by drought.",TRUE,FAKE
+52,52,"Cosmic ray counts have increased over the past 50 years, so if they do influence global temperatures, they are having a cooling effect.",TRUE,FAKE
+53,53,Lake-bottom sediments in Florida tell us that recent major hurricane activity in the Gulf of Mexico has been less frequent than in centuries past.,FAKE,FAKE
+54,54,"In a paper published online this week in theJournal of Geophysical Research-Atmosphere, economics professor Ross McKitrick says the resulting discrepancies may be leading to an overstatement of the role of greenhouse gases in the atmosphere.",FAKE,FAKE
+55,55,Adapting to global warming is cheaper than preventing it,TRUE,TRUE
+56,56," As it happens, the writer of that October 2009 e-mailKevin Trenberth, a lead author of the warmist bible, the 2007 Intergovernmental Panel on Climate Change (IPCC) reporttold Congress two years ago that evidence for manmade warming is ""unequivocal.",TRUE,FAKE
+57,57,"If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.",FAKE,FAKE
+58,58,The sun has shown no long term trend since 1950 and in fact has shown a slight cooling trend in recent decades.,TRUE,FAKE
+59,59,It has never been shown that human emissions of carbon dioxide drive global warming.,FAKE,FAKE
+60,60,"In the past, warming has never been a threat to life on Earth.",FAKE,FAKE
+61,61,The Review concluded that CRU's actions were normal and did not threaten the integrity of peer review.,TRUE,FAKE
+62,62,"Far from contradicting global warming, record snowfall is predicted by climate models and consistent with our expectation of more extreme precipitation events.",TRUE,FAKE
+63,63,"Human-produced carbon might be one of the factors [of climate change], but theres simply no evidence that it is a significant one.",FAKE,FAKE
+64,64,"This study goes beyond statistical correlations and explores a specific process that can plausibly explain how enhanced high-latitude warming trends may trigger remote weather impacts, he said.",TRUE,TRUE
+65,65,"Severe storms, floods and agricultural losses may cost a great deal of money, but such extreme weather eventsand their resulting costsare dramatically declining as the Earth modestly warms.",FAKE,FAKE
+66,66,"A major part of the climate change bill sponsored by Sens. John Kerry and Joe Lieberman ""was essentially written by BP.""",TRUE,TRUE
+67,67,Surface measurements find more downward infrared radiation warming the planet's surface.,TRUE,FAKE
+68,68,"Volcanoes Melting West Antarctic Glaciers, Not Global Warming",TRUE,TRUE
+69,69,"While transient weather variability is playing a key role here, the widespread record warmth across the U.S. so far this year is part of a long-term trend toward more warm temperature records versus cold ones.",TRUE,TRUE
+70,70,The most recent satellite data show that the earth as a whole is warming.,TRUE,FAKE
+71,71,"Its far too early to tell if what we are seeing in the Arctic, and now the Antarctic, is a sharp shift towards warmer poles with less ice.",FAKE,FAKE
+72,72,"Even if the warming were as big as the IPCC imagines, it would not be as dangerous as Mr. Brown suggests.",FAKE,FAKE
+73,73,"Given that a doubling of carbon dioxide would change the surface heat flux by only two watts per square meter, it is evident that a small change in cloud cover can strongly affect the response to carbon dioxide.""",TRUE,FAKE
+74,74,nothing we can do to stop the Earths naturally occurring climate cycles.,TRUE,FAKE
+75,75,Polar bear numbers are increasing,TRUE,FAKE
+76,76,Our evolving dynamic planet has survived[] mass extinctions,TRUE,TRUE
+77,77,warmer oceans have also begun to destabilize glaciers in Greenland and Antarctica,TRUE,TRUE
+78,78,Increasing CO2 in the atmosphere has little to no effect.,FAKE,FAKE
+79,79,"Like countless other organisms, we move and adapt when the environment changes.",TRUE,FAKE
+80,80,Preventing global warming is relatively cheap; business-as-usual will cause accelerating climate damage costs that economists struggle to even estimate.,TRUE,FAKE
+81,81,"Steve McIntyre noticed a strange  discontinuity in US temperature data, occurring around January 2000.",TRUE,FAKE
+82,82,[]You can think of global warming as one type of climate change.,TRUE,FAKE
+83,83,"Climate skeptics argue temperature records have been adjusted in recent years to make the past appear cooler and the present warmer, although the Carbon Brief showed that NOAA has actually made the past warmer, evening out the difference.",FAKE,FAKE
+84,84,"Scientists say the recent climate agreement negotiated in Paris is not remotely ambitious enough to forestall a significant melting of Greenland and Antarctica, though if fully implemented, it may slow the pace somewhat.",TRUE,FAKE
+85,85,its virtually impossible to get funded for work that disputes climate change through other channels [other than oil companies],TRUE,FAKE
+86,86,"The human fingerprint in global warming is evident in multiple lines of empirical evidence - in satellite measurements of outgoing infrared radiation, in surface measurements of downward infrared radiation, in the cooling stratosphere and other metrics.",TRUE,TRUE
+87,87,"Every day, nature puts twenty times as much carbon dioxide into the atmosphere as all of Earth industries.",TRUE,FAKE
+88,88,'Global warming' is a myth  so say 80 graphs from 58 peer-reviewed scientific papers published in 2017.,TRUE,FAKE
+89,89,Global warming' is a myth  so say 80 graphs from 58 peer-reviewed scientific papers published in 2017.,FAKE,FAKE
+90,90,"Thousands of coral atolls have ""drowned"" in the past when they were unable to grow fast enough to maintain a presence at sea level",TRUE,TRUE

@@ -1,0 +1,2215 @@
+,id,text,expected_domain,predicted_domain
+0,0,Ariana Grande discusses Manchester attack: 'It's the absolute worst of humanity',TRUE,TRUE
+1,1,Kim Kardashian takes kids to Disneyland with Kourtney and family,TRUE,TRUE
+2,2,Stephen Colbert welcoming Sean Spicer to the Emmys stage was a disappointment and a failure,TRUE,TRUE
+3,3,Coco Rocha Gives Birth To Baby Number Two,TRUE,TRUE
+4,4,"Khloe Kardashian Throws Epic July 4th Bash With Tristan Thompson, Kim, Rob, and Dream in Adorable",TRUE,TRUE
+5,5,Shania Twain designs tour around Lyme disease battle,TRUE,TRUE
+6,6,Los Angeles Magazine,FAKE,TRUE
+7,7,Kim Zolciak-Biermann Documents Ariana's Trip to Prom With High School Boyfriend - Parker XL,TRUE,TRUE
+8,8,The Internet is freaking out over Melania Trumps body double,TRUE,FAKE
+9,9,"'Bachelor' couple Nick Viall, Vanessa Grimaldi end their engagement 'with lots of love'",TRUE,TRUE
+10,10,Casey Reinhardt Net Worth,TRUE,TRUE
+11,11,Sofia Richie,TRUE,TRUE
+12,12,One Direction,TRUE,TRUE
+13,13,Married at First Sight US star Jonathan is divorcing his wife Molly,TRUE,TRUE
+14,14,Caitlyn Jenner Seemingly Ices Khloe Kardashian in Mothers Day Post,FAKE,FAKE
+15,15,Christina El Moussa Slams Nate Thompson Romance Rumors: I Just Love Hockey,TRUE,TRUE
+16,16,'RHOC' Husband Jim Edmonds Slams Kelly Dodd's Mistress Accusation,TRUE,TRUE
+17,17,New Videos Show Kendall Jenner And Khlo Kardashian Praising Kim For Her New 'Anorexic' Look,TRUE,FAKE
+18,18,"Stephen Colberts Awkward Photo Campaign For Hurricane Victims Snaps Up Such Stars As John Oliver, Judd Apatow",TRUE,TRUE
+19,19,Former Child Star Blake Herons Cause of Death Revealed,TRUE,TRUE
+20,20,"Robert Wilson, Dad of Luke & Owen Wilson, Dies at 75 From Alzheimers  Variety",TRUE,TRUE
+21,21,Raven's Home's New Opening Credits Are Here and the Theme Song Is Super Catchy,TRUE,TRUE
+22,22,Everything Jennifer Garner Has Said About Ben Affleck Since Their Split,FAKE,FAKE
+23,23,Jennifer Aniston & Brad Pitt Secret Rumored Meetings Driving Angelina Jolie Insane With Jealousy,FAKE,FAKE
+24,24,Revenge Body Celebrity Trainers Share Their Top Weight Loss Tip,TRUE,TRUE
+25,25,"Our Top 2018 Ponytail ArticlesSnatched, Dramatic & OMG-Worthy!",TRUE,TRUE
+26,26,From Welcoming a Baby Together to Their Joint GQ Cover: Inside Kylie Jenner & Travis Scott's Whirlwind Romance,FAKE,TRUE
+27,27,Macaulay Culkin reveals why he can't watch 'Home Alone' anymore,TRUE,TRUE
+28,28,Keshas Learn To Let Go Highlights Her Uplifting Method Of Moving On  VIDEO,TRUE,TRUE
+29,29,How Angelina Jolie Empowers Her Daughters to Improve the World,TRUE,TRUE
+30,30,Billy Connolly,FAKE,TRUE
+31,31,Heres Timothe Chalamet Rapping About Statistics,TRUE,TRUE
+32,32,Jimmy Kimmel's Fake Beyonce Twin Names Make An Important Point About Celebrity Obsession,TRUE,TRUE
+33,33,G-Eazy Considers Using Dating Apps After Halsey Split,TRUE,TRUE
+34,34,Gwyneth Paltrows Skin-Care Pro Reveals How to Care for Your Bikini Line,TRUE,TRUE
+35,35,Brad Pitt Did Not Hit On Margot Robbie At Pre-Oscar Party,FAKE,FAKE
+36,36,Celebs React to Patriots and Eagles Going to Super Bowl LII,FAKE,TRUE
+37,37,"John Brady, Toms Son: 5 Fast Facts You Need to Know",TRUE,TRUE
+38,38,Beware cheaters: Your lover's spouse can sue you,TRUE,TRUE
+39,39,Kelly Ripa & Teen Daughter Lola Consuelos Kill It On The Red Carpet In Rare Joint Appearance,TRUE,TRUE
+40,40,Kim Kardashian Brings Daughter North as Her Date to Beautycon: 'We Did Our Hair the Same Way',TRUE,TRUE
+41,41,Selena Gomez shares photo from date night with The Weeknd,TRUE,TRUE
+42,42,"Meek Mill celebrates prison release, attends 76ers game",TRUE,TRUE
+43,43,Sofia Carson Helps Manolo Vergara With His Squat Workout,TRUE,TRUE
+44,44,"Shannen Doherty on Charmed reboot's 'terrible, offensive' description",FAKE,TRUE
+45,45,The product Ariana Grande uses to create her ponytail is surprising,TRUE,TRUE
+46,46,Kylie Jenner and Travis Scott Try to Bury Breakup Rumors with PDA Pic,FAKE,FAKE
+47,47,Amal Clooney Gives Birth to Twins,TRUE,TRUE
+48,48,"Milo Ventimiglia on Jack's 'This Is Us' death, Mandy Moore's reaction",TRUE,TRUE
+49,49,Rita Ora's Sweatpants Could Stop Traffic,TRUE,TRUE
+50,50,Queer Eyes Tom Jackson and Abby Parr Get Married Again: Pics,TRUE,TRUE
+51,51,J. Lo and A-Rod Attend Their Daughters' Dance Recital  and Pose with Her Ex Marc Anthony,FAKE,TRUE
+52,52,Is Kim Zolciak Pregnant for the Seventh Time?,TRUE,TRUE
+53,53,Katy Perrys Been Waiting For Robert Pattinson To Let Her Out Of The Friend Zone So They Can Date,FAKE,FAKE
+54,54,"Meghan Markle, Prince Harry Made &quot;Soul Pact&quot; Promising To Love Each Other For &quot;All Eternity&quot;?",FAKE,FAKE
+55,55,Tracee Ellis Ross' Beauty Favorites,TRUE,TRUE
+56,56,Khloe Kardashian Recalls Being in Delivery Room When Kylie Jenner Gave Birth,FAKE,TRUE
+57,57,"Clearly, Tristan Thompson and Kim Kardashian Are Still at Odds",TRUE,TRUE
+58,58,19 Times Lifetime's 'Harry & Meghan: A Royal Romance' Made Us Cringe,FAKE,TRUE
+59,59,10 Unforgettable Oscar Acceptance Speeches That Still Deserve a Standing Ovation,TRUE,TRUE
+60,60,Jim Carrey Reveals Truth Behind Robin Williams Feud,FAKE,TRUE
+61,61,Shawn Mendes and Hailey Baldwin Make Red Carpet Debut at 2018 Met Gala,TRUE,TRUE
+62,62,Gwen Stefani Baggy Tee,FAKE,TRUE
+63,63,Khlo Kardashian's Ex James Harden Explains Why Dating Her Sucked,FAKE,TRUE
+64,64,Bright Director David Ayer Had an Unexpected Reaction to a Bad Review,TRUE,TRUE
+65,65,HollywoodLife Lies About Beyonce Twins Released From Hospital,FAKE,FAKE
+66,66,Jennifer Lawrence Explains Why She Didn't Sue Over Nude Photo Leak Scandal,TRUE,TRUE
+67,67,"Paris Jackson Poses Topless on Instagram, Says 'Being Naked Is Part of What Makes Us Human'",TRUE,TRUE
+68,68,"Stranger Things season 3 confirmed, season 4 likely",TRUE,TRUE
+69,69,See It: 'Spider-Man: Homecoming' Trailer: Iron Man Upgrades Peter Parker's Suit,TRUE,TRUE
+70,70,Kate Middleton and Prince William Meet Swedish Royal Family,TRUE,TRUE
+71,71,"Your Complete Guide to Visiting Laurel, Mississippi",TRUE,TRUE
+72,72,Meghan King Edmonds Welcomes Twin Boys,TRUE,TRUE
+73,73,Everything You Need to Know About the 2018 iHeartRadio Music Awards,TRUE,TRUE
+74,74,L&S: Angelina Jolie plans to marry her mystery British-philanthropist boyfriend?,FAKE,FAKE
+75,75,What Bachelorettes Rachel Lindsay Is Wearing to Find Love,TRUE,TRUE
+76,76,Sofia Richie,FAKE,TRUE
+77,77,Bethenny Frankel Will Spend Her Birthday Helping With Hurricane Relief in Puerto Rico,TRUE,TRUE
+78,78,Jason Momoa and Emilia Clarke have adorable Game of Thrones reunion,TRUE,TRUE
+79,79,Nikki Bella's Niece Will Serve as Flower Girl During Her Wedding to John Cena,TRUE,TRUE
+80,80,Robert Pattinson on 'Twilight' Experience: 'It's All Fond Memories',TRUE,TRUE
+81,81,Here are all the couples from 'The Bachelor' and 'The Bachelorette' that are still together,TRUE,TRUE
+82,82,Issa Rae in confidence and dark skin representation,TRUE,TRUE
+83,83,Ben Affleck-Jennifer Garner split: Is the actress not ready to divorce the Batman star?,FAKE,FAKE
+84,84,A Guide to the Increasingly Intense Brad PittAngelina Jolie Divorce Drama,FAKE,FAKE
+85,85,Drew Barrymore Launches Lifestyle Brand on Amazon Fashion,TRUE,TRUE
+86,86,'Sex and the City 3' planned to kill off Mr. Big  here are the details,TRUE,TRUE
+87,87,Suits Cast Has 'Last Supper' Before Attending Meghan's Wedding,TRUE,TRUE
+88,88,Kendra Wilkinson Says She Signed Her 'Last Divorce Paper' from Husband Hank Baskett,TRUE,TRUE
+89,89,Andrew Garfield  Riley Keough Flirting At Golden Globes  Report,FAKE,FAKE
+90,90,Is Lindsay Shookus Pregnant? New Details On The Rumors She's Expecting With Ben Affleck,FAKE,FAKE
+91,91,All the Details on Kristen Stewart and Robert Pattinson's Surprise Reunion,FAKE,FAKE
+92,92,Meet Hilary Duff's Boyfriend and Second Child's Father,TRUE,TRUE
+93,93,"Alexander Polinsky, ""Charles in Charge"" actor, accuses Scott Baio of sexual harassment",TRUE,TRUE
+94,94,Shia LaBeouf Once Gave All His Clothes to Kanye West,TRUE,TRUE
+95,95,Watch a Woman Lose Her Mind After Winning $11.30 on HQ Trivia,TRUE,TRUE
+96,96,Leslie Jones Plays Truth or Lie with Dr. Phil,TRUE,TRUE
+97,97,'Timeless' Canceled (Again) at NBC,TRUE,TRUE
+98,98,Watch Jenna Dewan Sizzle In Dance Off With J.Lo In 'World Of Dance' Trailer,FAKE,TRUE
+99,99,Gwen Stefani & Blake Shelton: Romantic Christmas Plans Will Include Sexy Time For Themselves,FAKE,FAKE
+100,100,"A Peek Inside 'Divas Live,' Pop Music's Greatest Worship Service",TRUE,TRUE
+101,101,Watch Linkin Park's Chester Bennington Tribute Concert Live Stream,FAKE,TRUE
+102,102,Angelina Jolie bonds with Jon Voight over family dinner,TRUE,FAKE
+103,103,Kristen Stewart Cheats on Robert Pattinson with Married Director: Sources,TRUE,FAKE
+104,104,Blac Chyna's Lawsuit Against the Kardashians Has Taken a New Twist,FAKE,TRUE
+105,105,10 tips on how to steal Emily Ratajkowskis ultra-sexy style,TRUE,TRUE
+106,106,Whirlwind Romances and Crushing Heartbreak: Inside Jennie Garth's Struggle to Find Love,TRUE,TRUE
+107,107,16 times Princess Charlotte looked just like her royal relatives,TRUE,TRUE
+108,108,Jennifer Aniston  Courteney Cox Doing New TV Show Together  Report,FAKE,FAKE
+109,109,Shadowhunters season 2B promo: Clary chooses between Jace and Simon,TRUE,TRUE
+110,110,Taylor Swift,TRUE,TRUE
+111,111,Who Was Morgan Freeman Calling Out During His SAG Life Achievement Award Speech?,TRUE,TRUE
+112,112,Mariah Carey on New Year's Eve performance: 'They foiled me',FAKE,TRUE
+113,113,"Best Dressed Of The Week: Natalie Dormer, Jada Pinkett Smith, Jennifer Lawrence And More!",TRUE,TRUE
+114,114,Halle Berry Loves JAY-Zs Eric Bent Diss Track  His Cheating Ruined Our Marriage,FAKE,FAKE
+115,115,Jinger Duggar Is 22 Weeks Pregnant: A Look Back at Her Baby Journey,TRUE,TRUE
+116,116,Serena Williams Had a Star-Studded '50s-Themed Baby Shower and it Was Amazing,TRUE,TRUE
+117,117,Khloe Kardashian fires a contestant from Revenge Body,TRUE,TRUE
+118,118,"All the Kimye and Joe Alwyn References in Taylor Swift's ""Call It What You Want"" Lyrics",TRUE,TRUE
+119,119,DJ Slips Prince Harry His Business Card in Bid for Wedding Gig,TRUE,TRUE
+120,120,Tobey Maguire,FAKE,TRUE
+121,121,Jenna Fischer Wears a Bath Towel on Jimmy Kimmel Live After Dress Zipper Breaks,TRUE,TRUE
+122,122,Who is cristiano ronaldo's real wife?,TRUE,TRUE
+123,123,Patti LuPone Says Madonna 'Should Not Be on Film or on Stage',TRUE,TRUE
+124,124,Ariel Winter Begging Boyfriend Levi Meaden To Propose  Report,FAKE,FAKE
+125,125,Catelynn Baltierra Will Continue Treatment for Depression: Here's the Latest Details,TRUE,TRUE
+126,126,Vanderpump Rules Star Lala Kent Talks Wedding Plans With Randall Emmett,TRUE,TRUE
+127,127,Malika Haqq explains why she split from Ronnie Ortiz-Magro,TRUE,TRUE
+128,128,"Minnie Driver, Alyssa Milano Call Out Matt Damon For Tone Deaf Comments About Sexual Assault",FAKE,TRUE
+129,129,Stranger Things Cast at 2017 MTV Movie and TV Awards,TRUE,TRUE
+130,130,These Spring Sandals Are Under $100--and Just as Cute as Gigi Hadid's,TRUE,TRUE
+131,131,Lena Waithe,TRUE,TRUE
+132,132,Tom Cruise Reportedly Hasnt Seen Daughter Suri in About Three Years,FAKE,FAKE
+133,133,Angelina Fleeing The Country With Brads Kids,FAKE,FAKE
+134,134,Prince William Pays Tribute to Victims of Manchester Attack at FA Cup Final - See the Pic,TRUE,TRUE
+135,135,The Bachelor's Lauren Bushnell splits with beau Devin Antin after a year of dating,TRUE,TRUE
+136,136,"Kylie Jenner named her baby Stormi, and revealed her last name",TRUE,TRUE
+137,137,Patty Jenkins's heart sank when Gal Gadot was cast,TRUE,TRUE
+138,138,"The Originals, The 100, and the Art of a Good Time Jump",TRUE,TRUE
+139,139,"Kanye Is Free Thought-ing Again, Posts Text Messages From John Legend",TRUE,FAKE
+140,140,Six women accuse filmmaker Brett Ratner of sexual harassment or misconduct,TRUE,TRUE
+141,141,Kanye West Is Writing a Book About Philosophy Called 'Break the Simulation',TRUE,TRUE
+142,142,Alec Baldwin Teaches 3-Year-Old Daughter Carmen His Donald Trump Impression,TRUE,TRUE
+143,143,Sofia Richie reveals the simple products behind her flawless skin,TRUE,TRUE
+144,144,$58K GoFundMe Page for Bullied Teen Keaton Jones Suspended Amid Backlash,TRUE,TRUE
+145,145,Kim Kardashian Debuts 'KKW Body' Fragrance,TRUE,TRUE
+146,146,So Much For Privacy! King Robert Barges in on Princess Eleanor and Jasper's Makeout Sesh on The Royals,TRUE,TRUE
+147,147,Sylvester Stallone Reunites With Milo Ventimiglia on This Is Us Set,TRUE,TRUE
+148,148,List of People Carmen Electra Has Dated,TRUE,TRUE
+149,149,"The Most Villainous Moments From the Vanderpump Rules Season 7 Premiere, Ranked",TRUE,TRUE
+150,150,Mary-Kate and Ashley Olsen: Greatest Hits,FAKE,TRUE
+151,151,WAGS Atlanta,TRUE,TRUE
+152,152,The Kardashians are desperately trying to rescue Kylie Jenners new show after its slammed as the fakest reality show ever,FAKE,FAKE
+153,153,WATCH: Season 13 Blooper Reel Video,TRUE,TRUE
+154,154,These Golden Globes Looks Made A Statement  & Cost Less Than $12,TRUE,TRUE
+155,155,Ariana Grande's Charity Concert in Manchester Sells Out in Just Six Minutes,TRUE,TRUE
+156,156,MTV VMAs: Demi Lovato stuns in a VERY daring gown while Katy Perry and Heidi show off their incredible cleavage at the VMAs,TRUE,TRUE
+157,157,Kristin Cavallari Returns to Reality TV! See the First Look at 'Very Cavallari',TRUE,TRUE
+158,158,Danica Patrick's NASCAR career comes to a close with Daytona 500 crash,TRUE,TRUE
+159,159,Stan Lee says he's 'feeling great' after his hospitalization,TRUE,TRUE
+160,160,Descendants 2 Cast Talks Bigger Sets and Musical Numbers at Disney Channel Premiere,TRUE,TRUE
+161,161,What Is Sandra Bullock's Net Worth?,FAKE,TRUE
+162,162,'RHONJ': Melissa Gorga Says She Knew Danielle Staub's Marriage Wasn't Going to Last (Exclusive),TRUE,TRUE
+163,163,Olivia Munn will continue to speak up for #MeToo movement 'even if it costs her career',TRUE,TRUE
+164,164,Bristol Palin goes home to Alaska after divorce reports,TRUE,TRUE
+165,165,Mariah Carey Addresses Most Notorious Rumors About Her Diva Behavior,TRUE,FAKE
+166,166,The Unstoppable Rise of Clean Beauty and the Celebs Betting Their Careers on the Movement: An Insiders Look,TRUE,TRUE
+167,167,Fear Factor,TRUE,TRUE
+168,168,Gal Gadot reflects on her incredible last year with best 9 of 2017 photo,TRUE,TRUE
+169,169,Kendall Jenner & Kourtney Kardashian Answer Burning Questions for Ellen DeGeneres - Watch!,TRUE,TRUE
+170,170,Police say former MTV VJ Jesse Camp found after being reported missing,TRUE,TRUE
+171,171,How Jerry O'Connell Knew He Wasn't Going to Get the Job on Live! With Kelly,FAKE,TRUE
+172,172,JayZ Secretly Gay  Ridiculous Speculation,FAKE,FAKE
+173,173,Jennifer Lawrence Is Perfectly Fine with Those Brad Pitt Dating Rumors,FAKE,TRUE
+174,174,Josephine Skrivers Morning Routine Involves Sweat and a Spoon,TRUE,TRUE
+175,175,"Sandra Bullock Is Not Married to Boyfriend Bryan Randall, Her Rep Says",TRUE,TRUE
+176,176,Bachelorette Alum Michael Nance Died of 'Multiple Drug Toxicity': Autopsy Report,TRUE,TRUE
+177,177,Robin Wright Nightmare On House Of Cards Set?,FAKE,FAKE
+178,178,Hollywood Flocks to Wyoming for Kanye Wests Secret Album Listening Party,TRUE,FAKE
+179,179,Will & Grace Lands First-Ever Streaming Deal With Hulu For Old & New Episodes,TRUE,TRUE
+180,180,"One Direction News from Harry, Liam, Louis and Niall",TRUE,TRUE
+181,181,Christian Siriano and Husband Brad Walsh Split After Nearly Two Years of Marriage,TRUE,TRUE
+182,182,Young and the Restless: Kristoff St. John in treatment after mental health scare,TRUE,TRUE
+183,183,Emily Blunt,FAKE,TRUE
+184,184,Charlize Theron on how her kids have helped with her anxiety,TRUE,TRUE
+185,185,"Gigi Hadid Pulled Out of the Victoria's Secret Fashion Show, and the Internet Has Opinions",FAKE,TRUE
+186,186,Celebrities React to Hurricane Irma,FAKE,FAKE
+187,187,GLOW (TV series),TRUE,TRUE
+188,188,Entourage's Jerry Ferrara Marries Breanne Racano,TRUE,TRUE
+189,189,"Tom Cruises Top Gun: Maverick Pushed Back to 2020, A Quiet Place Sequel Dated",TRUE,TRUE
+190,190,Heres a Complete History of Jennifer Lopez and Mariah Careys Alleged Feud,FAKE,FAKE
+191,191,Kelly Rohrbach cosies up to shirtless beau Steuart Walton in Malibu,TRUE,TRUE
+192,192,Kim Khloe Kourtney Kardashian slammed for wearing fur,FAKE,TRUE
+193,193,Prince William Wore Red Wig To Mock Prince Harry At Palace Event?,FAKE,FAKE
+194,194,Legendary US comedian Don Rickles dies at 90,TRUE,TRUE
+195,195,Transformation! 'Cement Face' Woman from 'Botched' Debuts New Look,TRUE,TRUE
+196,196,Ryan Seacrest: The Wealthy Man Who Will Get $1 Million To Host 'Dick Clark's New Year's Rockin' Eve',TRUE,TRUE
+197,197,"Miley Cyrus sings ""The Climb"" to honor Las Vegas shooting victims",TRUE,TRUE
+198,198,Jesse Williams opens up about divorce in Jay-Z video,TRUE,TRUE
+199,199,Chlo Grace Moretz posted an adorable video of Brooklyn Beckham giving her a kiss on the cheek,TRUE,TRUE
+200,200,"Did Kim Kardashian Confirm Pregnancy News for Her, Khloe and Kylie With Past Photo?",FAKE,FAKE
+201,201,Kim Kardashian auctioning off clothes to benefit children's hospital,TRUE,TRUE
+202,202,"Scheana Marie Dishes On Potential Reunion With Rob Valletta, Plus Did She And Ariana Madix Have A Falling Out?",TRUE,TRUE
+203,203,Jennifer Lopez Reveals How Her Romance With Alex Rodriguez Got StartedSpoiler Alert: Cobb Salad Was Involved,TRUE,TRUE
+204,204,Fixer Upper Is Ending. What Is Chip and Joanna Gaines' Net Worth?,TRUE,TRUE
+205,205,Miranda Kerr wedding dress photos: Supermodel looks regal there you are!,TRUE,TRUE
+206,206,Watch Bruno Mars' Style Transform Before Your Eyes,TRUE,TRUE
+207,207,Patti Murin Cancels 'Frozen' Broadway Performance Due to Anxiety,TRUE,TRUE
+208,208,"Emily Blunt & James Corden's Musical Tribute to 'Romeo and Juliet' Features Bruno Mars, Katy Perry, Adele & More: Watch",TRUE,TRUE
+209,209,CMA Awards 2017: The Complete Winners List,TRUE,TRUE
+210,210,Is Katie Holmes Pregnant With Jamie Foxxs Child After Finally Confirming Secret Romance?,FAKE,FAKE
+211,211,"Lauren Bushnell has a new boyfriend after split from 'Bachelor' star Ben Higgins, source says",TRUE,TRUE
+212,212,Cara Delevingnes Makeup Artist Shares How to Achieve Breakout-Free Skin,TRUE,TRUE
+213,213,"See inside Chrissy Teigen's Pan Am-themed birthday party attended by Kim Kardashian, Kanye, Kris Jenner and more",TRUE,TRUE
+214,214,Niall Horan and Hailee Steinfeld: A timeline of their relationship,TRUE,TRUE
+215,215,Neve Campbell Reveals How Being a Mom Has Influenced Her Acting,TRUE,TRUE
+216,216,"Yes, Arie Luyendyk Jr. Is Aware He Says Amazing A Lot on The Bachelor: I'm Trying to Change My Whole Vocabulary",TRUE,TRUE
+217,217,8 Super Relatable Products Youll Find in Khloe Kardashians Purse,TRUE,TRUE
+218,218,James Franco accused of sexual misconduct by five women including former students,TRUE,TRUE
+219,219,Ashley Tisdale shows off petite figure in T-shirt and leggings on way to salon,TRUE,TRUE
+220,220,Bobby Brown: I Dont Think Whitney Houston Died From Drugs,TRUE,TRUE
+221,221,Maisie Williams Pays Tribute To 'Game of Thrones' Character With Cryptic Arya Stark Tattoo,TRUE,TRUE
+222,222,Keiynan Lonsdale explains why he's leaving The Flash and Legends of Tomorrow,TRUE,TRUE
+223,223,LL Cool J Cant Remember Lines While Filming NCIS: Los Angeles?,FAKE,TRUE
+224,224,"Kelly Clarkson, Jennifer Hudson to Return for The Voice Season 15  Variety",TRUE,TRUE
+225,225,Kendall Jenner Opens Up About Her Struggle With 'Debilitating Anxiety',TRUE,TRUE
+226,226,How to Look Festive on New Years EveIf You Hate Sequins,TRUE,TRUE
+227,227,Bachelor in Paradise Cast: See Who's Looking for Love on Season 5,TRUE,TRUE
+228,228,Christian Bale avoiding sun to prepare for Dracula movie?,FAKE,FAKE
+229,229,The Big Bang Theory: Behind The Sudden Decision To End Series After 12 Seasons,TRUE,TRUE
+230,230,"Tori Spelling Owes A $220,000 Default Judgement",TRUE,TRUE
+231,231,"'Bachelor Winter Games' Could Become an Annual Event, Chris Harrison Says",TRUE,TRUE
+232,232,UnREAL Star Josh Kelly Reveals Dramatic 70-Lb. Weight Loss,TRUE,TRUE
+233,233,Chris Brown Could Face Jail Time for Pet Monkey,TRUE,TRUE
+234,234,Who is the new man in Cline Dions life?,TRUE,TRUE
+235,235,Serena Williams: John McEnroe believes she would struggle on men's circuit,FAKE,TRUE
+236,236,WE Day California,TRUE,TRUE
+237,237,Gwen Stefani: Dumped By Blake Shelton! Blindsided and Heartbroken!,FAKE,FAKE
+238,238,Chester Bennington Private Funeral Service Takes Place in California,TRUE,TRUE
+239,239,Colin Firths wife had fling with the friend she accuses of stalking,TRUE,TRUE
+240,240,The Roseanne revival has a premiere date,TRUE,TRUE
+241,241,How Julianne Hough Truly Came Into Her Own Before Turning 30,TRUE,TRUE
+242,242,"Keith Urban plastic surgery: facelift, Botox, dental work, possible nose job",FAKE,FAKE
+243,243,31 Celebrity Couples So Secretive You Forgot Theyre Dating,TRUE,TRUE
+244,244,Selena Gomez kidney donor Francia Raisa reveals she 'went through a depression' after transplant,FAKE,TRUE
+245,245,Which Suits Stars Attended the Royal Wedding?,TRUE,TRUE
+246,246,You can spend a night in the house the original 'Scream' was filmed in,TRUE,TRUE
+247,247,All the Clues That Billie Lourd and Ex Austen Rydell Are Back Together,TRUE,TRUE
+248,248,Did Mariah Carey Pay Bryan Tanaka To Get Back Together With Her?,FAKE,FAKE
+249,249,"Stick-Thin & Wasting Away! 150-Lb Jim Carrey Dieting To Death, Pals Fear",FAKE,FAKE
+250,250,"Pro Surfer, 16, Dies Trying to Catch a Wave in Barbados During Hurricane Irma",TRUE,TRUE
+251,251,You will have nightmares after watching Selena Gomez in this horror video,TRUE,TRUE
+252,252,6 Times Comedian Patti Harrison Has Poked Fun at Trump & Transphobic People,TRUE,TRUE
+253,253,Myanmar dam overflow displaces thousands,FAKE,TRUE
+254,254,"Golden Globes 2018 review: Seth Meyers, Oprah Winfrey hit all the right notes",TRUE,TRUE
+255,255,Meet the in-laws! A guide to the Baldwin and Bieber families,TRUE,TRUE
+256,256,Ed Sheeran and Beyonce Knowles Performing Together,TRUE,TRUE
+257,257,Ian Somerhalder and Paul Wesley had a Vampire Diaries reunion,TRUE,TRUE
+258,258,"7 Questionable Details About Taylor Swift And Joe Alwyn's Relationship, Including Her ""Military-Like Mission"" To Keep It Under Wraps",FAKE,FAKE
+259,259,Miley Cyrus  Seth Rogen  James Franco Arrested For Plot To Donald Trump  Fake,FAKE,FAKE
+260,260,"Drake, Rihanna, Beyonce & The Weeknd Dominate First Round of 2017 Billboard Music Awards Nominees",TRUE,TRUE
+261,261,Travis Scott Thrilled His Baby Mama Kylie Jenner Is Nearly A Billionaire,FAKE,FAKE
+262,262,Justin Theroux Had Reservations About Marrying Jennifer Aniston,FAKE,FAKE
+263,263,"Macklemores new video starring his 99-year-old grandma is Glorious, fans declare | Charlotte Observer",TRUE,TRUE
+264,264,American Music Awards 2017: Linkin Park Dedicates Win to Chester Bennington,TRUE,TRUE
+265,265,Bill Cosby jurors give conflicting accounts of deadlock,FAKE,TRUE
+266,266,Meghan Markle Won't Have a Maid of Honor at Royal Wedding,TRUE,TRUE
+267,267,Olivia Munn Recreates Meghan Markle's Famous Photo of Her Teen Self Outside Buckingham Palace,TRUE,TRUE
+268,268,"I tried Kim Kardashians diet for two weeks, and the results werent what I expected",FAKE,TRUE
+269,269,"Happy birthday, Kathie Lee! See Kris Jenner and Craig Fergusons sweet messages",FAKE,TRUE
+270,270,Chance The Rapper Wants HBO To Cancel Real Time With Bill Maher After N-Word Controversy,TRUE,TRUE
+271,271,The Leftovers Secret Weapon: How Mimi Leder Revamped Season 2,TRUE,TRUE
+272,272,Andrew Garfield Faces Backlash After Saying 'I Am a Gay Man Right Now Just Without the Physical Act',TRUE,TRUE
+273,273,Jason Momoa Adorns the Cover of American Ways November Issue,FAKE,TRUE
+274,274,"Brad Pitt opens up about Jennifer Aniston split, Angelina Jolie",TRUE,FAKE
+275,275,Kerry Washington Was Too Cute At Her Scandal Co-Star's Baby Shower,TRUE,TRUE
+276,276,Shakira postpones El Dorado world tour again amid vocal cord problems,TRUE,TRUE
+277,277,The Aaliyah x MAC Product Tease Is as Sultry as a '90s R&B Video,TRUE,TRUE
+278,278,Kendall and Kylie Jenner's Tupac T-Shirt Lawsuit Has Been Dropped,FAKE,TRUE
+279,279,Ariana Grande leads support for victims of London terror attack,FAKE,TRUE
+280,280,Teresa Giudice Says Sofia Vergara Should Be Nice Because She's an Immigrant,TRUE,TRUE
+281,281,What is your go-to Karaoke song? : AskReddit,TRUE,TRUE
+282,282,Jamie Foxx Spotted Visiting Katie Holmes in N.Y.C. Amid a Romantic Summer,FAKE,FAKE
+283,283,3 Celebrity Denim Trends at Coachella 2018 That You Can Rock ASAP,TRUE,TRUE
+284,284,The Claws Are Out! Mila Kunis Nasty Bad Moms Feud With Leslie Mann Explodes,FAKE,FAKE
+285,285,Kathryn Dennis Goes Head-to-Head with Thomas Ravenel's New Girlfriend in Southern Charm Trailer,TRUE,TRUE
+286,286,Jennifer Lawrence: Bad reviews of mother! hurt my relationship with Darren Aronofsky,TRUE,TRUE
+287,287,"Together, Meghan Markle and Prince Harry will be worth about $30 million  and none of that money belongs to the crown",TRUE,FAKE
+288,288,Kendall Jenner and Blake Griffin Close to Break Up,FAKE,FAKE
+289,289,Sex and the Citys Kristin Davis Just Re-Ignited an Ongoing Cast Feud,TRUE,TRUE
+290,290,"Here's How Much Meghan Markle's Wedding Dress Costs, According to Stylists",TRUE,TRUE
+291,291,10 Things Kylie Jenner Did to Get the Body She Has Now,TRUE,TRUE
+292,292,Bruce Willis,TRUE,TRUE
+293,293,"Diana, Our Mother: Her Life And Legacy",TRUE,TRUE
+294,294,Whoopi Goldberg Wasnt Coming Back to The View Until Someone Changed Her Mind,TRUE,TRUE
+295,295,Bonner Bolton Explains That Unintentional Grab of DWTS Partner Sharna Burgess,TRUE,TRUE
+296,296,Scott Disick & Younes Bendjimas Awkward Run-In At Xmas Party: There Was Definite Tension,FAKE,FAKE
+297,297,Meghan Markle's pregnancy plans are her businessand nobody else's,FAKE,FAKE
+298,298,Brad Pitt and Jennifer Aniston film plans: Are they really 'REUNITING on screen'?,FAKE,FAKE
+299,299,Nicole Kidman and Meryl Streep at war on set,FAKE,FAKE
+300,300,Jennifer Lopez Jokingly Reveals the One Thing Alex Rodriguez Could Do to End Their Relationship,TRUE,TRUE
+301,301,Ashley Grahams Makeup Artist Reveals an Important Beauty Hack,TRUE,TRUE
+302,302,"Comic-Con 2017: 5 Things to Know About the Panels, Celebs and Sneak Peeks You Shouldn't Miss",TRUE,TRUE
+303,303,Robert Downey Jr. Refuses To Appear On Conan OBriens Talk Show Over Jokes?,FAKE,FAKE
+304,304,Jessica Simpson Is Pregnant Again  Report,FAKE,FAKE
+305,305,Hugh Jackman burst stitch open singing in 'The Greatest Showman',TRUE,TRUE
+306,306,Ellen DeGeneres and Portia de Rossi Exchange Loving Anniversary Tributes in Celebration of Nine Years of Marriage,FAKE,TRUE
+307,307,Miley Cyrus Reunites With Best Friend Lesley Patterson and OMG We're Crying,TRUE,TRUE
+308,308,"Happy Birthday, Rachel McAdams! Let's Look Back at Some of Her Most Fetch Movie Lines",TRUE,TRUE
+309,309,"Billie Lourd and Taylor Lautner Break Up After 8 Months Together: 'They Are Still Friendly,' Says Source",TRUE,TRUE
+310,310,"Miley Cyrus & Liam Hemsworths Secret Wedding: The Vows, Her Dress & More  Report",FAKE,FAKE
+311,311,Martha Stewart Appears to Give Donald Trump the Middle Finger,TRUE,TRUE
+312,312,Roseanne Barr Kept an Iconic Prop From Roseanne...And Didn't Bring it Back for the Revival,TRUE,TRUE
+313,313,Justin Bieber Caught Up In Church Child Molester Scandal,FAKE,FAKE
+314,314,Lorde Finally Speaks Out About Those Jack Antonoff Dating Rumors,TRUE,TRUE
+315,315,The Weeknd and Bella Hadid Reportedly Spotted 'Kissing All Night' at Coachella,TRUE,TRUE
+316,316,Christina Aguilera Brought a Met Gala-Worthy Train to Billboard Music Awards  L.A. STYLE Magazine,TRUE,TRUE
+317,317,Taylor Swift Wins Countersuit Against DJ David Mueller In Groping Trial,FAKE,TRUE
+318,318,"Brad Pitt Talks Divorce, Quitting Drinking, and Becoming a Better Man",TRUE,FAKE
+319,319,New Tonight,TRUE,TRUE
+320,320,Jennifer Aniston Didnt Spend $100K On Makeover Months After Justin Theroux Split,FAKE,FAKE
+321,321,The End of Live With Kelly and Michael': A Timeline (Photos),TRUE,TRUE
+322,322,I get uncomfortable and insecure Khloe Kardashians pregnancy sex struggle,TRUE,FAKE
+323,323,Tiffany Haddish Role-Plays Her First Date with Brad Pitt,FAKE,TRUE
+324,324,"Casey Affleck Gets in Car Accident, Brings Cop Who Helped Him to Jimmy Kimmel Live",TRUE,TRUE
+325,325,Emmy Awards 2018: Heres a list of the winners and nominees,TRUE,TRUE
+326,326,Famously Single-Season 2: Is Anyone Else Watching?,TRUE,TRUE
+327,327,Chrissy Teigen Recalls Meltdown on John Legends Video Set,TRUE,TRUE
+328,328,Victoria's Secret Models Break Down Their Favorite Instagram Poses,TRUE,TRUE
+329,329,Oprah Winfrey Biography,TRUE,TRUE
+330,330,The Best Beauty Looks From New York Fashion Week,TRUE,TRUE
+331,331,Khloe Kardashian Fuels Baby Rumors With Pregnancy Pillow Photo,TRUE,TRUE
+332,332,KFC Runs Out of Gravy One Week After Suffering a Chicken Shortage,TRUE,TRUE
+333,333,April (giraffe),TRUE,TRUE
+334,334,Red-Carpet Hair & Makeup Trends,TRUE,TRUE
+335,335,'Good riddance': Celebrities react to the death of Charles Manson,FAKE,FAKE
+336,336,Ariana Grande performs new single with Jimmy Fallon's Nintendo Labo instruments,TRUE,TRUE
+337,337,"Bankrupt Teresa Giudice's $90,000 Lexus SUV gift 'because she needs a car'",FAKE,TRUE
+338,338,How Kim Zolciak-Biermann Reacted to NeNe Leakes' Roach-Themed Halloween Costume,TRUE,TRUE
+339,339,5 Things to Know About Amber Portwood's New Boyfriend,TRUE,TRUE
+340,340,Sense8 will return from Netflix cancellation in 2018 with a surprise two-hour special,TRUE,TRUE
+341,341,Laura Prepon Welcomes First Child With Fiance Ben Foster,TRUE,TRUE
+342,342,Oprah Leaves Super Fan Tiffany Haddish In Tears After Surprising Her On Ellen  Watch,TRUE,TRUE
+343,343,Robert Pattinson & Kristen Stewart Would Love To See A Twilight Reboot After 10th Anniversary,FAKE,FAKE
+344,344,"Princess Charlotte is the boss at home, the queen reveals",TRUE,TRUE
+345,345,Why kate hudson thinks oprah winfrey's weight loss journey is so important:,TRUE,TRUE
+346,346,Nelly speaks out on rape: 'I am completely innocent',TRUE,TRUE
+347,347,Kate Middleton Was Pretty in Pink for Trooping the Color Celebrations,TRUE,TRUE
+348,348,Revealing Insights Into Kate Middletons Relationship With the Royal Family,TRUE,TRUE
+349,349,Was Kanye involved with Amanda Lepore before Kim K.?,FAKE,FAKE
+350,350,"Jessica Simpson Does NOT Spend $100,000 Per Month On Food Delivery, Despite Report",FAKE,FAKE
+351,351,"How much has Luis Fonsi earned with his hit ""Despacito""?",TRUE,TRUE
+352,352,R. Kellys Ex Says He Trained a Girl Be His Sex Slave,TRUE,TRUE
+353,353,"'Gossip Girl' Star Ed Westwick Accused of Rape, Actor Denies Claim",TRUE,TRUE
+354,354,Jill Zarin to make her RHONY return,TRUE,TRUE
+355,355,"It looks like Justin Bieber and Selena Gomez are back together, and their fans are losing it",FAKE,FAKE
+356,356,"Relive Jessie James Decker and Eric Decker's Sexiest Eric & Jessie Moments: Makeout Sessions, Bubble Baths and More!",TRUE,TRUE
+357,357,Nick Viall: Why January Jones Turned Down Her Bachelor Crush's Offer,TRUE,TRUE
+358,358,Cheryl Burke From Dance Moms Commends Gymnasts For Speaking Out Against Larry Nassar,TRUE,TRUE
+359,359,Kanye West Steps Out in a 'Make America Great Again' Cap Despite Backlash Over Pro-Trump Tweets,TRUE,TRUE
+360,360,Life-Size the sequel is happening and Tyra Banks is on board,TRUE,TRUE
+361,361,"Before You See Jurassic World: Fallen Kingdom, You Need to Watch This Rap Recap",TRUE,TRUE
+362,362,Dance Moms reportedly cancelled due to Abby Lee Miller's cancer diagnosis,TRUE,TRUE
+363,363,All the Details on Pippa Middleton's Wedding!,TRUE,TRUE
+364,364,How to perform a Satanic Destruction Ritual  Ali Kellog  Medium,FAKE,TRUE
+365,365,Mila Kunis Admits Daughter Wyatt Has 'No Clue What I Do for a Living': 'I Clearly Don't Make Movies for Children',TRUE,TRUE
+366,366,"Lili Reinhart Opens Up About Her Relationship With Cole Sprouse, Why She Won't Always Stop For Fans And Her Thoughts On Riverdale Season 3",TRUE,TRUE
+367,367,Kelly Ripa Shares Anniversaries With Mark Consuelos and Ryan Seacrest,TRUE,TRUE
+368,368,Eliza Dushku Says True Lies Stunt Coordinator Sexually Assaulted Her When She Was 12,TRUE,TRUE
+369,369,Are Taylor Swift & Tom Hiddleston Still Friends? It Sounds Like Their Split Was Amicable,FAKE,FAKE
+370,370,Jude Law Makes Debut as Dumbledore in Fantastic Beasts: The Crimes of Grindelwald First Trailer,TRUE,TRUE
+371,371,Keith Urban,FAKE,TRUE
+372,372,"Which ""Sisterhood Of The Traveling Pants"" Character Are You?",TRUE,TRUE
+373,373,Essence $5 Drugstore Mascara Is Better Than More Expensive Options,TRUE,TRUE
+374,374,The Kardashians Having a Hard Time With Khlo Forgiving Tristan Thompson's Cheating Khloe,TRUE,TRUE
+375,375,Are Amy Schumer and John Mayer Dating?,FAKE,FAKE
+376,376,WATCH: Bryan Cranston is the (super creepy) Elf on the Shelf,TRUE,TRUE
+377,377,Kim and Khloe Kardashian Talk Blac Chyna and Rob Legal Drama,TRUE,TRUE
+378,378,"Kylie Jenner named her baby Stormi, and revealed her last name",TRUE,TRUE
+379,379,"Heres Who *Should* Win Game of Thrones, According to Science",TRUE,TRUE
+380,380,Property Brothers: J.D. Scott is former Adam Lambert impersonator,TRUE,TRUE
+381,381,Selena Gomez Hoping Justin Bieber Will Spend Christmas With Her & Her Family,FAKE,FAKE
+382,382,New Girl Season 7: Zooey Deschanel on Ending the Fox Series  Variety,TRUE,TRUE
+383,383,"Amazon.com: Watch Wags: Miami, Season 1",TRUE,TRUE
+384,384,Which Real Housewives of Beverly Hills Have Reached Out to Departing Eden Sassoon? - The Real Housewives,TRUE,TRUE
+385,385,Liam Hemsworth pictured with Eiza Gonzales on same day he confirms Miley Cyrus split,TRUE,FAKE
+386,386,"TV Ratings: Emmy Awards Hit New Viewership Low, Drop 11% From 2017",TRUE,TRUE
+387,387,This Is How Kate Hudson's 7-Inch Golden Globes Haircut Came About,FAKE,TRUE
+388,388,"Jessie James Decker Teases Christmas Music, New Album & Song ""Use Your Words"" About ""Quiet"" Husband Eric",TRUE,TRUE
+389,389,MTV Movie & TV Awards 2017: Adam DeVine to Host,TRUE,TRUE
+390,390,Jennifer Aniston 'selling Bel-Air home' after split,FAKE,FAKE
+391,391,Johnny Depp looks unrecognisable... but we finally know why!,FAKE,TRUE
+392,392,Brittany Cartwright Still Gets Emotional When She Talks About Jax Taylor's Cheating,TRUE,TRUE
+393,393,Real Housewives of Beverly Hills Recap: Bethenny and Lisa Go Head to Head,TRUE,TRUE
+394,394,"Inside the marriage of Beyonc and Jay-Z, who sport matching ring finger tattoos, weathered a cheating scandal, and are worth over $1 billion",FAKE,TRUE
+395,395,John Legend and Chrissy Teigen Would 'Like to' Have Another Baby: 'We Can Do Three',TRUE,TRUE
+396,396,'Clueless' star Stacey Dash withdraws from congressional race,TRUE,TRUE
+397,397,Wallis Simpson,TRUE,TRUE
+398,398,"Jennifer Aniston and Brad Pitt are both single, so will they get back together?",FAKE,FAKE
+399,399,Could Charlize Theron Get A Role In 'Wonder Woman 2'?,FAKE,TRUE
+400,400,Kylie Jenner Couldn't Look More Like Kris Jenner In Her Latest Sunglasses Campaign If She Tried,TRUE,TRUE
+401,401,"Bobby Moynihan: Leaving Saturday Night Live For Me, Myself & I About Becoming An Adult And Moving On",TRUE,TRUE
+402,402,VOTE NOW: MET Gala 2017 - Worst Dressed Celebs,TRUE,TRUE
+403,403,Kylie Jenner Backup Plan Travis Scott Absence,FAKE,FAKE
+404,404,Kerry Washington's Go-to Pregnancy Workout Was Water Aerobics,TRUE,TRUE
+405,405,Emma Watson donates 1 million to anti-sexual harassment campaign,TRUE,TRUE
+406,406,Is The Weeknd Still in Love With Bella Hadid? Decode the Lyrics,TRUE,TRUE
+407,407,Sarah Michelle Gellar,TRUE,TRUE
+408,408,"Jennifer Lawrence, Ryan Reynolds and More Onscreen Superheroes Reveal the Perils of Peeing in Costume",TRUE,TRUE
+409,409,24 Celebrities On Their Skincare Routines,TRUE,TRUE
+410,410,Jessica Simpson Diet Or Die Crisis,FAKE,FAKE
+411,411,Camila Cabello and dating coach beau Matthew Hussey pictured in Venice,TRUE,TRUE
+412,412,Rebel Wilson defends Vogue Australia cover after fans claim images were 'slimmed down',TRUE,TRUE
+413,413,"Gwen Stefani Hints That Blake Shelton Is Her ""Forever"" Man",TRUE,FAKE
+414,414,"Louis Tomlinson Talks To Andy Cohen About Zayn Malik, Donald Trump  Listen To Interview!",FAKE,TRUE
+415,415,Kim Kardashian West Is a Manager in the Making on Kardashians,FAKE,TRUE
+416,416,Ryan Seacrest to Host American Idol Revival  Variety,TRUE,TRUE
+417,417,Ariana Grande Gets Tattoo Remembering Pete Davidson's Dad,TRUE,TRUE
+418,418,Chris Cornells Daughter Pens Heartbreaking Letter To Her Idol And Dad,TRUE,TRUE
+419,419,Sophia Bush Lashes Out About 'One Tree Hill' Convention in Defense of Hilarie Burton,TRUE,TRUE
+420,420,Today (U.S. TV program),TRUE,TRUE
+421,421,Sadie Robertson Confesses her Celebrity Crush on Justin Bieber,TRUE,TRUE
+422,422,Journal of Popular Music Studies,TRUE,TRUE
+423,423,Taylor Swift Shades Kim Kardashian and Serenades Joe Alwyn in Reputation Tour Opener,TRUE,TRUE
+424,424,Nick Jonas Shares Sexy Pic with Demi Lovato For Her Birthday,TRUE,TRUE
+425,425,Is Kate Middleton having twins? Prince William had this to say - what is the likelihood?,FAKE,FAKE
+426,426,TBT: See Photos of Paris Hilton and Kim Kardashian When They Were Friends,FAKE,TRUE
+427,427,Guess how much Alec Baldwin makes per episode for his Donald Trump impression on Saturday Night Live,TRUE,TRUE
+428,428,"Telemundos Todos Unidos"" Prime Time Special Adds The Support Of Jennifer Lopez, Chyno, Kate Del Castillo, Luis Fonsi, Rafael, Prince Royce, Alejandro Sanz, Roberto Tapia, Thalia And Daddy Yankee In ",TRUE,TRUE
+429,429,Whitney Port gets honest about her pregnancy body struggle,TRUE,TRUE
+430,430,Tyra Banks is Personally Spearheading the Campaign to Get Tiffany Haddish to Host the Oscars,TRUE,TRUE
+431,431,Joanna Krupa engaged 7 months after finalizing her divorce,TRUE,TRUE
+432,432,"'Glee' actor Mark Salling, who pleaded guilty to child porn, found dead by apparent suicide",TRUE,TRUE
+433,433,"Actress Brigitte Nielsen, 54, has given birth to her fifth child",TRUE,TRUE
+434,434,NCIS Renewed For Next Season By CBS As Star & EP Mark Harmon Inks New Deal,TRUE,TRUE
+435,435,Brad Pitt Didn't Use Custody Negotiations To Get Back With Angelina Jolie,FAKE,FAKE
+436,436,Fergie Addresses Plastic Surgery Rumors In Cosmo UK,FAKE,FAKE
+437,437,Eric Benet 'confronted JAY-Z for a fight over 4:44 lyrics',FAKE,TRUE
+438,438,Alex Rodriguez Already Picked Out Jennifer Lopez's $3 Million Engagement Ring (EXCLUSIVE),FAKE,FAKE
+439,439,Megyn Kelly asks Jane Fonda about plastic surgery; schooling ensues,FAKE,TRUE
+440,440,Ariana Grande Gives Surprise Performance at Coachella Amid Comeback,TRUE,TRUE
+441,441,10 Best-Dressed Stars at the 2018 Kids Choice Sports Awards,TRUE,TRUE
+442,442,Jennifer Aniston is 'furious' over Selena Gomez and Justin Theroux dating rumors,FAKE,FAKE
+443,443,Meghan Markle and Prince Harry Reportedly Cut Down Their Wedding Guest List,TRUE,FAKE
+444,444,Jennifer Garner's 'Pretend Cooking Show' is making us pretty hungry,TRUE,TRUE
+445,445,"Usher responds to herpes lawsuit, denies he exposed plaintiffs to STD",TRUE,TRUE
+446,446,Our New Celebrity Hairstyle Crush: The Half Bun,TRUE,TRUE
+447,447,Mariah Careys Boy Toy Demands Big Bucks To Continue Reality Romance,FAKE,FAKE
+448,448,These are all the Veterans Day weekend sales you need to know about,TRUE,TRUE
+449,449,"Kentucky Derby 2018 Brings Out Tara Lipinski, Pentatonix, Johnny Weir and More Stars",TRUE,TRUE
+450,450,From Sweet Pecks to Miniature Ponies: Revisit Kaley Cuoco and Karl Cook's Romance in Pictures,TRUE,TRUE
+451,451,Shakira recalls first time she met Gerard Pique in new song,TRUE,TRUE
+452,452,The X Factor (UK series 5),FAKE,TRUE
+453,453,"Of course, the Oscars had plenty of political moments",FAKE,TRUE
+454,454,The Crown Season 2 Trailer Puts Queen Elizabeth and Prince Philip Drama Front and Center,TRUE,TRUE
+455,455,Controversial 'Bachelor' Arie Luyendyk Jr. Reveals Wedding Won't Be Televised,TRUE,TRUE
+456,456,Latest News on Fired NBC Today Show Anchor,FAKE,FAKE
+457,457,"After Avoiding the Sophomore Slump, This Is Us Is NBCs Best Hope to Maintain Its Demo Lead",TRUE,TRUE
+458,458,Laurence Fishburne Net Worth,TRUE,TRUE
+459,459,Teen Mom: Catelynn Lowell and Tyler Baltierra Expecting Third Child,TRUE,TRUE
+460,460,Kourtney Kardashians Go-To Moisturizer Is Sold Every 15 Seconds,TRUE,TRUE
+461,461,House of Cards' Claire Underwood Declared Her Independence and Fans Loved Every Second of It,TRUE,TRUE
+462,462,Gwyneth Paltrow has the most organized playroom we've ever seen,TRUE,TRUE
+463,463,Plan A Wedding And Get Matched With A Celebrity Groom!,TRUE,TRUE
+464,464,Taylor Swift's Lack Of Promotion Around 'Reputation' Highlights How Powerful She Really Is,TRUE,TRUE
+465,465,"Daisy Ridley on porgs, Kylo Ren and more 'Star War: The Last Jedi' teasers",TRUE,TRUE
+466,466,"Happy Birthday, Emma Stone! Raise a Glass to Her Most Unfiltered Moments",TRUE,TRUE
+467,467,"Linkin Park Reflects on ""Grief"" and ""Heartbreak"" 1 Year After Chester Bennington's Death",TRUE,TRUE
+468,468,Lucy Hale and Ryan Rottman spark dating rumors,TRUE,TRUE
+469,469,Halloweentown's Kimberly J. Brown and Daniel Kountz Are Officially Dating,TRUE,TRUE
+470,470,Lena Dunham Cuddles Up to Smiling Ex Jack Antonoff in Cozy Selfie: Best Friends 4ever',TRUE,TRUE
+471,471,Jackie Chan's Estranged Daughter Etta Ng Comes Out as a Lesbian in Emotional Instagram Post,TRUE,TRUE
+472,472,Kate Middleton Is in Labor With Royal Baby No. 3!,TRUE,TRUE
+473,473,Nick Jonas took a $2.75 subway ride to the fancy Met Gala,TRUE,TRUE
+474,474,Selena Gomez Accepts 'Woman of the Year' at Billboard Women in Music 2017: 'I Respect the Platform That I Have So Deeply',TRUE,TRUE
+475,475,"Jennifer Lopez, Alex Rodriguez Paris Getaway Cost $350,000: See Break Down Of Expenses",TRUE,FAKE
+476,476,Watch Bill Hader Impersonate Harry Styles Pumping Iron at the Gym,TRUE,TRUE
+477,477,Oprahs BFF Gayle King Says Presidential Run In 2020 Is Intriguing,TRUE,FAKE
+478,478,"The Flash Is Lightening Up for Season 4 (Yes, Really!)",TRUE,TRUE
+479,479,Review: 'The Marvelous Mrs. Maisel' rides Emmy wins to a spitfire of a second season,TRUE,TRUE
+480,480,Sam Asghari - News,FAKE,FAKE
+481,481,Britney Spears and Justin Timberlake Are Collaborating on New Music and We Are Crying a River (REPORT),FAKE,FAKE
+482,482,Kelly Clarkson Meeting Khalid on Grammys 2018 Red Carpet,TRUE,TRUE
+483,483,"Janet Jackson Lost 70 Pounds, and Her Workout Regime Is Surprisingly Reasonable",TRUE,TRUE
+484,484,Dynasty Reboot on CW: How Its Different From Original  Variety,TRUE,TRUE
+485,485,Brad Pitt Good Education,FAKE,FAKE
+486,486,'Big Brother' Winner Dan Gheesling Welcomes Baby No. 2 -- See the Pic!,TRUE,TRUE
+487,487,"Janelle Monae's ""PYNK"" Video Teaches an Accurate Lesson on Vagina Anatomy",TRUE,TRUE
+488,488,Teen Mom 2 Star Briana DeJesus Gives Birth to Her Second Daughter,TRUE,TRUE
+489,489,Gabriel Macht Net Worth (House Cars Income Salary 2018),TRUE,TRUE
+490,490,Kylie Jenner sneers that 'everyone is jealous' of her post baby body after being slammed for promoting 'dangerous' waist trainers,FAKE,FAKE
+491,491,Kanye West to forgive mom's final surgeon with album cover tribute,TRUE,FAKE
+492,492,Relive Kaia Gerbers First New York Fashion WeekA Total Teenage Dream,TRUE,TRUE
+493,493,"Don't worry, Chris Brown has explained why he was photographed with his hands around a woman's neck",TRUE,TRUE
+494,494,Ryan Lochte Told by 'Hollywood Medium' His Late Grandfather Watched Over Him at the Olympics,TRUE,TRUE
+495,495,Blake Shelton & Gwen Stefani Stronger Than Ever After Miranda Lamberts New Romance,FAKE,FAKE
+496,496,"Gwen Stefani Dishes on New Baby and ""The Voice"" Gig",FAKE,FAKE
+497,497,Justin Bieber and Selena Gomez Taking Some SpaceBut Dont Call It a Breakup via E! News,TRUE,FAKE
+498,498,Demi Lovato exhibited warning signs in days leading up to apparent overdose,TRUE,TRUE
+499,499,Pete Davidson Gives His Pendant of Late Father's FDNY Badge to Ariana Grande,TRUE,TRUE
+500,500,The 9 Best Party Hotels in Los Angeles,TRUE,TRUE
+501,501,Sarah Hyland and Boyfriend Wells Adams Met Through Social Media,TRUE,TRUE
+502,502,Major Ultimatum! Jay-Z REFUSES To Allow Solange Knowles Inside Beyonce's Delivery Room,FAKE,FAKE
+503,503,Timothe Chalamet on how the Time's Up movement resonates with young men,TRUE,TRUE
+504,504,Sarah Paulson defends romance with partner Holland Taylor,TRUE,TRUE
+505,505,Robert Pattinson Says Directors Wanted Him to Perform Bestiality New Movie,FAKE,FAKE
+506,506,We Now Know the Real Reason Bethenny Frankel and Carole Radziwill's Drama Began,TRUE,TRUE
+507,507,"Kate Hudson Denies Ever Dating Brad Pitt, Once and for All",FAKE,FAKE
+508,508,Why Allison Janney Is the Champion of 2018 Red Carpet Style - Parker XL,TRUE,TRUE
+509,509,"Michelle Williams on Reshooting ""All the Money in the World"" with Christopher Plummer",TRUE,TRUE
+510,510,Kourtney Kardashian Pregnant With Baby 4,FAKE,FAKE
+511,511,Adam Rippon Shoots Down Hope for Appearance at 2022 Olympics,TRUE,TRUE
+512,512,My 8 Favorite Books About Female Friendship,TRUE,TRUE
+513,513,Box Office: Why 'Fifty Shades Freed' Is Already A Huge Hit,TRUE,TRUE
+514,514,Kim Kardashian West Sent Chicago West to Cleveland to Stay with True & Khlo Kardashian,TRUE,TRUE
+515,515,Kim Kardashian's Robbery: Burning Questions Answered,FAKE,TRUE
+516,516,Trailer Watch: Friendships Are At Stake in Season 6 of Orange Is the New Black,TRUE,TRUE
+517,517,Rachel Bilson Buys $3.25 Million Mansion After Hayden Christensen Split,TRUE,TRUE
+518,518,Kendall Jenner Channels Kim Kardashian at the 2018 Met Gala,TRUE,TRUE
+519,519,The alleged reason behind Chris Pratt and Anna Faris' devastating divorce can teach couples a big lesson,TRUE,FAKE
+520,520,Honestly Chic! Shop 15 Outfits from Jessica Alba's California Casual Pregnancy Style,TRUE,TRUE
+521,521,Liam Gallagher disses One Direction star Liam Paynes solo career,TRUE,FAKE
+522,522,The Grammy Awards,TRUE,TRUE
+523,523,Crazy Ex-Girlfriend's Rachel Bloom Answers Questions About the Final Season in Song (And Things Take a Turn) : crazyexgirlfriend,TRUE,TRUE
+524,524,How To Find YOUR Perfect Pair Of Overalls,TRUE,TRUE
+525,525,The Secrets Behind Shakira's 'El Dorado' World Tour Prep,TRUE,TRUE
+526,526,Law & Order True Crime: The Menendez Murders Trailer Drops,TRUE,TRUE
+527,527,The pregnancy tradition Kate Middleton was not allowed to have - will Meghan Markle be?,TRUE,FAKE
+528,528,Tyga's Dinner Date Jordan Ozuna Breaks Her Silence on Those Romance Rumors,TRUE,TRUE
+529,529,"Oscars: ABC Apologizes for Naming Amy Adams, Tom Hanks as Nominees  Variety",FAKE,TRUE
+530,530,"John Mayer's video for 'New Light' is so bad, it's good",TRUE,TRUE
+531,531,WWE 'Total Divas' Star Nikki Bella on Twin Sister Brie's Pregnancy,TRUE,TRUE
+532,532,"Channing Tatum News, Movies, Instagram and Jenna Dewan Split",TRUE,TRUE
+533,533,Google News,FAKE,TRUE
+534,534,R.C. HOSPITAL BOARD MEETING REPORT,TRUE,TRUE
+535,535,Is Angelina Jolie Getting Married Again After Brad Divorce? Reportedly Planning Wedding #4,FAKE,FAKE
+536,536,Shailene Woodley considers future run for Congress,TRUE,TRUE
+537,537,'Bachelor in Paradise' Newlyweds on Getting Married During the ABC Show's Shutdown,TRUE,TRUE
+538,538,I Am Elizabeth Smart,TRUE,TRUE
+539,539,Colton Underwood is the new Bachelor. Heres why some viewers arent happy.,TRUE,TRUE
+540,540,'Riverdale' Star in Late-Night Car Crash After Working 16-Hour Day,TRUE,TRUE
+541,541,Justin Bieber & Selena Gomez: Their Time Apart Is Driving Him Crazy,FAKE,FAKE
+542,542,"Sophia Bush started screaming in public when she was cast in Incredibles 2  and honestly, that's relatable",TRUE,TRUE
+543,543,How Much Does Rachel Lindsay's Engagement Ring Cost? 'The Bachelorette' Spares No Expense For True Love,TRUE,TRUE
+544,544,XXXTentacion death: Last suspect arrested in slaying of rapper,TRUE,TRUE
+545,545,"Critics Choice Awards 2018: Margot Robbie wins best actress for I, Tonya",TRUE,TRUE
+546,546,Who Is Angelina Jolie's Boyfriend? New Details On The New Mystery Man She's Been Spotted With,FAKE,FAKE
+547,547,Katie Couric selling lavish Park Ave. apartment for $8.25M,TRUE,TRUE
+548,548,Jennifer Lopez and Alex Rodriguez Show Major PDA in NYC: See the Pic!,TRUE,TRUE
+549,549,Atlanta Magazine,FAKE,TRUE
+550,550,Scarlett Johansson and Her Rough Night Co-Stars Imagine Your Favorite Celebs as Strippers,TRUE,TRUE
+551,551,George Clooney helped Brad Pitt and Jennifer Aniston get back together,TRUE,FAKE
+552,552,Amber Tamblyn Says She's 'Very Shaken' After a Car Tried to 'Hit' Her and Her Baby in N.Y.C.,TRUE,TRUE
+553,553,"Ashton Kutcher and Mila Kunis Announce Their Divorce, Reason: Jealousy in their married life, career  Married Biography",FAKE,FAKE
+554,554,Miley Cyrus Returns With New Single Nothing Breaks Like a Heart,TRUE,TRUE
+555,555,Blake Shelton: Gwen Stefani Saved My Life After Divorce,FAKE,FAKE
+556,556,"There's Even More Evidence That Caitlyn Jenner Is Dating a 21-Year-Old Model and We're Like, Get It, Girl!",FAKE,FAKE
+557,557,Is Stephen Colletti Headed to 'The Bachelor'?!,FAKE,TRUE
+558,558,7 Celebrity Hairstyles to Wear on a Hot Summer Day,TRUE,TRUE
+559,559,Demi Lovato Gives Us Serious Princess Protection Program Vibes on Ellen,TRUE,TRUE
+560,560,"Gilmore Girls Video: Lauren Graham, Alexis Bledel Talk Possibility of Second Revival, Reflect on Baby Twist",TRUE,TRUE
+561,561,Ellen DeGeneres And Portia De Rossi Are Making Last-Ditch Effort To Save Marriage Amid Divorce Rumors,FAKE,FAKE
+562,562,Anna Wintour's daughter Bee Shaffer debuts engagement ring,TRUE,TRUE
+563,563,Are Katie Holmes & Jamie Foxx Expecting A Baby? New Report Claims They Want To Start A Family,FAKE,FAKE
+564,564,John Goodman Recalls Drinking at Work While Battling Alcoholism,TRUE,TRUE
+565,565,Kesha discusses moment Jerry Seinfeld rejected her hug,TRUE,TRUE
+566,566,Did Demi Lovato Get Engaged?,FAKE,TRUE
+567,567,SVU Renewed for Season 20 at NBC,TRUE,TRUE
+568,568,Shonda Rhimes,TRUE,TRUE
+569,569,David & Victoria Beckham Reportedly Living 'Separate Lives',FAKE,FAKE
+570,570,Kendra Duggar Gives Birth to First Child With Joseph Duggar,TRUE,TRUE
+571,571,Paris Jackson Denies Relationship With Trevor Donovan,FAKE,TRUE
+572,572,A Look Inside Each of Kim Kardashians Three Marriages,TRUE,TRUE
+573,573,Oscars 2018: Best Original Song nominees,TRUE,TRUE
+574,574,Taylor Swift Has Supposedly Set Up Five-Star Restaurants In Her Homes For Romantic Dinners With BF Joe Alwyn!,FAKE,FAKE
+575,575,Spice Girls 'reunion is cancelled again',FAKE,TRUE
+576,576,Ed Sheeran Insists He Didn't Really Quit Twitter  He Just Stopped Reading Tweets About Himself,TRUE,TRUE
+577,577,Kashing In! Kim & Kanye Go On INSANE Shopping Spree After Signing Million Dollar Deal,FAKE,FAKE
+578,578,Grey's Anatomy Introduces Station 19 Leading Lady Andy Herrera - Parker XL,TRUE,TRUE
+579,579,Kate Had Pickles Delivered To Kensington Palace To Satisfy Pregnancy,FAKE,FAKE
+580,580,Interview Gets Awkward When Nicole Kidman Is Asked About Another Man In Front Of Keith Urban,TRUE,FAKE
+581,581,"Madison Beer denies dating Brooklyn Beckham but admits they're ""having fun right now""",TRUE,TRUE
+582,582,Tristan Thompson,TRUE,TRUE
+583,583,Jonathan Rhys Meyers' wife Mara reveals miscarriage news,TRUE,TRUE
+584,584,Pregnant Khloe Kardashian fires back at haters who criticise her workout regime - 'They're cleared and highly recommended!',TRUE,TRUE
+585,585,Aaliyahs 90s Fashion Is Back on Trend?Shop Her Looks! | EOnline,TRUE,TRUE
+586,586,Kate Middleton Joins Royal Family at Easter Service Days Before Due Date,TRUE,TRUE
+587,587,"News, views, gossip, pictures, video",FAKE,FAKE
+588,588,'Grey's Anatomy' Renewed for Season 15 at ABC,TRUE,TRUE
+589,589,ATTN: Juicy Couture Tracksuits Are Making a Comeback,TRUE,TRUE
+590,590,Kate Mara Laughs Off Report About Banning Rooney's Boyfriend Joaquin Phoenix from Wedding,FAKE,FAKE
+591,591,Marvel Studios: When Does Each Actor's Contract Expire?,TRUE,TRUE
+592,592,Oscar Isaac named his son after his late mother,TRUE,TRUE
+593,593,"Liam Payne Talks ''Internal Battle'' Against Cheryl Cole Over Naming Their Son Bear, and What Made Him Come Around",TRUE,TRUE
+594,594,Noah Porter-Benson,TRUE,TRUE
+595,595,Joe Jonas Has Flings With Fans Sophie Turner,FAKE,FAKE
+596,596,Kim Kardashian Is Reportedly Considering Asking Her Surrogate to Carry Another Baby for Her,FAKE,FAKE
+597,597,S.N.L.: Watch Natalie Portman Rap About Star Wars Prequels as Andy Samberg Returns,TRUE,TRUE
+598,598,Sarah Hylands Boyfriend Wells Adams Cheers Her On From Afar After She Returns Home From The Hospital,TRUE,TRUE
+599,599,Venus Williams Blamed In Fatal Car Crash That Killed 78-Year-Old Man,TRUE,TRUE
+600,600,Cardi B Steals the Spotlight in Over-the-Top Moschino Ensemble at the 2018 Met Gala,TRUE,TRUE
+601,601,Ciara posts photos from first Easter with daughter Sienna,TRUE,TRUE
+602,602,Heidi Montag talks baby struggles and 'timing',TRUE,TRUE
+603,603,Jessica Alba Loses Her Second Dog in 2 Weeks: Read Her Heartbreaking Message,TRUE,TRUE
+604,604,Kristen Stewart Opens Up About Dating Men Again In The Future,TRUE,FAKE
+605,605,HollywoodLife  s Gwen Stefani  Blake Shelton Stories Are Bullsplit,FAKE,FAKE
+606,606,"Even before Jenelle Evans gun incident, Teen Mom had a controversial history",TRUE,TRUE
+607,607,Here's What's Inside the Lunchboxes Jimmy Kimmel Gave Oscar Attendees,TRUE,TRUE
+608,608,Carrie Underwood's Husband Mike Fisher Shuts Down Divorce Rumors,TRUE,TRUE
+609,609,Jennifer Garner & Josh Duhamel Talk Parenting a Gay Teen On-Screen  SheKnows,TRUE,TRUE
+610,610,Find Out Which of The Real Housewives of Orange County Won't Be Returning,TRUE,TRUE
+611,611,Drake throws bar mitzvah-themed 31st birthday party,TRUE,TRUE
+612,612,Lindsey Vonn,TRUE,TRUE
+613,613,Fans Say Footage Shows Miley Cyrus Has A Baby Bump,FAKE,FAKE
+614,614,Kim Kardashian Forgot to Tell Scott Disick About Third Baby,TRUE,TRUE
+615,615,Briana DeJesus received some heartbreaking news about her daughter on last nights episode of Teen M,TRUE,TRUE
+616,616,NASCAR owners threaten to fire drivers who protest,FAKE,TRUE
+617,617,Zooey Deschanel and Jacob Pechenik Welcome Son Charlie Wolf,TRUE,TRUE
+618,618,Florida Georgia Line Announces Las Vegas Residency Dates,TRUE,TRUE
+619,619,Anthony Bourdain's death: Celebrity chefs 'in complete shock',TRUE,TRUE
+620,620,"Rob Kardashian, Blac Chyna Have No Co-Parenting Issues Amid Child Support War",TRUE,FAKE
+621,621,"From 'Stranger Things' to Mandy Moore, surprises and snubs from the Emmy nominations",TRUE,TRUE
+622,622,Royal silence! Thomas Markle claims Meghan has CUT HIM OFF since paparazzi scandal,FAKE,FAKE
+623,623,"Every Harrison Ford Movie, Ranked",TRUE,TRUE
+624,624,From Plunging Necklines to Red Carpet Feathers: Revisit Jessica Biel's Boldest Best Looks,TRUE,TRUE
+625,625,Royal family's first gay wedding: Queen's cousin Lord Ivar Mountbatten,TRUE,TRUE
+626,626,Taylor Swift and Katy Perry Ended Bad Blood With an Olive Branch. Heres How It Started.,TRUE,TRUE
+627,627,Chris Pratt Raps 'What's My Snack?' And It's the Best Thing You'll Watch Today (Video),TRUE,TRUE
+628,628,Vanessa Kirby shoots down Tom Cruise marriage rumors,FAKE,FAKE
+629,629,The Voice Puts Kelly Clarkson on Blast & She Admits She Made an Ass Of Herself In Front of Meryl Streep,TRUE,TRUE
+630,630,Diana: Seven Days That Shook the World,TRUE,TRUE
+631,631,Gigi Hadid's Best Runway Moments,TRUE,TRUE
+632,632,Fans React: U2 Cancels St. Louis Concert Amid Police Protests,FAKE,TRUE
+633,633,WWE Hall of Famer Nikolai Volkoff dies at age 70,TRUE,TRUE
+634,634,WAGS Atlantas Ariel Anderson Is Sick of Being Compared to Her Big Sister Kierra Douglas on WAGS Atlanta,TRUE,TRUE
+635,635,Katie Holmes and Jamie Foxx kiss in public for first time on beach date,FAKE,FAKE
+636,636,Chip Gaines used 3 simple words to shut down rumors that he and Joanna are getting divorced,TRUE,TRUE
+637,637,About Glam Masters,TRUE,TRUE
+638,638,Allison Williams Talks Importance of Time's Up Movement on 2018 SAG Awards,TRUE,TRUE
+639,639,Pippa Middleton Completed a Bridal Body Boot Camp in Advance of Her Wedding,TRUE,TRUE
+640,640,Grammy winners 2018: the complete list,TRUE,TRUE
+641,641,"Yikes! Kyle Is Furious After He Loses His Movie to Jeremy Renner on The Arrangement: ""I'm Gonna Lose My S--t""",TRUE,TRUE
+642,642,Relive Southern Charms Most Shocking Moments On and Off Camera,TRUE,TRUE
+643,643,Is A-Rod a Good Dancer? Girlfriend Jennifer Lopez Has Some Thoughts,TRUE,TRUE
+644,644,NeNe Leakes Denies Saying Porsha Williams Should Be Fired,TRUE,TRUE
+645,645,Justine Skye: 5 Fast Facts You Need to Know,TRUE,TRUE
+646,646,Selena Gomez Delights Fans at Childrens Hospital of Orange County Prom,TRUE,TRUE
+647,647,Here's How Taylor Swift Spent Fourth of July Instead of Throwing a Huge Party,FAKE,TRUE
+648,648,Erika Jaynes Christmas Gift For Her Husband May Be The Most Extra Thing You Hear All Day,TRUE,TRUE
+649,649,Live at the Apollo Hardcover Book,TRUE,TRUE
+650,650,Did Gwen Stefani Call Off Wedding To Blake Shelton Because Of 'Cheating'?,FAKE,FAKE
+651,651,"Heidi Klum, 44, confirms split from Vito Schnabel, 31",TRUE,TRUE
+652,652,"Gwyneth Paltrow, Angelina Jolie and Others Say Weinstein Harassed Them",TRUE,TRUE
+653,653,Selena Gomez & Justin Bieber Have 'Epic' New Year's Eve Plans,FAKE,FAKE
+654,654,Newly Engaged Justin Bieber Still Has His Selena Gomez Tattoo,FAKE,FAKE
+655,655,"Casey Affleck Talks #MeToo, Harassment Allegations in New Interview",FAKE,TRUE
+656,656,Chris Hemsworth's Marvel 'body of work' celebrated in shirtless montage,TRUE,TRUE
+657,657,Nicole Kidman Looks So Photoshopped On This Magazine Cover That You Wont Recognize Her,TRUE,FAKE
+658,658,John Mayer & More Male Celebs Share Their Skin-Care Favorites,TRUE,TRUE
+659,659,Luis Fonsi Says Justin Bieber Deserves a 'Pass' for Not Knowing the Lyrics to 'Despacito',TRUE,TRUE
+660,660,"Inside Julia Roberts and Danny Moders really solid, loving marriage",FAKE,FAKE
+661,661,John McEnroe: My Girls Dont Think I Can Beat Serena Williams,TRUE,TRUE
+662,662,"Fighter Jets, Dirty Jokes and a $130,000 Glass Palace: A Look Back on Pippa Middleton's Extraordinary Wedding",TRUE,TRUE
+663,663,Coco Austin,TRUE,TRUE
+664,664,"Dunkin Donuts just dropped a new hot chocolate flavor for Halloween, but TBH this feels perfect for Christmas",TRUE,TRUE
+665,665,How Star Wars: The Last Jedi Says Goodbye to Carrie Fisher,TRUE,TRUE
+666,666,Watch: Tom Holland As Batman for Spider-Man: Homecoming Auditions,TRUE,TRUE
+667,667,Camila Alves Lost Temper Over Matthew McConaughey Questions?,FAKE,FAKE
+668,668,Kim Kardashian Returns to Platinum Blonde Hair for Wedding Anniversary: 'It's Kanye's Favorite',TRUE,TRUE
+669,669,Jennifer Aniston Is Reportedly Heartbroken Over Justin Therouxs Plans To Move In With Emma Stone,FAKE,FAKE
+670,670,Look What You Made Me Do,FAKE,TRUE
+671,671,Michael J. Fox recovering from spinal surgery 'unrelated' to Parkinson's,TRUE,TRUE
+672,672,Amber Heard Says She and Ex Elon Musk 'Have a Beautiful Friendship Now' 10 Months After Split,TRUE,TRUE
+673,673,Here Are All the Winners From the 2018 Billboard Music Awards,TRUE,TRUE
+674,674,Relive Christopher Big Black Boykins Best Moments on Rob & Big,TRUE,TRUE
+675,675,The Orville Merchandise For Last-Minute Gifts,TRUE,TRUE
+676,676,Married at First Sight (Australian TV series),TRUE,TRUE
+677,677,Second Wives Club,TRUE,TRUE
+678,678,7 Lessons Feuding Pop Stars Can Learn From Real Housewives - E! Online,TRUE,TRUE
+679,679,Kendall & Kylie Jenner: Why Theyre Urging Caitlyn Not To Do Nude Pictorial,FAKE,FAKE
+680,680,Halsey and G-Eazys Cutest Moments as a Couple (PHOTOS),TRUE,TRUE
+681,681,We Really Think Ben Affleck's Girlfriend Lindsay Shookus Is Pregnant,FAKE,FAKE
+682,682,Jada Pinkett Smith responds to Leah Reminis claim that shes a Scientologist,TRUE,TRUE
+683,683,Hoda Kotb Shares Her Inspiring Journey To Motherhood The Thrive Global Podcast With Arianna Huffington podcast,TRUE,TRUE
+684,684,Gigi Hadid Is Wearing These 5 Denim Trends Right NowShop her Style!,TRUE,TRUE
+685,685,Why Kylie Jenner Actually Removed All Her Lip Fillers,FAKE,TRUE
+686,686,Selena Gomez Can't Stop Smiling on St. Patrick's Day,TRUE,TRUE
+687,687,Ryan Reynolds' Body Underneath His 'Deadpool' Costume Is What Dreams Are Made Of,TRUE,TRUE
+688,688,"Irina Shayk Begging Bradley Cooper To Stop Working, Stay Home With Baby?",FAKE,FAKE
+689,689,New Only Fools and Horses video: Watch David Beckham poke fun at himself with glasses gag for Sport Relief,FAKE,TRUE
+690,690,Khloe Kardashian allows Tristan Thompson in the delivery room for their daughters birth,FAKE,TRUE
+691,691,8 Burning Questions We Have Ahead of the 2018 Oscars - Parker XL,TRUE,TRUE
+692,692,Donald Trump blasts Kathy Griffin for beheading photo,FAKE,TRUE
+693,693,Once Upon a Time Zeroes In On 4 Cast Members For Potential Season 7 Reboot,TRUE,TRUE
+694,694,Jenna Dewan Tatum-Inspired Cover Ups for Your Next Beach Vacation,TRUE,TRUE
+695,695,"Billboard Music Awards 2018 News on Nominations, Winners and Performers",TRUE,TRUE
+696,696,Kate McKinnon's Emotional Emmy Acceptance Speech Steals the Show: 'I'm Really Crying!',TRUE,TRUE
+697,697,Brad Pitt's Anger Issues Have Subsided  Is It Because He's Dating Again? (EXCLUSIVE),FAKE,FAKE
+698,698,Catherine Zeta-Jones Says Pumpkin Is Her Secret Ingredient For Healthy Skin,TRUE,TRUE
+699,699,Tom Hiddleston Stunned Taylor Swift Referenced Him On New Album: Heres Why,FAKE,FAKE
+700,700,"Jennifer Lawrence Is Terrified In ""Mother!"" Trailer",FAKE,TRUE
+701,701,"If The Good Fight Becomes A Musical, Christine Baranski Is Totally Prepared",TRUE,TRUE
+702,702,MTV reality star Clay Adler dead at 27 after taking his own life,TRUE,TRUE
+703,703,Gunning For Goop? Gwyneth Paltrow Threatened By Camila Alves Lifestyle Site,FAKE,FAKE
+704,704,Brigitte Bardot: Most actresses' harassment claims are 'hypocritical and ridiculous',TRUE,TRUE
+705,705,Kendall Jenner Makes a Cheeky Appearance at Coachella,TRUE,TRUE
+706,706,Chester Bennington: Linkin Park frontman's autopsy report released,TRUE,TRUE
+707,707,Are David & Victoria Beckham Divorcing? The Soccer Star Shut Down The Rumors,FAKE,FAKE
+708,708,Color-Correcting Concealers: A Cheat Sheet,TRUE,TRUE
+709,709,Khloe Kardashian Forced By Tristan To Follow Strict Pregnancy Diet After Cookies & Ice Cream Binge?,FAKE,FAKE
+710,710,"The Originals, iZombie Renewed for 2017-2018 Season at CW  Variety",TRUE,TRUE
+711,711,Meghan Markle Preps For Pippa Middleton Wedding With $325 Facial,TRUE,TRUE
+712,712,Fifth Child on the Way for Hugh Grant,TRUE,TRUE
+713,713,Meet the 18-year-old royal whos taking the modeling industry by storm,TRUE,TRUE
+714,714,Winter Olympics: Chloe Kim wins halfpipe gold medal for United States,TRUE,TRUE
+715,715,The Twisted Case of Casey Anthony: Sifting Through the Evidence and Lies That Prevented Justice for 2-Year-Old Caylee Anthony,TRUE,TRUE
+716,716,Katie Holmes Reignites Friendship With James Van Der Beek To Make Jamie Jealous!,FAKE,FAKE
+717,717,"Barack Obama, Oprah and More A-Listers Attend Tom Hanks and Rita Wilsons 30th Anniversary Party",TRUE,TRUE
+718,718,Angelina Jolies French Obsession,FAKE,FAKE
+719,719,"Late-Night Hosts Slam Trump Over Plan for Transgender Military Ban: ""Donald, You Are So Stupid""",TRUE,TRUE
+720,720,Julia Roberts Makes a Desperate  and Expensive!  Move to Save Her Marriage With Danny Moder (EXCLUSIVE),FAKE,FAKE
+721,721,Justin Theroux and Petra Collins Are Rumored To Be Dating,FAKE,TRUE
+722,722,Kendall Jenner On Scary Diet Of Laxative Tea & Veggies  Report,FAKE,FAKE
+723,723,Luann de Lesseps Sued by Her Two Children and Ex-Husband Over $8 Million House Sale,TRUE,TRUE
+724,724,Britney Spears Angry Over Child Support Battle,FAKE,FAKE
+725,725,Jimmy Kimmel Hosting PostOscars Special  Report,FAKE,FAKE
+726,726,Madonna Faced Uncomfortable Questions Over Malawi Adoption,FAKE,TRUE
+727,727,Oscar Isaac on the Pain of Losing Carrie Fisher and Anti-Latino Hysteria in the Age of Trump,TRUE,TRUE
+728,728,Kanye West Makes Emotional Plea To Travis Scott: Man Up Before Kylie Jenner Gives Birth,FAKE,FAKE
+729,729,Saved By The Bell star Dustin Diamond plays Harvey Weinstein in violent new music video,TRUE,TRUE
+730,730,Khlo Kardashian Only Sips Wine Filming KUWTK as Kourtney and Kendall Get 'Wasted',TRUE,TRUE
+731,731,"Hilarie Burton, Jeffrey Dean Morgan welcome 'miracle baby' in honest post about fertility",TRUE,TRUE
+732,732,Sam Smith Talks Sexuality and Gender Identity: I Feel Just as Much a Woman as I Am a Man,TRUE,TRUE
+733,733,Bella Thorne Shares Tearful Video After Sexual Abuse Revelation,TRUE,TRUE
+734,734,Here's How Much More The Top-Paid TV Actresses Make Than The Characters They Play,TRUE,TRUE
+735,735,"Kim and Kanye named their new baby girl Chicago West, and the city is loving the attention",TRUE,TRUE
+736,736,"Caitlyn Jenner 'Wasn't Happy at First' About Kylie Jenner Becoming a Young Mom, Source Says (Exclusive)",FAKE,FAKE
+737,737,Fyre Festival 'Postponed' Amid Reports of 'Chaos' in the Bahamas,TRUE,TRUE
+738,738,Kim Kardashians Hairstylist Shares Hair Colors You Should Try,TRUE,TRUE
+739,739,Steven R. McQueen Calls Off Engagement to Alexandra Silva,TRUE,TRUE
+740,740,Chris Soules Investigation: Police Get Warrant for Blood Test,TRUE,TRUE
+741,741,Bethenny Frankel Thanks a Special Someone for Saving Her Life During Her Health Scare,TRUE,TRUE
+742,742,"Despite Rihanna-Leonardo DiCaprio rumors, actor is single, rep says",FAKE,FAKE
+743,743,Blac Chyna's Attorneys Speak Out Against 'Revenge Porn' After Leak of Alleged Sex Tape,TRUE,TRUE
+744,744,"Jennifer Lopez Reflects on Past Relationship With Ben Affleck: ""There Was a Genuine Love""",FAKE,TRUE
+745,745,189 best megyn kelly images on Pinterest,FAKE,FAKE
+746,746,John Cena and Nikki Bellas Sweetest Quotes About Their Relationship,TRUE,TRUE
+747,747,Cost of the royal wedding for Meghan Markle and Prince Harry,TRUE,TRUE
+748,748,"ABC, Freeform to Air Ariana Grande's Manchester Benefit Concert in U.S.",TRUE,TRUE
+749,749,Who's the Next Bachelor 2018? It's Arie Luyendyk Jr.,TRUE,TRUE
+750,750,Beyonc 'Can't Believe' It's Been 15 Years Since She and Husband JAY-Z Released 'Bonnie & Clyde',TRUE,TRUE
+751,751,Hollywood Medium Recap: Ryan Lochte Is Brought to Tears by Message From His Late Grandfather,TRUE,TRUE
+752,752,"Big Little Lies Season 2: Shailene Woodley, Laura Dern, Zo Kravitz Set to Return",FAKE,TRUE
+753,753,"Just an old-fashioned gal!: Julia Roberts reveals she cooks three meals daily, sews for her three kids and refrains from Googling herself",TRUE,TRUE
+754,754,The Arrangements season finale shocks everyone! Megan seeks revenge on IHM,TRUE,TRUE
+755,755,Royal wedding: all the official photographs of Prince Harry and Meghan Markle,TRUE,TRUE
+756,756,Meghan and Harry: Our baby joy,FAKE,TRUE
+757,757,Sarah Hyland on Bachelorette Alum Wells Adams: He Puts Up With Me,TRUE,TRUE
+758,758,KUWTK reveals Scott Disick angry about Kourtney's new beau,TRUE,TRUE
+759,759,Lili Reinhart and Cole Sprouse Were Spotted Low-Key Holding HandsAgain,TRUE,TRUE
+760,760,Candice Swanepoel Welcomes Her Second Child,TRUE,TRUE
+761,761,Taylor Swift calls Kim Kardashian a bully  and fans call BS!,FAKE,FAKE
+762,762,Watch Chester Bennington in Linkin Park's 'Carpool Karaoke' episode,TRUE,TRUE
+763,763,Kim Kardashian West's Makeup Evolution: You Have to See It to Believe It,TRUE,TRUE
+764,764,"Why Meghan Markle's Mother, Doria Ragland, Sat Alone at the Royal Wedding",TRUE,TRUE
+765,765,Daddy Yankee Shares Adorable Photo to Celebrate Wedding Anniversary,TRUE,TRUE
+766,766,How to Blend Eye Shadow Like a Pro,TRUE,TRUE
+767,767,"Jinger Duggar gives birth to first child, daughter Felicity",TRUE,TRUE
+768,768,Dove Cameron Responds to Thomas Doherty Breakup Rumors: ''We Are Madly in Love'',TRUE,TRUE
+769,769,Ben Platt (actor),TRUE,TRUE
+770,770,Real reason behind Justin Bieber and Selena Gomezs breakup has finally been revealed,FAKE,FAKE
+771,771,"Jasper Introduces Eleanor to His Sleazy Dad on The Royals: ""Don't Slimeball My Girlfriend, Dad""",TRUE,TRUE
+772,772,"Chad Johnson Says He Can't Deal With Karina Smirnoff's ""F--king Rejection"" Anymore: She's ""Trying to Piss Me Off!""",TRUE,TRUE
+773,773,What Concealer Does Cardi B Use?,TRUE,TRUE
+774,774,"Wendy's drops mixtape with tracks aimed at Burger King, McDonald's",TRUE,TRUE
+775,775,Actor Johnathon Schaech: I Was Molested by Director Franco Zeffirelli,TRUE,TRUE
+776,776,Selena Gomez and Justin Bieber Return to the Public Eye for Church and a Hockey Date,TRUE,TRUE
+777,777,Prince Harry Just Got A Major Royal Promotion Ahead Of Wedding To Meghan Markle,TRUE,TRUE
+778,778,Johnny Galecki Posts Sweet Tribute to 'Fake Wife' Kaley Cuoco on Her Wedding Day,TRUE,TRUE
+779,779,Kim and Khloe Kardashian are twinning thanks to their mothers with Bob's hairstyles on Kardashians,TRUE,TRUE
+780,780,Brad Pitt vs. the Rumor Mill: Why He's the Target of Even More Wild Stories Than Usual,FAKE,FAKE
+781,781,The 2018 Vanity Fair Hollywood Issue Cover Is Here,TRUE,TRUE
+782,782,What Is Face Serum? Why And How To Use It,TRUE,TRUE
+783,783,The Bachelorettes Kaitlyn Bristowe Is 'Devastated' Over Shawn Booth Split,TRUE,TRUE
+784,784,"CW sets premiere dates for The Originals, The 100 and more",TRUE,TRUE
+785,785,Matt Lanter and Wife Angela Welcome Daughter MacKenlee,TRUE,TRUE
+786,786,"'Whassup, Pitches!': New Songs and Sass in 'Pitch Perfect 3' Trailer",TRUE,TRUE
+787,787,How to Set Curls Like Shakira: Celebrity Stylist Tips,TRUE,TRUE
+788,788,Brigitte Nielsen Is Pregnant With Fifth Child -- See Her Baby Bump,FAKE,TRUE
+789,789,Travel Channel Sets Marathon of 'No Reservations' in Tribute to Anthony Bourdain,TRUE,TRUE
+790,790,"Hitting the Treadmill, Grocery Shopping and Taking a Snooze: Photographic Proof Victoria Beckham Can Do Anything in Heels",TRUE,TRUE
+791,791,I Tried the Trampoline Workout That Got Busy Phillips Crazy-Fit,TRUE,TRUE
+792,792,Gwen Stefani Tells Blake Shelton She Loves Him (Ish),FAKE,FAKE
+793,793,"Faven Liuget's Husband Corey Isn't Happy About Her Clothing Business on WAGS Miami: ""I Need Some Attention Too""",TRUE,TRUE
+794,794,Meghan shakes up her royal image by ditching her sleeves,TRUE,TRUE
+795,795,Flavor Flav Sues Chuck D Over Public Enemy Royalties,TRUE,TRUE
+796,796,Ellen Page Marries Girlfriend Emma Portner: Details,TRUE,TRUE
+797,797,Game of Thrones Season 8: We Have a Premiere Month (Which Is Something?),TRUE,TRUE
+798,798,"Kim Kardashian West KKW Body Perfume, Reviewed",TRUE,TRUE
+799,799,Jennifer Aniston and Brad Pitt to reunite in new romantic comedy,FAKE,FAKE
+800,800,Kenya Moore gives birth to first child,TRUE,TRUE
+801,801,Elizabeth Smart kidnapper Wanda Barzee released from prison,TRUE,TRUE
+802,802,married at first sight Archives,TRUE,TRUE
+803,803,Rich Kids Of Beverly Hills' Morgan Stewart throws a tantrum while planning wedding,TRUE,TRUE
+804,804,Bush tribute erupts into shouting match between Meghan McCain and Joy Behar on 'The View',TRUE,TRUE
+805,805,Brandon T. Jackson,TRUE,TRUE
+806,806,Briana DeJesus Finally Addressed Those Javi Marroquin Marriage Rumors,TRUE,TRUE
+807,807,Tina Turner walks first red carpet in five years,TRUE,TRUE
+808,808,Ellen DeGeneres' wife Portia de Rossi makes her cry with 60th birthday gift,FAKE,TRUE
+809,809,The Immortal Life of Henrietta Lacks review  Oprah is extraordinary,TRUE,TRUE
+810,810,Mariah Carey: My Battle with Bipolar Disorder,TRUE,TRUE
+811,811,WWE: Update on real-life heat between Alexa Bliss and Nia Jax,TRUE,TRUE
+812,812,Meghan's royal tour SUCCESS: How Duchess won over royal fans on her first tour,TRUE,TRUE
+813,813,'Grey's Anatomy' Firefighter Spinoff (Finally) Gets a Title,TRUE,TRUE
+814,814,"Pink and Reese Witherspoon Play 'Never Have I Ever', Admit to Having Sex in a Public Place",TRUE,TRUE
+815,815,BABY NEWS! Rihanna is PREGNANT and she's pretty far along  Click to see her baby bump!,FAKE,FAKE
+816,816,This McDonald's french fry fork is infuriatingly stupid,TRUE,TRUE
+817,817,Olivia Munn Sets the Record Straight About Justin Theroux Dating Rumors,FAKE,TRUE
+818,818,"Takeaway Curry, Game of Thrones and Elaborate Disguises: The Young Royals' Life at Kensington Palace",TRUE,TRUE
+819,819,Colton Haynes and Jeff Leatham split six months after glitzy wedding,TRUE,TRUE
+820,820,Station 19 Renewed For Season 2 By ABC,TRUE,TRUE
+821,821,Jennifer Aniston's spokesman denies reports the 47-year-old actress expecting 'miracle baby',FAKE,FAKE
+822,822,Amy Schumer's National Bikini Day 'Gram Is Everything,TRUE,TRUE
+823,823,Teen Moms Amber Portwood Reacts to Latest Cheating Allegations Surrounding Matt Baier,TRUE,TRUE
+824,824,Celebrities react to superstar Glen Campbell's death,FAKE,FAKE
+825,825,6 things that inspired Margaret Atwood's Alias Grace,TRUE,TRUE
+826,826,"Real Housewives of New Jersey's Teresa Giudice Just Love, Love, Loves Gia's Prom Night",TRUE,TRUE
+827,827,Simon Cowell will not be returning to 'American Idol',FAKE,FAKE
+828,828,Taylor Swift Transforms Into a Nude Cyborg in ...Ready for It? We Are So Not Ready.,TRUE,TRUE
+829,829,2018 MTV Movie and TV Awards: Complete List of Winners,TRUE,TRUE
+830,830,See Birthday Boy Robert Pattinson Transform Through the Years,FAKE,TRUE
+831,831,Watch Chewbacca Smack A Porg In The Latest Star Wars: The Last Footage,TRUE,TRUE
+832,832,Miley Cyrus Asks Her Dad to Be The Voice Advisor,FAKE,TRUE
+833,833,Top 13 Best Foundations for Sensitive Skin: 2018 Reviews & Guide,TRUE,TRUE
+834,834,Page 716  Us Weekly,FAKE,FAKE
+835,835,"Meet Carmella, the ""Moonwalking, Trash-Talking"" New Total Divas Star",TRUE,TRUE
+836,836,Nicole Richie,TRUE,TRUE
+837,837,Brielle Biermann Responds to Backlash Following Birthday Gift Gun,TRUE,TRUE
+838,838,Lili Reinhart of Riverdale Writes About Attempted Assault,TRUE,TRUE
+839,839,Assessing Crazy Ex-Girlfriends three opening credits sequences (VIDEO).,TRUE,TRUE
+840,840,Who Got Paid What for the 'American Pie' Reunion,FAKE,TRUE
+841,841,Victoria Beckham receives OBE from Prince William,TRUE,TRUE
+842,842,Selena Gomez And Justin Bieber Enjoyed A Laguna Beach Valentine's Day Staycation,TRUE,TRUE
+843,843,Lenny Kravitz weighs in on daughter Zoe working with his ex-fiancee Nicole Kidman,TRUE,TRUE
+844,844,First Celebrity Big Brother evictee: 'It was easy to read I was in trouble',TRUE,TRUE
+845,845,5 Days 5 Ways: Olivia Palermos Bomber Jacket Is Having a Moment,TRUE,TRUE
+846,846,Caitlyn Jenner latest celebrity to float run for office,FAKE,FAKE
+847,847,Queer Eyes Karamo Brown Engaged to Ian Jordan,TRUE,TRUE
+848,848,Aaron Rodgers Girlfriend 2017,FAKE,FAKE
+849,849,"Paula Abdul, Rowan Blanchard, Sabrina Carpenter, Laverne Cox, Jessie J, and More Announced to Join Lineup of World-Renowned Speakers and Performers at WE Day California",TRUE,TRUE
+850,850,Top Chef season 15 winner is Joe Flamm,TRUE,TRUE
+851,851,'Dance Moms' star Abby Lee Miller checks into prison,TRUE,TRUE
+852,852,Eddie Murphy 'not interested' in seeing daughter he had with Mel B,TRUE,TRUE
+853,853,Threes A Crowd: Ben Afflecks Complicated Love Triangle With Jennifer Garner & Lindsay Shookus,FAKE,FAKE
+854,854,Ellen DeGeneres Dumps Portia De Rossi,FAKE,FAKE
+855,855,Riverdale: Clifford Blossom Killed Jason Blossom,TRUE,TRUE
+856,856,Khloe Kardashian Helps 'Revenge Body' Participant Come Out to His Parents,TRUE,TRUE
+857,857,KFC  yes that KFC  is selling its own smartphones in China,TRUE,TRUE
+858,858,Meghan McCain becomes the newest host of The View,TRUE,TRUE
+859,859,"See Kate Middleton, Prince William, and Prince Charles at Royal Baby's Baptism",TRUE,TRUE
+860,860,Teen Moms Ryan Edwards gets arrested hours after wifes pregnancy announcement,TRUE,TRUE
+861,861,Beyond the Wall (episode),TRUE,TRUE
+862,862,Kesha recalls battle with eating disorder,TRUE,TRUE
+863,863,Kate Middleton's awkward reaction when she first laid eyes on Prince William,TRUE,TRUE
+864,864,"Meet Ryan McKenna, the kid who took a selfie with Justin Timberlake at Super Bowl LII",TRUE,TRUE
+865,865,Birthday Suit! Celebrate Kim Kardashian's 37th B-Day With Her Sexiest Naked Pics,TRUE,TRUE
+866,866,Kelly Clarkson & Jennifer Hudson Are Returning to Coach 'The Voice' Season 15,FAKE,TRUE
+867,867,Khlo Kardashian Kept Her Pregnancy a Secret for So Long as a Favor to Kylie,TRUE,TRUE
+868,868,Kylie Fuming Over Copycat Sister Kims Perfume Launch,FAKE,FAKE
+869,869,Did Lindsay Lohan Convert to Islam?,FAKE,FAKE
+870,870,"Meghan Markle, Kate Middleton friendship NOT exaggerated",FAKE,FAKE
+871,871,"Inside Melania Trumps complicated White House life: Separate schedule, different priorities",TRUE,TRUE
+872,872,Prince Harry and Meghan Markle Dating Timeline,TRUE,FAKE
+873,873,"Inside Lauren Conrad's Anything but Basic Road to Baby: Hills Heartbreak, Finding Love & Building an Empire",TRUE,TRUE
+874,874,Robert Pattinson On Movie Roles: 'People Are Trying To Put You In A Box',FAKE,FAKE
+875,875,These are the 9 highest-paid Victoria's Secret models,TRUE,TRUE
+876,876,America Ferrera reveals she was sexually assaulted at 9-years-old,TRUE,TRUE
+877,877,"Joe Alwyn References, T Swift Reputation Lyrics",TRUE,FAKE
+878,878,Kendall Jenner's Awkward Moment With Ben Simmons and Ex Blake Griffin at Kylies 21st Birthday Dinner,TRUE,TRUE
+879,879,Pitch Perfect 3 Casts Prince Protege Andy Allo,TRUE,TRUE
+880,880,Yom Kippur: Harry Styles & More Tweet On Jewish Day Of Atonement,FAKE,FAKE
+881,881,Prince George news: Why does Prince George only wear shorts?,FAKE,TRUE
+882,882,Jimmy Kimmel Live Turns 15: A Look Back at the Humble Beginnings of Late Night's Current Moral Conscience,TRUE,TRUE
+883,883,"Yes, That Is Queen Elizabeth Sitting Next to Anna Wintour in the Front Row of London Fashion Week",TRUE,TRUE
+884,884,Former Miss Universe Alicia Machado Accidentally Posts Nip-Slip Photo,TRUE,TRUE
+885,885,"Julia Roberts and Danny Moder's Marriage Is ""Hanging by a Thread""  Will They Divorce?",FAKE,FAKE
+886,886,The Walking Dead cast pay tribute to stuntman who died after on-set accident,TRUE,TRUE
+887,887,Kylie Jenner Receives Flowers From Baby Daddy Travis Scott,FAKE,TRUE
+888,888,"Despite Season 2 Issues, Netflix Greenlights '13 Reasons Why' Season 3",TRUE,TRUE
+889,889,"For the first time in Grammy history, a white man isnt nominated for album of the year",TRUE,TRUE
+890,890,"Milo Ventimiglia, Reese Witherspoon and More Stars Hit the AFI Awards",TRUE,TRUE
+891,891,Nicki Minaj Stands Out From the Crowd at Basketball Game in Bondage Look,TRUE,TRUE
+892,892,Actor Geoffrey Rush sues Australian newspaper over 'inappropriate behavior' report,TRUE,TRUE
+893,893,Nick Jonas and Priyanka Chopra dating history,TRUE,TRUE
+894,894,"REPORT: Justin Biebers Family Thinks Selena Gomez is a ""Positive Influence""",TRUE,FAKE
+895,895,two.txt at master  hrldcpr/buzzfeed  GitHub,FAKE,FAKE
+896,896,"Avengers Young Fan, Emilio Pachon, 11, Dies After Chris Evans and More Fulfill His Last Wish",TRUE,TRUE
+897,897,Did you know Ralphie from A Christmas Story is also Ming Ming in Elf,TRUE,TRUE
+898,898,"Catherine, Duchess of Cambridge",FAKE,TRUE
+899,899,Posh and Becks could be set to split - Twitter rumours start to surface,FAKE,FAKE
+900,900,A professor was giving a TV interview about Polish politics. His cat didnt care.,TRUE,TRUE
+901,901,Katy Perry Just Wore an Orlando Bloom Onesie and Fans Can&#39;t Look Away,TRUE,TRUE
+902,902,America Ferrera welcomes first child,TRUE,TRUE
+903,903,"Kylie Jenner family mural has Scott Disck, not Tristan Thompson",FAKE,TRUE
+904,904,Rihanna promotes her Fenty Beauty makeup at Sephora in Singapore,TRUE,TRUE
+905,905,Is Kim Kardashians Surrogate Demanding Star Not Be In Delivery Room During The Birth?,FAKE,FAKE
+906,906,Katy Perry And Madonna's RAUNCHY Photoshoot,FAKE,FAKE
+907,907,Gucci Mane And Keyshia Ka'Oir Swap Wedding Gifts,TRUE,TRUE
+908,908,"J-Rod! Jennifer Lopez and Alex Rodriguez on Love, Beauty, and Redemption",TRUE,FAKE
+909,909,'The Girls Next Door' React To Hugh Hefner's Death,TRUE,TRUE
+910,910,Did Miley Cyrus and Liam Hemsworth secretly get married?,FAKE,FAKE
+911,911,'Glee' star Lea Michele engaged to Zandy Reich,TRUE,TRUE
+912,912,Princess Diana says Harry & Meghan will have baby GIRL from beyond the grave,FAKE,FAKE
+913,913,Here's Everything Leaving Netflix In August (2018) And What You Shouldn't Miss,TRUE,TRUE
+914,914,"Celebrities with tattooed eyebrows, including Helen Mirren, Coleen Rooney & Michelle Keegan",TRUE,TRUE
+915,915,'The Dark Knight' Returns to Theaters to Celebrate 10th Anniversary,TRUE,TRUE
+916,916,"Ten Years Later, the Sopranos Finale Is Still Revolutionary",TRUE,TRUE
+917,917,Gary Oldman Thanks His Mother and Winston Churchill After Winning 2018 Best Actor Oscar,TRUE,TRUE
+918,918,Weinstein apologises for citing Streep and Lawrence in defence,TRUE,TRUE
+919,919,Best 'The OC' Behind the Scenes Drama,TRUE,TRUE
+920,920,Trump thanks Kanye West for his support: He's 'performed a great service to the Black Community',TRUE,FAKE
+921,921,Kim Kardashian shades Lindsay Lohan for 'foreign accent',TRUE,TRUE
+922,922,What Is Landon Doing In 2018? The Former 'Southern Charm' Star Moved Far Away From Charleston,TRUE,TRUE
+923,923,"Donald Trump Is Not Welcome at Harry Potter and the Cursed Child, Says Plays Hermione",FAKE,TRUE
+924,924,Henry Hall (bandleader),TRUE,TRUE
+925,925,Kanye infuriated that Beyonc and Jay-Z treat Kim Kardashian disrespectfully,FAKE,FAKE
+926,926,"Wonder Woman Director Patty Jenkins on Equal Pay, Hollywood Sexism and James Camerons Nasty Words",TRUE,TRUE
+927,927,How to Help Victims of the Las Vegas Mass Shooting,TRUE,TRUE
+928,928,This is how James Corden would tell his children about gay relationships,TRUE,TRUE
+929,929,Beyonce has mini Destiny's Child reunion with LaTavia Roberson for first time in 18 years,TRUE,TRUE
+930,930,Kylie Jenner Suffers Pregnancy Scare 3 Months After Giving Birth To Stormi  Did Travis Freak Out?,FAKE,FAKE
+931,931,LuAnn de Lesseps Net Worth,TRUE,TRUE
+932,932,Billie Lourd to inherit hefty sum from Carrie Fisher's estate,TRUE,TRUE
+933,933,Admitted Harasser Morgan Spurlock Sued After Abandoning TV Series About Womens Issues,TRUE,TRUE
+934,934,"Ashton Kutcher Pays Tribute to Mila Kunis and Their Kids in an Emotional, Heartwarming Speech",TRUE,TRUE
+935,935,"Whats Coming to Netflix, Hulu and Amazon in January 2018  Variety",TRUE,TRUE
+936,936,What Was HBOs Girls? Reflections on Its Impact & Ending (Part 2)  Variety,TRUE,TRUE
+937,937,Kirsten Dunst Gives Birth to First Child With Jesse Plemons,TRUE,TRUE
+938,938,The Walking Dead season 9 will say goodbye to another main character,TRUE,TRUE
+939,939,Kim Kardashian Slams 'Liar' Caitlyn Jenner for Comments About Late Father Robert: 'She Is Not a Good Person',FAKE,TRUE
+940,940,"Law & Order: SVU  Brooke Shields as Ellie Porter, Noahs Grandmother",TRUE,TRUE
+941,941,"With 'The Sinner,' Jessica Biel leaps 'into the darkest of the dark'",TRUE,TRUE
+942,942,Dancing With Justin Timberlake & Hiking With Ryan Gosling: The Arra...,TRUE,TRUE
+943,943,Liam Gallagher calls brother Noel 'sad f**k' for no-show at One Love Manchester concert,TRUE,TRUE
+944,944,Kristen Bell's 'Veronica Mars' Co-Star Ryan Hansen Celebrates Her Birthday With a Cardboard Cutout Of Her,TRUE,TRUE
+945,945,3 Ways Diffusing Can Cause Heat Damage on Natural Hair,TRUE,TRUE
+946,946,Royal Wedding Countdown: Meghan Markle Preparing for Her Big Day With the Help of Designer and Aide,TRUE,TRUE
+947,947,Meghan Markle Helped Prince Harry Kick a Life-threatening Habit (Video),FAKE,TRUE
+948,948,Karrueche Tran reveals why she got a restraining order against Chris Brown,TRUE,TRUE
+949,949,Olivia Culpo and Danny Amendola Split After He's Seen With Another Woman,TRUE,TRUE
+950,950,Dancing With the Stars Season 26 Cast Revealed,TRUE,TRUE
+951,951,Lady Gaga Mourns Death of Cancer-Stricken Best Friend Sonja Durham: 'She Loved Me Fearlessly',TRUE,TRUE
+952,952,Mandy Moore Celebrates Engagement Party With Friends: Pics,TRUE,TRUE
+953,953,"Rob Kardashians Daughter Dream Says Hi, Dad! in Sweet Video",TRUE,TRUE
+954,954,Watch A Christmas Story Lives Jane Krakowski Fall in Love with Maya Rudolph Over Suspenders,TRUE,TRUE
+955,955,Museum Of Ice Cream,TRUE,TRUE
+956,956,"Stephen Colbert Asks Justin Timberlake The 'Big Questions,' Like Where Sexy Went",TRUE,TRUE
+957,957,Tori Spelling Celebrates 11th Anniversary With Dean McDermott,TRUE,TRUE
+958,958,"Kim Kardashian, Jesse Jackson, Jenny McCarthy and More Mourn the Death of Hugh Hefner",FAKE,TRUE
+959,959,Kylie Jenner refusing to discuss Tyga on Life of Kylie,TRUE,TRUE
+960,960,The look of love: Katie Holmes and Jamie Foxx pack on the PDA in rare public appearance at pre-Grammys gala,FAKE,TRUE
+961,961,OPRAH MOURNS LOSS OF DOG,TRUE,TRUE
+962,962,Christina El Moussa Splits from Doug Spedding as He Enters Rehab,TRUE,TRUE
+963,963,Angelina Jolie,TRUE,FAKE
+964,964,Katie Holmes and Jamie Foxx 'split and call off wedding' after five years of secret romance,FAKE,FAKE
+965,965,Justin Theroux Reacts to Jennifer Aniston Being Dragged into Brad Pitt and Angelina Jolies Divorce News,FAKE,FAKE
+966,966,Shahs of Sunset Cast Net Worth (2018) & Age,TRUE,TRUE
+967,967,Triggers Sneak Peek,TRUE,TRUE
+968,968,Ray Romano enlisted the help of Jimmy Kimmel to find his son a girlfriend,TRUE,TRUE
+969,969,Prince Harry Just Gave the Sweetest Shout Out to the 'Woman I Am About to Marry',TRUE,TRUE
+970,970,Everything You Need to Know About the 2018 Grammys,TRUE,TRUE
+971,971,Celebrities slam United Airlines over passenger who was dragged off flight,FAKE,TRUE
+972,972,"This Is Us Justin Hartley on Best Friends Milo Ventimiglia, Sterling K. Brown",FAKE,TRUE
+973,973,Sophie Turners engagement ring,TRUE,TRUE
+974,974,Shawn Mendes Sets Record Straight About His Sexuality and Relationship 'Limbo' with Hailey Baldwin Before Justin Bieber,TRUE,TRUE
+975,975,Lisa Marie Presley Net Worth,TRUE,TRUE
+976,976,Kelly Rowland's Fitness Instructor Shares an Easy Holiday Workout,TRUE,TRUE
+977,977,Catherine Zeta-Jones pays tribute to Michael Douglas,TRUE,TRUE
+978,978,"Caitlyn Jenner confirms Kylie, 20, IS expecting a baby",FAKE,FAKE
+979,979,This Ed Sheeran Wax Figure Is Creepily Spot-On & I'm Terrified,TRUE,TRUE
+980,980,Lili Reinhart Shares 9 Tips for Getting Rid of Acne,TRUE,TRUE
+981,981,Jenna Dewan,TRUE,TRUE
+982,982,Kate Upton Lands No. 1 Spot on 2018 Maxim Hot 100 List,TRUE,TRUE
+983,983,The New Christopher Robin Trailer Hits All The Feels,TRUE,TRUE
+984,984,"Who Is Rihanna Dating? Hassan Jameel Is Still The Man In Her Life, According To Reports",FAKE,FAKE
+985,985,Melissa Etheridge Smokes Weed With Her Kids: 'It Brings You Closer',TRUE,TRUE
+986,986,"'Bachelorette' Becca Kufrin donates $6,000 worth of 'beer money' from fans",TRUE,TRUE
+987,987,"Jenna Dewan Poses Nude, Talks Channing Tatum And Motherhood",TRUE,TRUE
+988,988,Heidi Klum Says Shes 'Very Single and Very Ready to Mingle' During 'Ellen Show' Appearance,TRUE,TRUE
+989,989,People are not thrilled with Gigi Hadid for carrying a puppy down the runway at Milan Fashion Week,TRUE,TRUE
+990,990,"Justin Bieber, Selena Gomez Taking a Break Mainly Because of Her Mom",FAKE,FAKE
+991,991,Selena Gomez Missing Justin Bieber Dearly While Shes Away In Europe: They Have A Strong Love,FAKE,FAKE
+992,992,Selena Gomez Ignores Questions About Justin Bieber's Engagement,FAKE,FAKE
+993,993,Tina Fey on 30 Rock Revival Rumors She Helped Spread: Will It Be a Prequel or Dystopian Future Full of Robot Sex?,TRUE,TRUE
+994,994,We Can't Believe G-Eazy Actually Got Away With This Rock Star Move At Airport Security,TRUE,TRUE
+995,995,"Tina Knowles-Lawson Jokes That Sir Has A Cute ""Mean Mug"" While Talking About Beyonc's Twins",TRUE,TRUE
+996,996,"J Balvin Debuts Neon Yellow Hair: ""I'm Back!""",TRUE,TRUE
+997,997,SZAs Debut Album Ctrl Has Gone Platinum,TRUE,TRUE
+998,998,United Airlines kills another pet,TRUE,TRUE
+999,999,YouTube Drops Logan Paul From Google Preferred Ad Platform After Suicide Forest Video,TRUE,TRUE
+1000,1000,"Mariah Carey, Nick Cannon Celebrate Twins Birthday at Disneyland",TRUE,TRUE
+1001,1001,Coco Austin responds to backlash over her braids,TRUE,TRUE
+1002,1002,Julia Roberts Danny Moder Divorce On Hold,FAKE,FAKE
+1003,1003,See the Official Royal Baby Announcement Outside Buckingham Palace,FAKE,TRUE
+1004,1004,E!'s Carissa Culiner Is Pregnant! Watch Her Live TV Reveal on Daily Pop,TRUE,TRUE
+1005,1005,'Bachelor' Star Bekah Martinez Pregnant With Her First Child,TRUE,TRUE
+1006,1006,20 funny pictures that will make you laugh every single time. #5 made me cry!,TRUE,TRUE
+1007,1007,Prince George looks just like dad Prince William as he rides out of Pippa Middleton's wedding,TRUE,TRUE
+1008,1008,Watch The Gong Show TV Show,FAKE,TRUE
+1009,1009,Tomb Raider Review Roundup: Did Alicia Vikander Win Over Critics With Reboot?,TRUE,TRUE
+1010,1010,"Jax Taylor Breaks Down His ""Socialite Douchebag"" Persona",TRUE,TRUE
+1011,1011,CMA Awards 2017: What You Didn't See on TV,TRUE,TRUE
+1012,1012,"Oprah loses 40 pounds, gains big $ with Weight Watchers",TRUE,TRUE
+1013,1013,"Oscars 2018s big winners, best moments as Shape of Water takes the night",TRUE,TRUE
+1014,1014,Busy Philipps Says She Made More Money Doing Brand Partnerships Than Acting Last Year,TRUE,TRUE
+1015,1015,REVEALED: Kim Kardashians Cheat Meal Strategy!,TRUE,TRUE
+1016,1016,Six-Pack Mom Sarah Stage Dishes on Pregnancy Cravings at Lavish Baby Shower,TRUE,TRUE
+1017,1017,Celebrities Thank Barack Obama On Last Day As President,FAKE,FAKE
+1018,1018,Aaron Carter leaves rehab early,TRUE,TRUE
+1019,1019,Allegra Needs Help to Fix Her Mega-Breasts and Sharon Wants a New and Improved Butt on Botched,TRUE,TRUE
+1020,1020,Jana Kramer reveals she had a miscarriage: 'I just don't want to feel alone',TRUE,TRUE
+1021,1021,Sofia Vergara wants to sell you underwear and there is a good reason to buy it,TRUE,TRUE
+1022,1022,Kelly Ripa & Ryan Seacrest Tease Their Halloween Costumes & Theyre Dressed As Your GOT Faves,TRUE,TRUE
+1023,1023,Teresa Giudice Opens Up About Her Dinner With Divorce Lawyer,TRUE,TRUE
+1024,1024,Christina Aguileras 20-Year Career: The Highs and Lows,TRUE,TRUE
+1025,1025,Adam Rippon Says He Prefers Shawn Mendes To Harry Styles And That Love Is A Funny Thing,TRUE,TRUE
+1026,1026,"James Gunn says Baby Groot is Groots son, but does that matter?",TRUE,TRUE
+1027,1027,North West makes modeling debut with Kim Kardashian and Kris Jenner,TRUE,TRUE
+1028,1028,Alert: Jane the Virgins Justin Baldoni Is Quite Shirtless in New Season 4 Premiere Pic  FKHSK,TRUE,TRUE
+1029,1029,Camila Cabello Wears Couture and Hangs in Hotel Rooms in Artful 'Never Be the Same' Video,TRUE,TRUE
+1030,1030,Disney villains take center stage on Forever stamps,TRUE,TRUE
+1031,1031,Jimmy Uso Really Was Caught Having Relations on Total Divas,TRUE,TRUE
+1032,1032,The Dot Eyeliner Trend: Here's Exactly How to Pull It Off,TRUE,TRUE
+1033,1033,'Riverdale' Showrunner on Archie's Fate After That Whirlwind Trial,TRUE,TRUE
+1034,1034,Kate Walsh Reveals She Was Diagnosed With A Brain Tumor Two Years Ago,TRUE,TRUE
+1035,1035,Do we really need a Twilight Zone revival in the era of Black Mirror?,TRUE,TRUE
+1036,1036,Tom Arnold Claims He Briefly Romanced Laurie Metcalf Before Roseanne Barr,TRUE,TRUE
+1037,1037,JoJo Breaks Down Her Final Two Men Ahead of 'The Bachelorette' Finale,TRUE,TRUE
+1038,1038,Prince William surprises with new shaved head,TRUE,TRUE
+1039,1039,Kesha releases music video for new girl power anthem Woman,TRUE,TRUE
+1040,1040,Zayn Malik Reveals He No Longer Speaks To His Former One Direction Bandmates Following Snide Comments,TRUE,TRUE
+1041,1041,Jamie Foxxs 50th Birthday Party Sounds a Lot Like Survivor,TRUE,TRUE
+1042,1042,9 Times Celebrity Exes Had an Awkward Run-In,TRUE,TRUE
+1043,1043,Sting sells 15 Central Park West penthouse for $50M,TRUE,TRUE
+1044,1044,Vanderpump Rules Pals Logan Noh and James Kennedy on the Outs After Season 6,TRUE,TRUE
+1045,1045,Kim Kardashian Receives Baby Gift From the Chicago Bulls,TRUE,TRUE
+1046,1046,Lisa Rinna swaps her signature shag for long hairstyle,TRUE,TRUE
+1047,1047,Ariana Grande's Entire Hair and Beauty Evolution,TRUE,TRUE
+1048,1048,Life as a royal: Meghan Markles etiquette report card,TRUE,TRUE
+1049,1049,'Teen Mom 2' star Leah Messer rushes daughter with special needs to hospital,TRUE,TRUE
+1050,1050,Underprivileged Children Will Be Able To See A Wrinkle In Time Free At AMC Theatres,TRUE,TRUE
+1051,1051,Selena Gomez's Makeup Artist Reveals How To Recreate The Official Revival Tour Copper Smokey Eye,TRUE,TRUE
+1052,1052,Kate and Leo: the 19-year friendship that's kept everyone guessing,FAKE,FAKE
+1053,1053,Miranda Lambert and Anderson East Split After More Than 2 Years Together: Report,FAKE,TRUE
+1054,1054,The Bold Type Recap: A Good Triangle,TRUE,TRUE
+1055,1055,Tyrese uses Instagram to beg Dwayne Johnson not to delay Fast 9,TRUE,TRUE
+1056,1056,Kim Kardashian Gets in the Best Shape of Her Life,TRUE,TRUE
+1057,1057,"Meghan McCain Dishes on Her Wedding  Tears, Booze and Country Music!",TRUE,TRUE
+1058,1058,Celebrities salute the troops on Veterans Day,FAKE,TRUE
+1059,1059,Are Darren Aronofsky and Suki Waterhouse dating?,FAKE,TRUE
+1060,1060,6 drugstore highlighters to help you strobe without going broke,TRUE,TRUE
+1061,1061,Bono reveals he almost died while recording the latest U2 album,TRUE,TRUE
+1062,1062,First male gymnast alleges abuse by Larry Nassar,TRUE,TRUE
+1063,1063,Listen to Harry Styles' first solo single 'Sign Of The Times',TRUE,TRUE
+1064,1064,Kris Jenner Wants Paris Jackson To Join Keeping Up With The Kardashians Amid Ratings Woes,FAKE,FAKE
+1065,1065,The Walking Dead midseason finale: Fans in TEARS at biggest twist ever - who's died?,TRUE,TRUE
+1066,1066,Security Guard Jesus Campos Describes Moment Las Vegas Gunman Stephen Paddock Shot Him,TRUE,TRUE
+1067,1067,"Truth About Jennifer Garner, Ben Affleck Planning To Renew Wedding Vows",FAKE,FAKE
+1068,1068,"Kanye West Leaves Kim Kardashian After a Massive Fight: ""He Stormed Off, Leaving Kim in Tears"" (EXCLUSIVE)",FAKE,FAKE
+1069,1069,Kim Kardashian disgusted by Scott Disicks desperate revenge on sister Kourtney,FAKE,FAKE
+1070,1070,17 Unbreakable Kimmy Schmidt references that probably passed you by,TRUE,TRUE
+1071,1071,Property Brothers' Jonathan Scott Reveals Why He's Not on Dancing with the Stars with Drew,TRUE,TRUE
+1072,1072,Taylor Swift's Boyfriend Joe Alwyn Makes His Cannes Film Festival Debut!,TRUE,TRUE
+1073,1073,"Acclaimed ""Downton Abbey"" TV series to be turned into a movie",TRUE,TRUE
+1074,1074,Times Up Pin: The Story Behind Golden Globes Timely Red-Carpet Accessory,TRUE,TRUE
+1075,1075,Why Tracee Ellis Ross Kept Her Distance From SZA at the Met Gala,TRUE,TRUE
+1076,1076,Madison Beer steps out after Brooklyn reunites with Chloe,TRUE,TRUE
+1077,1077,20 Behind-The-Scenes Secrets Of 'Vanderpump Rules',TRUE,TRUE
+1078,1078,Bug Juice: My Adventures at Camp Premiere Date,TRUE,TRUE
+1079,1079,Nattie Neidhart Lies to Lana About T.J. Having a Rare Form of Adult Chicken Pox on Total Divas  AMNAYzh News,TRUE,TRUE
+1080,1080,Meghan Markles Favorite Beauty Products Are Surprisingly Relatable,TRUE,TRUE
+1081,1081,Shondaland,TRUE,TRUE
+1082,1082,'Once Upon a Time' Adds 'The Originals' Alum as Lawyer (and Love Interest) Nick,TRUE,TRUE
+1083,1083,Kayla Cox Shares a Shocking Secret With Faven Liuget on WAGS Miami: What She Told Me is Crazy As F--k!,TRUE,TRUE
+1084,1084,'Disney's The Lion King' set to roar when it stops in the Central Valley,TRUE,TRUE
+1085,1085,Rachel bilson and hayden christensen's romance rewind reminds us how private (and in love) they once were:,TRUE,TRUE
+1086,1086,Page 412  Us Weekly,FAKE,FAKE
+1087,1087,Miley Cyrus and Billy Ray Cyrus Remember Tom Petty With 'Wildflowers' Cover,TRUE,TRUE
+1088,1088,Lady Gaga 'channels inner Madonna' as she steps out in Paris with platinum hair,FAKE,TRUE
+1089,1089,Kim Kardashian,FAKE,TRUE
+1090,1090,"BAFTA Nominations Show Love For Shape Of Water, Blade Runner & British Films; Shut Out The Post",TRUE,TRUE
+1091,1091,Selena Gomezs Complicated Relationship With Her Mom Reportedly Goes Beyond the Justin Bieber Drama,FAKE,FAKE
+1092,1092,Beyonc Presents Colin Kaepernick With SI Muhammad Ali Legacy Award,TRUE,TRUE
+1093,1093,Nicky Hilton Enjoys Glamorous Baby Shower Thanks to Paris and Kathy Hilton,TRUE,TRUE
+1094,1094,Meghan Markle Finally Meets Queen Elizabeth,FAKE,TRUE
+1095,1095,"Gigi Hadid Is Reportedly ""Hesitant"" About Getting Back Together With Zayn Malik",TRUE,FAKE
+1096,1096,Ankle Weight Butt Lift Workout,TRUE,TRUE
+1097,1097,Olivia Newton-John gives update 3 months after cancer relapse,TRUE,TRUE
+1098,1098,Carrie Fisher,TRUE,TRUE
+1099,1099,Margot Robbie Recalls Finding Severed Human Foot on Beach,TRUE,TRUE
+1100,1100,Did Charlize Theron Join  Wonder Woman 2  Cast ,FAKE,FAKE
+1101,1101,Honeymoon in Paradise! New Bride Tara Lipinski Shows Off Her Slim Figure in the Maldives,TRUE,TRUE
+1102,1102,Kardashians Jealous Of Jennifer Lawrence  s Relationship With Kris Jenner ,FAKE,FAKE
+1103,1103,Gigi Hadids Cowboy Boots Were Made for Strutting,TRUE,TRUE
+1104,1104,Go For the Velcro or Stay Home: LA to Vegas Cast Shares Their Best Travel Advice,TRUE,TRUE
+1105,1105,Justin Theroux,FAKE,TRUE
+1106,1106,President Trump Slams Arnold Schwarzenegger for Exiting The Apprentice: He Was Fired,FAKE,TRUE
+1107,1107,Jennifer Aniston Forgives Brad Pitt,FAKE,FAKE
+1108,1108,"Its Official: The Royals Will Spend Christmas Together, and Maybe End the Feud Rumors for Good",TRUE,TRUE
+1109,1109,Charlie Sheen Settles Lawsuit Against National Enquirer Over Corey Haim Rape Report,FAKE,TRUE
+1110,1110,"Nick Robinson Explains the ""Love, Simon"" Scene That Made Him Cry",TRUE,TRUE
+1111,1111,Blake Lively Gets Sweet Revenge On Ryan Reynolds With Hilarious Birthday Message About Ryan Gosling,TRUE,TRUE
+1112,1112,"This Is Us Boss on Emmy Noms and Snubs, Season 3s New Chapters, the Series Finale",TRUE,TRUE
+1113,1113,Jersey Shore Family Vacation Renewed For Season 2 Amid MTV Ratings Rebound,TRUE,TRUE
+1114,1114,Mariah Carey Vs. Joe Jonas  New Years Feud Goes On,FAKE,FAKE
+1115,1115,Alicia Vikander Flashes Wedding Ring at First Appearance After Wedding to Michael Fassbender,TRUE,TRUE
+1116,1116,"Selena Gomez Talks The Weeknd Split, Justin Bieber Reunion",FAKE,FAKE
+1117,1117,Maria Menounos Leaving E! News After Brain Tumor Diagnosis: 'I'm Gonna Take Some Time and See What's Next',TRUE,TRUE
+1118,1118,In Defense Of: Oxygen Series Looks at Lawyers Who Defend the Indefensible,TRUE,TRUE
+1119,1119,PTC Analysis of YouTube Finds Explicit Content is One Click Away from Children,FAKE,TRUE
+1120,1120,Selena Gomez Lovingly Strokes Justin Bieber&#39;s Face on Valentine&#39;s Day,TRUE,TRUE
+1121,1121,Joaquin Phoenix and Rooney Mara 'found love' while shooting biblical epic,FAKE,FAKE
+1122,1122,Outlander Season 4 Adds Downton Abbey Veterans in Pivotal Roles,TRUE,TRUE
+1123,1123,Momager Mastermind: How Kris Jenner Built an Empire That Eats Controversy for Breakfast,TRUE,TRUE
+1124,1124,Grammy Award,TRUE,TRUE
+1125,1125,"Kendall Jenner Panics Over Vogue's Kendall + Kylie Collection Review on KUWTK: ""It Could Break Us""",TRUE,TRUE
+1126,1126,Everything We Know About Kevin Hart's Alleged Extortion Case and Cheating Scandals,FAKE,TRUE
+1127,1127,Taylor Swift Gives Fans an Inside Look at 'Reputation' Secret Sessions,TRUE,TRUE
+1128,1128,Travis Scott Hangs Out With Blac Chyna During Flirty Night Out  Should Kylie Be Worried?,FAKE,FAKE
+1129,1129,"What Does ""Bidi Bidi Bom Bom"" Mean?",TRUE,TRUE
+1130,1130,What Is Lupus? - Symptoms and Treatment,TRUE,TRUE
+1131,1131,Nicole Kidman and Keith Urban Throw Some Shade at Andy Cohen,TRUE,FAKE
+1132,1132,The Perfect 5-Minute Makeup Routine,TRUE,TRUE
+1133,1133,Blake Shelton Calls Meeting Gwen Stefani 'a Miracle' After 'Hitting Rock Bottom',FAKE,FAKE
+1134,1134,How Blake Shelton and Kelly Clarkson made Adam Levine cry,TRUE,TRUE
+1135,1135,"Meet Pharrells Muse Mette Towley, the Dancer Who Let Rihanna Shave Her Head",TRUE,TRUE
+1136,1136,"Demi Lovato Has Been Open About Her Sobriety, Mental Health",TRUE,TRUE
+1137,1137,Selena Gomez's mom admits to tension with her over Justin Bieber,TRUE,TRUE
+1138,1138,Emmys 2018 Record-Breaking Nominees,TRUE,TRUE
+1139,1139,"""Scott Brought a Girl Out Here!"" Disick Disrupts Another Trip and the Kardashian Family's Reaction Is Priceless: Watch Now",TRUE,TRUE
+1140,1140,Heres Why Chance the Rapper and Baby Kensli Are One of the Cutest Father-Daughter Duos on,TRUE,TRUE
+1141,1141,The night Prince Harry knew he'd met 'the one',TRUE,TRUE
+1142,1142,"Best Hairstyles, Shampoo, and Products to Tame Frizzy Hair",TRUE,TRUE
+1143,1143,Olaf's Frozen Adventure,TRUE,TRUE
+1144,1144,"Tom Sandoval and Ariana Madixs Guide to the Kentucky Derby: How to Eat, Drink and Party All Weekend Long",TRUE,TRUE
+1145,1145,'Dawsons Creek Parents: Cast Reunion Was 'Done Behind Our Backs,TRUE,TRUE
+1146,1146,Beyonce Building  500000 Nursery For Twins  Report,FAKE,FAKE
+1147,1147,Top 10 Celebrity Workouts for a Killer Body,TRUE,TRUE
+1148,1148,Nicole Kidman and Keith Urban's marriage back on track,FAKE,FAKE
+1149,1149,Former reality star Jon Gosselin reveals how he celebrated his sextuplets big milestone birthday,TRUE,TRUE
+1150,1150,Kim Kardashian Bans Other Kids From Art Class  Special Treatment For North And Penelope,FAKE,FAKE
+1151,1151,Stars Who Will Inspire You to Wear Double Denim,TRUE,TRUE
+1152,1152,"Nikki Bella Talks Planning ""Intimate"" Wedding to John Cena and Offers Beyonc Some Tips on Raising Twins: ''Call Me!''",TRUE,TRUE
+1153,1153,The Best Celebrity Short Haircuts of All Time,TRUE,TRUE
+1154,1154,25 photos that show how Kylie Jenner's hair has evolved through the years,TRUE,TRUE
+1155,1155,Princess Grace's Grandson Is Getting Married  to His College Sweetheart,TRUE,TRUE
+1156,1156,Buffy the Vampire Slayer,TRUE,TRUE
+1157,1157,Greys Anatomy Spinoff Gets A Title,TRUE,TRUE
+1158,1158,Pop Gets Personal: Inside 2017's Unexpected Resurgence of the Music Documentary,TRUE,TRUE
+1159,1159,Where Do The Kardashians Live? Kim Kardashians House is Huge!,FAKE,TRUE
+1160,1160,A Complete History Of Scott Disick & Sofia Richie's Relationship,TRUE,TRUE
+1161,1161,Did Jay-Z's 4:44 really sell a million copies in five days?,TRUE,TRUE
+1162,1162,KFC has a new Colonel Sanders  and it's George Costanza,TRUE,TRUE
+1163,1163,Jessica Chastain Wedding Photos Shamefully Published In Touch,FAKE,FAKE
+1164,1164,Khloe Kardashian Didnt Get Banned From Cleveland Cavaliers Games [DeBunked],FAKE,FAKE
+1165,1165,How Jennifer Lopez Tamed Alex Rodriguez: From Serial Star Dater to MVP of Her Heart,TRUE,FAKE
+1166,1166,"Evan Ross Biography, Age, Father, Siblings, Wife, Net Worth and Movies",TRUE,TRUE
+1167,1167,Inside Khloe Kardashian and Tristan Thompsons New Normal in Los Angeles,TRUE,TRUE
+1168,1168,Last chance to vote in this year's TV Scoop Awards: Pressparty,TRUE,TRUE
+1169,1169,Watch Jenna Dewan's Scarily Accurate Tarot Card Reading That Foreshadowed Channing Tatum Split,TRUE,TRUE
+1170,1170,LoLa Monroe Confronts Crystal Smith on The Platinum Life: ''Stop Making Me Out to Be the Person With the F--king Problem!'',TRUE,TRUE
+1171,1171,An In-Depth Analysis of Jennifer Aniston's Body Language with Justin Theroux Versus Brad Pitt,FAKE,FAKE
+1172,1172,Angelina Jolie Secretly Seething Jennifer Aniston Globes,FAKE,FAKE
+1173,1173,Ed Sheeran Dedicates Song to Baby Girl Named After Him: 'I Love Babies!',TRUE,TRUE
+1174,1174,'Bachelor' Alum Lauren Bushnell Splits With Boyfriend Devin Antin,TRUE,TRUE
+1175,1175,Sheree Whitfield Talks Dramatic RHOA Reunion,TRUE,TRUE
+1176,1176,Gracie Phillips reveals her dad is Lou Diamond Phillips,TRUE,TRUE
+1177,1177,E!'s Carissa Culiner Shares First Photos of Her Newborn Son,TRUE,TRUE
+1178,1178,Tom Hanks To Reprise SNL Role In David S. Pumpkins Halloween Special,TRUE,TRUE
+1179,1179,Jimmy Fallon and Miley Cyrus Photobomb Unsuspecting Fans In Adorable 'Tonight Show' Sketch,TRUE,TRUE
+1180,1180,The best burns from Julia Louis-Dreyfus' Mark Twain Prize ceremony,TRUE,TRUE
+1181,1181,Terry Crews sues Hollywood agent he says groped him,TRUE,TRUE
+1182,1182,Watch Married at First Sights Jonathan Squirm When Confronted by Mollys Sister,TRUE,TRUE
+1183,1183,Wonder Woman 2 gets new release date away from Star Wars,TRUE,TRUE
+1184,1184,Brad Pitt & Sienna Miller Caught Flirting,FAKE,FAKE
+1185,1185,Beyonc Gives The BeyHive A Shout Out Ahead Of Coachella Performance,TRUE,TRUE
+1186,1186,Kesha Shows Support for Taylor Swift With Heartfelt Tweet: 'Truth Is Always the Answer',FAKE,TRUE
+1187,1187,Hailee Steinfeld Denies Justin Bieber Dating Rumors,FAKE,FAKE
+1188,1188,Gigi Hadid and Zayn Malik Split: Look Back at Their Relationship,TRUE,TRUE
+1189,1189,The Best New Beauty Products This Week,TRUE,TRUE
+1190,1190,"Met Gala 2017 Beauty: Best Hair & Makeup Looks on Selena Gomez, Katy Perry, and More",TRUE,TRUE
+1191,1191,Blake Lively Trades in Blonde Hair for Cropped Black 'Do While Filming Upcoming Thriller,TRUE,TRUE
+1192,1192,Tori Spelling Returns to Social Media Following Alleged Breakdown,TRUE,TRUE
+1193,1193,Botched Recap: Dr. Paul Nassif Expands Patient's Forehead to Fix Severe Scar From a Moped Accident,TRUE,TRUE
+1194,1194,"Kylie Jenner named her baby Stormi, and revealed her last name",TRUE,TRUE
+1195,1195,"Gal Gadot, Penelope Cruz, Seth Rogen, Kerry Washington to Present at Golden Globes",TRUE,TRUE
+1196,1196,"Khlo Kardashian Probably Won't Leave Tristan Thompson, Source Says: 'She's a Hopeless Romantic'",FAKE,TRUE
+1197,1197,Lamar Odom Responds to Kanye West's Touching Tweet About His 2016 Recovery,TRUE,TRUE
+1198,1198,30 Makeup Looks To Try In December Winter 2018,TRUE,TRUE
+1199,1199,Is Kendall Jenner really at war with Emily Ratajkowski?,FAKE,FAKE
+1200,1200,Anne Heche Wants Ellen DeGeneres Back?,FAKE,FAKE
+1201,1201,Are NBA star Chandler Parsons and Chloe Bennet Dating; Find out the Relationship Status of the Pair,TRUE,TRUE
+1202,1202,Pink Brought Her Daughter To The CMA Awards & They're The Best Couple On The Red Carpet,TRUE,TRUE
+1203,1203,Lady Gaga & Christian Carino: Wedding Plans Revealed?!,FAKE,FAKE
+1204,1204,Amber Rose sleeps through 4-hour home invasion,TRUE,TRUE
+1205,1205,Why Bachelor Fans Are So Obsessed with Ashley Iaconetti and Jared Haibon's Long-Awaited Romance,TRUE,TRUE
+1206,1206,Tiger Woods arrested for DUI charge in Florida,TRUE,TRUE
+1207,1207,Amy Schumer Recited The Funniest and Cutest Wedding Vows EVER,TRUE,TRUE
+1208,1208,National Treasure (film),TRUE,TRUE
+1209,1209,Kristin Cavallari at Wit's End With ''Strong Personality'' Shannon ...,TRUE,TRUE
+1210,1210,'Happy Days' star Erin Moran dies at 56,TRUE,TRUE
+1211,1211,Anthony Michael Hall Sentenced to Three Years' Probation for Assault,TRUE,TRUE
+1212,1212,Prince William Helps Build Community Center,TRUE,TRUE
+1213,1213,Selena Gomez Responds to 'Sabrina' Casting Rumors,FAKE,TRUE
+1214,1214,Justin Bieber Works on His Dance Moves to Ed Sheerans Perfect: Watch!,TRUE,TRUE
+1215,1215,Nikki Bella Practices Walking Down the Aisle During a Masquerade Party on Total Bellas: Im in Heaven!,TRUE,TRUE
+1216,1216,Shirtless Kevin Hart kisses newborn son Kenzo Kash,TRUE,TRUE
+1217,1217,Ben Affleck introduces Lindsay Shookus to Jennifer Garner,FAKE,FAKE
+1218,1218,Cynthia Bailey Is Really Trying Not to Be This Kind of Dater After Her Divorce,TRUE,TRUE
+1219,1219,Miss USA Kara McCullough backtracks health care comments: 'It should be a right',TRUE,TRUE
+1220,1220,Little Mixs Perrie Edwards Released From Hospital,TRUE,TRUE
+1221,1221,Liam Payne Admits Your Life Is Changed Forever Once You Welcome A Baby,TRUE,TRUE
+1222,1222,Nick Lachey Shares Sweetest Sixth Anniversary Message for 'Beautiful' Wife and 'Soul Mate' Vanessa,TRUE,TRUE
+1223,1223,Ellen DeGeneres and Portia De Rossi Rock Coordinating Outfits to Justin Timberlake's Concert,FAKE,TRUE
+1224,1224,Amazon.com: Watch The Greatest Showman,TRUE,TRUE
+1225,1225,"We Have Details on Upcoming Episodes of The Flash, Arrow, Supergirl, and Riverdale!",TRUE,TRUE
+1226,1226,Opinion | Mayim Bialik: Being a Feminist in Harvey Weinsteins World,TRUE,TRUE
+1227,1227,Alicia Vikander Opens Up About Married Life with Michael Fassbender: 'I Feel I'm More Happy',TRUE,TRUE
+1228,1228,"Camille Grammer Did Not Leave Louis Vuitton Belt Behind At Airport, Despite Report",FAKE,FAKE
+1229,1229,Lea Micheles Hairstylists Mixes Texture Spray with Coconut Oil to Fake Second-Day Hair,TRUE,TRUE
+1230,1230,Kourtney Ks Competitive With Scott Over Love Life: She Brags About Great Sex With Younes,FAKE,FAKE
+1231,1231,Deadpool 2's Zazie Beetz Mourns Loss of Her Stunt Double Joi 'SJ' Harris,TRUE,TRUE
+1232,1232,RuPaul Is Ready for His Legacy,TRUE,TRUE
+1233,1233,Fantasia Barrino On That Time She Got Married To Herself!,TRUE,TRUE
+1234,1234,Heather Heyers mom reveals powerful takeaway from Charlottesville tragedy,FAKE,TRUE
+1235,1235,Why Meghan Markle Won't Be Able to Have a Baby Shower,FAKE,TRUE
+1236,1236,Ariel Winter Levi Meaden Derailed,FAKE,TRUE
+1237,1237,Dan Reynolds Net Worth,TRUE,TRUE
+1238,1238,Manchester bomber is linked to Brussels 'Man in the Hat',TRUE,TRUE
+1239,1239,"Gossip Cop Busted 2404 Stories In 2016, National Enquirer Was Worst Offender  Gossip Cop",FAKE,FAKE
+1240,1240,"Angelina Jolie has a new man in her life, guess who?",FAKE,FAKE
+1241,1241,Colton Haynes breaks silence on rumored Jeff Leatham split,TRUE,TRUE
+1242,1242,Kylie Jenner Says Daughter Stormi Looks Just Like Her,TRUE,TRUE
+1243,1243,Cole Sprouse Sounds Off on Lili Reinhart Romance Rumors: Take it With a Grain of Salt,TRUE,TRUE
+1244,1244,David Spade Breaks His Silence on Kate Spade's Death,TRUE,TRUE
+1245,1245,Selena Gomez Named Billboard's 2017 Woman of the Year,TRUE,TRUE
+1246,1246,Scott Disick enjoys night out with 'girlfriend' Ella Ross,TRUE,TRUE
+1247,1247,Married at First Sight Divorce: Tom Wilson & Lillian Vilchez Announce Split,TRUE,TRUE
+1248,1248,Teen Mom 2's Jenelle Evans Responds to Emergency Custody Filing By Exs Mom,TRUE,TRUE
+1249,1249,"Selena Gomez's Style Evolution, From Disney Days to Fashion Forward Superstar Photos",TRUE,TRUE
+1250,1250,James Corden denies being the 'drunkest person' at 2018 Met Gala after Andy Cohen called him out,TRUE,TRUE
+1251,1251,Definitive Proof That Justin Timberlake & Jessica Biel Are Stronger Than Ever,FAKE,FAKE
+1252,1252,Anna Faris Officiates Unqualified Co-Host Sim Sarna's Wedding  in Ugg Boots!,TRUE,TRUE
+1253,1253,Daria Is Being Rebooted With a Few Big Twists,TRUE,TRUE
+1254,1254,Larry David Is an Emoji NowYou Can Probably Predict His Reaction to This Development,TRUE,TRUE
+1255,1255,"Angelina Jolies parental choices must have really worried judge overseeing Brad Pitt custody fight, experts say",FAKE,FAKE
+1256,1256,Arnold Schwarzenegger to return home after emergency open heart surgery,TRUE,TRUE
+1257,1257,Jenna Dewan Tatum and Former Backup Dancers Reunite With Janet Jackson at L.A. Show,TRUE,TRUE
+1258,1258,Ciara and Russell Wilson Dazzle on the 2018 ESPYs Red Carpet,TRUE,TRUE
+1259,1259,Jason Aldean Cancels Concerts 'Out of Respect for Victims' of Las Vegas Shooting: 'It's the Right Thing to Do',TRUE,TRUE
+1260,1260,Roseanne: Shameless Star Emma Kenney Set As Darlene And Davids Daughter,TRUE,TRUE
+1261,1261,Scott Disicks Worst Fear Is That His Youngest Son Reign Isnt His (EXCLUSIVE),FAKE,FAKE
+1262,1262,'Agents of SHIELD' Star Clark Gregg on the Tragic Season 5 Finale,TRUE,TRUE
+1263,1263,"Craig Mack, Flava in Ya Ear Rapper, Dead at 47",TRUE,TRUE
+1264,1264,"Jessica Alba Gives Birth, Welcomes Third Child With Cash Warren: Photos",TRUE,TRUE
+1265,1265,Ellen DeGeneres' wife Portia de Rossi makes her cry with 60th birthday gift,FAKE,TRUE
+1266,1266,Gymnastics doctor Larry Nassar gets 40 to 175 years for sex abuse,TRUE,TRUE
+1267,1267,Live at the Apollo Hardcover Book,TRUE,TRUE
+1268,1268,Barack Obama: Michelle Obama wishes she didn't have to be married to me while I'm president,FAKE,TRUE
+1269,1269,Ellen DeGeneres and Portia de Rossi Are At Their Breaking Point (EXCLUSIVE),FAKE,FAKE
+1270,1270,"Kanye Cookies, Magic Tricks & KarJenners: Inside Kanye West's Elaborate 41st Birthday Celebration",TRUE,TRUE
+1271,1271,Billboard Latin Music Awards 2017: See the best-dressed stars,TRUE,TRUE
+1272,1272,Selena Gomez all smiles with Caleb Stevens after Justin Bieber's engagement,FAKE,FAKE
+1273,1273,Descendants 3 Stars Get Emotional on the Final Day of Filming,TRUE,TRUE
+1274,1274,Robert Pattinson Explains How 'Twilight' Changed His Life,TRUE,TRUE
+1275,1275,Best Dressed Celebrities At Cannes Film Festival 2017,TRUE,TRUE
+1276,1276,Taylor Swift To Expose Elite Pedophiles And Satanic Illuminati Is Fake News,FAKE,FAKE
+1277,1277,Kourtney Kardashian sports beige frock for date night with Younes Bendjima,TRUE,TRUE
+1278,1278,Scott Disick & Sofia Richie Break Up  Then Get Back Together: Inside Their Roller Coaster Romance,TRUE,FAKE
+1279,1279,Ashley Iaconetti and Jared Haibon Want a TV Wedding,TRUE,TRUE
+1280,1280,Ayesha and Stephen Curry Welcome Third Child,TRUE,TRUE
+1281,1281,Jennifer At WAR With The Voice Execs For Using Show To Promote Her Own Company!,FAKE,FAKE
+1282,1282,'Bachelor' stars Nick Viall and Vanessa Grimaldi speak out after split,TRUE,TRUE
+1283,1283,"The Jennifer Lawrence Interview, by Oprah Winfrey",TRUE,TRUE
+1284,1284,Shannon Beador Opens Up About Her Relationship with David Beador During Their Divorce,TRUE,TRUE
+1285,1285,Nina Dobrev: Ex Ian Somerhalder Marrying Nikki Reed Was 'Beautiful',FAKE,TRUE
+1286,1286,Meghan Markle Retires From Acting & Embraces Her Royal Duties,TRUE,TRUE
+1287,1287,Pippa Middleton and James Matthews honeymoon on paradise island in Pacific,TRUE,TRUE
+1288,1288,Why Megyn Kelly Didn't Make The List Of Highest-Paid TV Hosts,FAKE,TRUE
+1289,1289,Daniel Bryan formally cleared by WWE to return to in-ring action,TRUE,TRUE
+1290,1290,"Kris & Caitlyn Jenner Terrified About O.J. Simpsons Prison Release, SOURCE CLAIMS",FAKE,FAKE
+1291,1291,Kate Upton Is Pregnant! Supermodel and Justin Verlander Are Expecting Their First Child Together,TRUE,TRUE
+1292,1292,RHOBH Star Kyle Richards' Husband Speaks Out After Home Burglary: 'Nothing Replaces Family',TRUE,TRUE
+1293,1293,Outrage after Survivor outing: Why havent you told anyone here youre transgender?,TRUE,TRUE
+1294,1294,"Botched Patient Kailan Had a 15-Minute Boob Job That Went Terribly, Terribly Wrong",TRUE,TRUE
+1295,1295,"Milo Ventimiglia on Jack's 'This Is Us' death, Mandy Moore's reaction",FAKE,TRUE
+1296,1296,Kim Kardashian Urging Kanye West Not To Drop Blac Chyna Diss Track After She Sues Rob & Family,FAKE,FAKE
+1297,1297,Haylie Duff Net Worth,TRUE,TRUE
+1298,1298,Emmy candidate Jonathan Van Ness can not remember the last time he cried so hard,TRUE,TRUE
+1299,1299,'The Mummy' London Premiere Canceled After Manchester Attack,TRUE,TRUE
+1300,1300,Margot Robbie Biography,TRUE,TRUE
+1301,1301,"'Mama' June Shannon gushes over her 'very, very awesome' new beau",TRUE,TRUE
+1302,1302,Princess Beatrice Brings Royalty to 2018 Met Gala Red Carpet,TRUE,TRUE
+1303,1303,Kevin J. Walsh - News,FAKE,FAKE
+1304,1304,"A Star Is Born: Bradley Cooper, Lady Gaga in a Rapturous Remake  Variety",FAKE,TRUE
+1305,1305,Karlie Kloss wears cream trench coat for Paris Fashion Week,TRUE,TRUE
+1306,1306,Justin Bieber Was Asked If Hailey Baldwin Is Pregnant and He Got So Pissed,FAKE,TRUE
+1307,1307,Khloe Kardashian ditches Tristan Thompsons name from anniversary card,FAKE,TRUE
+1308,1308,Steve Harvey,TRUE,TRUE
+1309,1309,An emotional Fergie opens up about Josh Duhamel: 'I wanted to stay married forever',TRUE,TRUE
+1310,1310,The first (spoiler free) reactions and reviews are in for Avengers: Infinity War,TRUE,TRUE
+1311,1311,Sisqo's 'The Thong Song' Gets Tropical Update From JCY: Listen,TRUE,TRUE
+1312,1312,First Look: The Voice Season 15,TRUE,TRUE
+1313,1313,Lisa Bonet surprises Jason Momoa on 'Aquaman' set for his birthday,TRUE,TRUE
+1314,1314,Melania Trump,TRUE,TRUE
+1315,1315,"Entertainment news, latest Bollywood movie review, entertainment news headlines",FAKE,TRUE
+1316,1316,Golden Globes: James Franco Hosted a Dinner for Fellow Best Actor Nominees,TRUE,TRUE
+1317,1317,"Kris Jenner, Jennifer Aniston, and More Stars Who Blamed Their Significant Others For Their Weight Gain",FAKE,FAKE
+1318,1318,Opinion | Lena Dunham: Losing Birth Control Could Mean a Life of Pain,FAKE,TRUE
+1319,1319,Beyonc to reunite with Destinys Child at Coachella,FAKE,TRUE
+1320,1320,Mario Lopez admits: 'I cheated on Ali Landry days before our wedding',FAKE,TRUE
+1321,1321,Prince Harry and Meghan Markle to marry on 19 May 2018,TRUE,TRUE
+1322,1322,"Kim Kardashian Poses Topless, Talks Fave Spa Treatments: Pic",TRUE,TRUE
+1323,1323,"Caking Memes, Mariah Memes, Carey Memes",FAKE,TRUE
+1324,1324,"'Three's Company'! Kourtney Kardashian, Scott Disick & Sofia Richie Take Family Vacation in Mexico",TRUE,TRUE
+1325,1325,"Dina Manzo, Boyfriend Beaten in Home Invasion",TRUE,TRUE
+1326,1326,Debbie Reynolds Net Worth,FAKE,TRUE
+1327,1327,The Best Self-Tanners You Can Buy on Amazon,TRUE,TRUE
+1328,1328,Tyga Is Dating Kim Kardashian Look-Alike Kamilla Osman Following Kylie Jenner's Pregnancy News: Source,TRUE,FAKE
+1329,1329,"Bachelor in Paradise Contestant Corinne Olympios Hires Top Hollywood Lawyer, Claims I Am a Victim",TRUE,TRUE
+1330,1330,"Miley Cyrus Gets Candid About Liam Hemsworth, Weed and That Foam Finger: ""I Needed to...",TRUE,TRUE
+1331,1331,Simone Biles: Speaking about Larry Nassar abuse empowered me,TRUE,TRUE
+1332,1332,RHOC: Kelly Dodd cries after feeling betrayed by pal Vicki Gunvalson,TRUE,TRUE
+1333,1333,How a failed blind date led Mila Kunis to love Ashton Kutcher  NewsBeezer,TRUE,TRUE
+1334,1334,Matt Damon Explains Why He And Ben Affleck Did Not See Each Other For Thanksgiving This Year,TRUE,TRUE
+1335,1335,D23 Expo 2017: Announcements and Star Sightings From Disney Fan Convention,TRUE,TRUE
+1336,1336,Kendall Jenner Thinks It's 'a Bit Weird' That Kylie Had a Baby Before Her,TRUE,TRUE
+1337,1337,Olivia Culpo's Wide-Leg Denim Is Making Us Rethink Skinny Jeans,TRUE,TRUE
+1338,1338,"LeAnn Rimes and Eddie Cibrian Fell In Love On Set of ""Northern Lights,"" But At 40, What's Happened To His Career?",FAKE,TRUE
+1339,1339,"2018 Miss USA Pageant Swimwear Round Photos  See 2018 Miss USA Contestants in Swimsuits, Bikinis",TRUE,TRUE
+1340,1340,"Dance Moms star Abby Lee Miller leaves prison, moves into halfway house",TRUE,TRUE
+1341,1341,Chrissy Teigen Asks Twitter Followers to Help Solve Her Banana Bread Dilemma,TRUE,TRUE
+1342,1342,Will There Be A Season 3 Of The Arrangement? Fans Want The Drama To Continue,TRUE,TRUE
+1343,1343,"They trashed their wedding photographer over a $125 fee, so a jury told them to pay her $1 million",TRUE,TRUE
+1344,1344,Beyonc And Jay-Z's Surprise Album Is Here: Listen To 'Everything Is Love',TRUE,TRUE
+1345,1345,Ben Affleck & Jennifer Garner Renew Their Vows In Intimate Ceremony With Kids,FAKE,FAKE
+1346,1346,Justin Theroux Found Post-Its From Brad Pitt During Jen Aniston Marriage,FAKE,FAKE
+1347,1347,Javi Marroquin & Briana DeJesus Kiss In New PDA Pics After Kailyn Confirms She Has A GF,TRUE,TRUE
+1348,1348,"Khlo, Tristan Are in 'Best Place They've Been Since Scandal': Source",FAKE,TRUE
+1349,1349,"P!nk Told Her Daughter A Beautiful, Tear-Jerking Story At The VMAs",TRUE,TRUE
+1350,1350,Selena Gomez Debuted A New Look on the AMA Red Carpet and Fans Are 'Shook',FAKE,TRUE
+1351,1351,Carrie Fisher Cause of Death: Actress Died of Sleep Apnea,TRUE,TRUE
+1352,1352,Justin Theroux Speaks Out On Brangelina's Divorce,FAKE,FAKE
+1353,1353,Kerry Washingtons Mad Lib Theater With Jimmy Fallon Is The Best Thing Weve Seen This Week!,TRUE,TRUE
+1354,1354,"Romances, Baby News and More: All the Events That Influenced Drake's Scorpion Album",TRUE,TRUE
+1355,1355,Kate Middleton Shushing the Kids at Pippa Middleton's Wedding Is a Total Mom Move,TRUE,TRUE
+1356,1356,Kim Kardashian Explains Why She Didn't Invite Surrogate to Baby Shower,FAKE,TRUE
+1357,1357,6 Classic HGTV Shows We Wish Would Stage a Comeback,TRUE,TRUE
+1358,1358,Michael Strahan 'Looking Forward' To Working With Alex Rodriguez At ABC,FAKE,FAKE
+1359,1359,Inside Miley Cyrus' 'Affectionate' Australian Visit with Liam Hemsworth and His Family,TRUE,TRUE
+1360,1360,Angela Lansbury confirmed to star in BBC adaptation of Louisa May Alcott's Little Women,TRUE,TRUE
+1361,1361,Inside Kim Kardashians Nasty Split From BFF & Assistant Stephanie Shepherd,FAKE,FAKE
+1362,1362,"Walmart to remove 'Cosmopolitan' from checkout lines, says it's a 'business decision'",TRUE,TRUE
+1363,1363,Robert Pattinson Dishes on Western Comedy Damsel As He Says He Would Definitely Return To Franchise-Land,FAKE,FAKE
+1364,1364,Harry Connick Jr. and Wife Jill Goodacre Open Up About Her Secret 5-Year Battle with Breast Cancer,TRUE,TRUE
+1365,1365,Meryl Davis Is Engaged to Fedor Andreev,TRUE,TRUE
+1366,1366,Cam Newton dropped by sponsor over sexist remark to female reporter,TRUE,TRUE
+1367,1367,YouTube Star Kian Lawley Fired From Foxs The Hate U Give After Racist Video Resurfaces,TRUE,TRUE
+1368,1368,"Tom Cruise Upset About Katie Holmes, Jamie Foxx Romance Going Public?",FAKE,FAKE
+1369,1369,Nikki Bella's Ex-Husband: Find out About Her First Marriage!,TRUE,TRUE
+1370,1370,I Read It So You Don't Have To: Lynne Spears' memoir,FAKE,TRUE
+1371,1371,Kim Kardashian and Kanye West's baby son Saint 'will NOT appear on KUWTK',TRUE,FAKE
+1372,1372,Angelina Jolie Planning Epic Halloween Party For The Kids: Theyre Begging Her To Be Maleficent,FAKE,FAKE
+1373,1373,Prince Harry and Meghan Markle Want Babies Right Away,FAKE,FAKE
+1374,1374,Sarah Jessica Parker: Kim Cattrall said things that were really hurtful about me,FAKE,TRUE
+1375,1375,73 Questions With Gigi Hadid,TRUE,TRUE
+1376,1376,All Apologies: 22 Times Justin Bieber Said Sorry,FAKE,TRUE
+1377,1377,Hugh Hefner Net Worth: How He Built His Playboy Fortune,TRUE,TRUE
+1378,1378,The Harvey Weinstein scandal has inspired a Ben Affleck scandal,TRUE,TRUE
+1379,1379,Tyler Henry Gives Jim Parsons Some Comfort About His Fathers Death: The Important Thing Is to Know It Was Quick on Hollywood Medium,TRUE,TRUE
+1380,1380,Hilary Duff Is Pregnant! Actress Expecting a 'Little Princess' with Boyfriend Matthew Koma,TRUE,TRUE
+1381,1381,"Casey Affleck's wife, Summer Phoenix, officially files for divorce from the Oscar winner",FAKE,TRUE
+1382,1382,Seagram's heiress nabbed in NXIVM sex cult arrests; 'Smallville' star Allison Mack faces more charges,TRUE,TRUE
+1383,1383,'Pretty Little Liars': Lucy Hale reveals her season 1 crush on Ian Harding,TRUE,TRUE
+1384,1384,Roselyn Snchez Criticized For Hosting Latin Grammys After Giving Birth,TRUE,TRUE
+1385,1385,Nicole Kidman wants Keith Urban to join cast of Big Little Lies but hes not convinced,FAKE,FAKE
+1386,1386,"The Ladies of 'The Platinum Life' Talk Love, Heartbreak & Drama on New Reality Series (Exclusive)",TRUE,TRUE
+1387,1387,Jimmy Kimmel,TRUE,TRUE
+1388,1388,Royal Wedding: The history of fascinators,TRUE,TRUE
+1389,1389,Liza Weil Finalizes Divorce from Paul Adelstein,TRUE,TRUE
+1390,1390,The LI reason Amy Schumer isnt taking husband Chris Fischers name,TRUE,TRUE
+1391,1391,This Is Real Life! Beyonc and Jay-Z Reveal How They Did The Work and Saved Their Marriage On New Album,FAKE,TRUE
+1392,1392,"The first official picture from Netflix's new ""Sabrina"" is here  and yes, we've got *chills*",TRUE,TRUE
+1393,1393,Game of Thrones (season 8),TRUE,TRUE
+1394,1394,William Levy Takes His 7-Year-Old Daughter to Her First Dance and It's Nothing Short of Adorable,TRUE,TRUE
+1395,1395,"Katy perry gets basted, kneaded and served in skin-baring (and slightly creepy) ''bon apptit'' music video:",TRUE,TRUE
+1396,1396,Jessica Alba dons unflattering denim at the Baby2Baby holiday bash in Beverly Hills with family,TRUE,TRUE
+1397,1397,Bradley Cooper Photobombs Brad Pitt and Makes Onstage Appearance at Glastonbury,TRUE,TRUE
+1398,1398,Kris Jenner Granted 3-Year Restraining Order Against Joshua Jacobs,TRUE,TRUE
+1399,1399,'The Bachelorette' Finale: Engaged Becca Kufrin Reveals Her Winner,TRUE,TRUE
+1400,1400,Sofia Richie Has Reportedly Broken Up With Scott Disick Following Rumors He Cheated on Her,TRUE,FAKE
+1401,1401,Logic Files for Divorce from Wife Jessica Andrea a Month After Split Announcement: Report,TRUE,TRUE
+1402,1402,The Marvelous Mrs. Maisel Season 2 To Definitely Stream This Year,TRUE,TRUE
+1403,1403,"Grammy Awards 2018: Bruno Mars sweeps, Jay-Z snubbed",TRUE,TRUE
+1404,1404,Eric Johnson Net Worth,TRUE,TRUE
+1405,1405,Emma Watson and Chord Overstreet confirm romance with a kiss,TRUE,TRUE
+1406,1406,Kim Zolciak-Biermann Sounds the Alarms on Alleged Car Burglar,TRUE,TRUE
+1407,1407,Spencer Pratt's Sister Slams Him as 'Evil' and 'Poisonous' on Twitter,TRUE,TRUE
+1408,1408,Are Jennifer Lopez & Alex Rodriguez Getting Married & Having Kids Together? The Truth,FAKE,FAKE
+1409,1409,Daniel Bryan Fights Back Tears After Daughter Birdie Watches Him Wrestle on Total Bellas: ''It's Just Unbelievable'',TRUE,TRUE
+1410,1410,Melissa Benoist talks Elseworlds' Supergirl finale and a Super showdown,TRUE,TRUE
+1411,1411,"Jesse Williams Ordered to Pay $50,000 a Month in Child Support",TRUE,TRUE
+1412,1412,Kris Jenner Admits to Feeling Like Caitlyns &amp;quot;Scapegoat&amp;quot; Amidst Memoir Drama,TRUE,FAKE
+1413,1413,Keeping Up with the Kardashians,FAKE,TRUE
+1414,1414,'Baywatch' Costume Designer on Giving the Iconic Red Bathing Suit a Modern Makeover,TRUE,TRUE
+1415,1415,Tyra Banks Reveals Cellulite Has Always Been an 'Insecurity',TRUE,TRUE
+1416,1416,Gabrielle Union Opens Up About Being a PTSD Survivor in Inspiring Video,TRUE,TRUE
+1417,1417,"Jesus Christ Superstar Live Sneak Peek: John Legend, Sara Bareilles Dazzle in Stunning On-Set Photos",TRUE,TRUE
+1418,1418,Rose McGowan accuses stars in black of 'Hollywood fakery',TRUE,TRUE
+1419,1419,Solved: Question about a missing song,FAKE,TRUE
+1420,1420,John Stamos' fiancee debuts baby bump on Instagram  see the pic,TRUE,TRUE
+1421,1421,Channing Tatum brings Magic Mike Live show to London,TRUE,TRUE
+1422,1422,"Man Attempts Suicide, New York Post Makes Matt Lauer Joke",FAKE,TRUE
+1423,1423,Bethenny Frankel Swears by These Protein-Packed Foods,TRUE,TRUE
+1424,1424,"Miranda Lambert and Blake Shelton had an affair, her ex claims",FAKE,FAKE
+1425,1425,Jennifer Lopez Talks Marriage and Alex Rodriguez,FAKE,FAKE
+1426,1426,Sarah Jessica Parker reflects on Sex and the Citys 20th anniversary,TRUE,TRUE
+1427,1427,"Maisel, Escape at Dannemora Release Dates Aid in Globes Visibility  Variety",TRUE,TRUE
+1428,1428,"Janet Jackson and Jermaine Dupri Back Together? How Their Relationship Is ""Slowly Developing""",FAKE,FAKE
+1429,1429,Kevin Spacey Investigated for 3 New Sexual Assaults in London,TRUE,TRUE
+1430,1430,Survivor: Jeff Probst reacts to Jeff Varner outing Zeke as transgender,TRUE,TRUE
+1431,1431,Mark Consuelos Says the Body Shaming Over Kelly Ripa's Bikini Was 'Bizarre',TRUE,TRUE
+1432,1432,Hoda Kotb & Savannah Guthries New Feud On Today Set,FAKE,FAKE
+1433,1433,What Time Do the 2018 Golden Globes Start?,TRUE,TRUE
+1434,1434,Amal Clooney Wants To Hire Ugly Nannies For Twins  So George Can Avoid Cheating,FAKE,FAKE
+1435,1435,The Marvelous Mrs. Maisel Season 2 To Definitely Stream This Year,TRUE,TRUE
+1436,1436,Controversial 'Bachelor' Arie Luyendyk Jr. Reveals Wedding Won't Be Televised,TRUE,TRUE
+1437,1437,Revisiting Hugh Hefner and Holly Madison's Complicated Relationship,TRUE,TRUE
+1438,1438,"The Flash: ""Mixed Signals"" Review",TRUE,TRUE
+1439,1439,Gwen Stefani and Her Kids Spend a Fun Filled Spring Break at Blake Shelton's Oklahoma Ranch,TRUE,TRUE
+1440,1440,Tom Daley and husband Dustin Lance Black release first photos of their baby boy,TRUE,TRUE
+1441,1441,Travis Scott FaceTimes Kylie Jenner During NYC Performance Amid Pregnancy Reports,TRUE,TRUE
+1442,1442,"Harry Styles Delivers an Opening Monologue on 'The Late Late Show,' Discusses Side Effects of Going Solo",TRUE,TRUE
+1443,1443,Kylie Jenner reveals her baby daughter's name is Stormi,TRUE,TRUE
+1444,1444,Thrones: How Sansa and Arya worked together to take down Littlefinger,TRUE,TRUE
+1445,1445,Chrissy Teigen's dad hilariously throws shade at Khloe Kardashian,TRUE,TRUE
+1446,1446,Watch This BBC News Anchor Hilariously Fail and Then Masterfully Recover on Live Television,TRUE,TRUE
+1447,1447,"Brielle Biermann Attacks Kenya Moore in Vicious Twitter Rant, Calls Her 'Dumb Ugly Evil B**ch'",TRUE,TRUE
+1448,1448,Alicia Vikander Can Now Lift Her Own Weight Thanks to Her Intense Training for Tomb Raider,TRUE,TRUE
+1449,1449,"Dax Shepard Raising Daughters Empowered, Feminist",TRUE,TRUE
+1450,1450,Jersey Shore: The Oral History of MTVs Wildest Reality Show,TRUE,TRUE
+1451,1451,Report: Kim Kardashian to Do Nude Cookbook,FAKE,FAKE
+1452,1452,Nikki Bella Says She Only Shared a Bed With John Cena '30 Days Total Out of 6 Months' Prior to Split,TRUE,TRUE
+1453,1453,25 of the Most Shocking Revelations From 'Bachelor' Tell-All,TRUE,TRUE
+1454,1454,Jennifer Aniston and Justin Theroux Split 'Lovingly' After Two Years of Marriage,TRUE,FAKE
+1455,1455,Joe Biden comforts tearful Meghan McCain after losing his son to the same cancer her father has,TRUE,TRUE
+1456,1456,Mirka Federer,TRUE,TRUE
+1457,1457,Princess Charlotte Steals the Show at Eugenie's Wedding With Her Adorable Wave,TRUE,TRUE
+1458,1458,Patti Stanger Finds Out Why Her Adoptive Mother Didn't Want Her to Know About Her Biological Mom,TRUE,TRUE
+1459,1459,Vicki Gunvalson Uses Bible Verses To Apologize To Eddie Judge On Tonights The Real Housewives of Orange County,TRUE,TRUE
+1460,1460,Rob Dyrdek Welcomes Baby Girl With Wife Bryiana -- Find Out Her Name!,TRUE,TRUE
+1461,1461,"Despite Season 2 Issues, Netflix Greenlights '13 Reasons Why' Season 3",TRUE,TRUE
+1462,1462,Brad Pitt bid $120k to watch 'Game of Thrones' will Emilia Clarke,FAKE,FAKE
+1463,1463,Mini-Mes! Jennifer Lopez and Marc Anthony's Twins Dress Like Their Parents,TRUE,TRUE
+1464,1464,Jimmy Fallon responds to Trump: 'Why are you tweeting at me?',TRUE,TRUE
+1465,1465,Olivia Wilde and Jason Sudeikis Are Getting Married,FAKE,FAKE
+1466,1466,Tour The Gorgeous New House Fit For The Famous Cast Of Celebrity Big Brother,TRUE,TRUE
+1467,1467,'America's Got Talent' winners: Where are they now?,TRUE,TRUE
+1468,1468,How Brad Pitt and Angelina Jolie's Divorce Exploded,TRUE,FAKE
+1469,1469,Kate Middleton's family: Just how rich are the Middletons?,TRUE,TRUE
+1470,1470,Drake Is Still Raking in Degrassi Money 10 Years Later,TRUE,TRUE
+1471,1471,Watch Camila Cabello Perform Never Be the Same on Ellen  Rolling Stone,TRUE,TRUE
+1472,1472,Meghan Markle to be hit with EXPLOSIVE revelations as sister Samantha ready to TELL ALL,FAKE,FAKE
+1473,1473,Tyga calls out Kim Kardashian on Instagram,FAKE,TRUE
+1474,1474,The RHOC Season 13 Trailer Is FINALLY Here! - The Real Housewives,TRUE,TRUE
+1475,1475,Did Jennifer Lopez Throw Shade at Drake by Calling Him a 'Booty Call?',TRUE,FAKE
+1476,1476,The Whole Suits Cast Arrives at the Royal Wedding,TRUE,TRUE
+1477,1477,Prince Harry's exercise regime ahead of wedding revealed,TRUE,TRUE
+1478,1478,"Allison Mack faces more sex-cult charges as Seagram heiress, 3 others are arrested",TRUE,TRUE
+1479,1479,Fergie Shares Sweet Video of Son Axl Wishing His Dad Josh Duhamel a Happy Birthday -- Watch!,TRUE,TRUE
+1480,1480,Darren Criss Stood Up for Gender Equality on the Golden Globes 2018 Red Carpet,TRUE,TRUE
+1481,1481,How Emma Stone introduced Taylor Swift to her new man,TRUE,TRUE
+1482,1482,That Empty Seat at the Royal Wedding Wasn't for Princess Diana,TRUE,TRUE
+1483,1483,Chrissy Teigen Live-Snaps From Fake Media Awards: Watch!,TRUE,TRUE
+1484,1484,Prince Harry knew Meghan Markle was The One because the Queen's Corgis took to her straight away,TRUE,TRUE
+1485,1485,"Kevin Hart, Eniko Parrish vacation together after cheating rumors",TRUE,TRUE
+1486,1486,The comment from JLaw that has fans convinced she and Joel Edgerton are an item,FAKE,FAKE
+1487,1487,"Taylor Swift Reveals Camila Cabello, Charli XCX Will Open Tour",TRUE,TRUE
+1488,1488,Chrissy Metz and Boyfriend Josh Stancil Split,TRUE,TRUE
+1489,1489,WATCH: Jimmy Kimmel Reveals Details of His Son's Heart Surgery Video,FAKE,TRUE
+1490,1490,OUT100 2017 Covers Revealed,TRUE,TRUE
+1491,1491,The Cast of Riverdale Is Back Together! Check Out Their Sweetest Friendship Moments Ahead of Season 3,TRUE,TRUE
+1492,1492,Prince Philip ends seven decades of service with final solo engagement,TRUE,TRUE
+1493,1493,Gwyneth Paltrow Says Brad Pitt Threatened to Kill Harvey Weinstein Over Alleged Harassment,FAKE,TRUE
+1494,1494,"Janet Jackson separates from husband, plans to resume tour",TRUE,TRUE
+1495,1495,Everything That Happened Backstage After Bindi Irwin and Derek Hough Won Dancing With the Stars!,FAKE,TRUE
+1496,1496,"Stranger Things Kids Refuse to Give Any Season 3 Spoilers: 'We All Die,' Noah Schnapp Jokes",TRUE,TRUE
+1497,1497,Watch Eli Manning and Odell Beckham Jr. channel 'Dirty Dancing' in a perfect NFL ad for Super Bowl 2018,TRUE,TRUE
+1498,1498,Tracee Ellis Ross talks about her future and mom Diana,TRUE,TRUE
+1499,1499,Dirty Dancing remake is slammed by viewers,TRUE,TRUE
+1500,1500,Ariana Grande Says She's 'Broken' After Deadly Manchester Arena Attack,TRUE,TRUE
+1501,1501,Daisy Ridley Raps Eminem and Shows Off Her Lightsaber Skills,TRUE,TRUE
+1502,1502,The Real Housewives of Beverly Hills Are Fighting About Brett Kavanaugh,TRUE,TRUE
+1503,1503,Kate Hudson Net Worth,FAKE,TRUE
+1504,1504,How the Bella Twins Turned Your Fave Guilty-Pleasure Sport into a Feminist Empire,TRUE,TRUE
+1505,1505,How Does Angelina Jolies Engagement Ring Compare to the One Brad Pitt Gave Jennifer Aniston?,FAKE,TRUE
+1506,1506,Kristin Cavallari: How Reality TV Has Changed Since Laguna Beach,TRUE,TRUE
+1507,1507,Chip and Joanna Gaines of 'Fixer Upper' reveal baby number 5's name and photo,TRUE,TRUE
+1508,1508,"Kylie Jenner Gives Glimpse at Daughter Stormi's Nursery - and Yes, Butterflies Are Involved",TRUE,TRUE
+1509,1509,Suspended  Medium,TRUE,TRUE
+1510,1510,Sophia Bush: I Settled for Less in My Relationships,TRUE,TRUE
+1511,1511,Transparent Co-Stars Bradley Whitford and Amy Landecker Are Engaged,TRUE,TRUE
+1512,1512,"Prince Harry, Meghan Markle, Prince William, Kate, and 11 other royals all live in the same palace  here's a breakdown of their lavish quarters",FAKE,TRUE
+1513,1513,Shows Episode Schedule Page,TRUE,TRUE
+1514,1514,Prince Harry and Meghan Markle Head to Livingstone Following Botswana Adventure,TRUE,TRUE
+1515,1515,Ryan Murphy's Pose Makes History with Largest Transgender Cast,TRUE,TRUE
+1516,1516,Giuliana Rancic's Grammy Awards 2018 Dress Is Everything,TRUE,TRUE
+1517,1517,Bob Harper completes rehab after near-fatal heart attack,TRUE,TRUE
+1518,1518,"Inside the 2018 Writers Guild Awards: ""Get Out There and Dream!"" - Parker XL",TRUE,TRUE
+1519,1519,Miss America Cara Mund on the organization's recent email controversy,TRUE,TRUE
+1520,1520,"Natalie Negrotti Comes Out as Pansexual, Opens Up About New GF",TRUE,TRUE
+1521,1521,Something Shook Jennifer Garner at the 2018 Oscars: Let's Investigate,TRUE,TRUE
+1522,1522,Rihanna Reveals the Surprising Time She Feels Most Beautiful: ''In Humid Weather!'',TRUE,TRUE
+1523,1523,How to Wear Yoga Pants,TRUE,TRUE
+1524,1524,Celebrities Love: Fashion Nova,FAKE,TRUE
+1525,1525,Shop Joanna Gaines' 2018 Hearth & Hand Holiday Collection At Target,TRUE,TRUE
+1526,1526,Savannah Guthrie celebrates son Charley's birthday with homemade cake,TRUE,TRUE
+1527,1527,31 Unique Halloween Costume Ideas for 2018,TRUE,TRUE
+1528,1528,Why Miranda Lambert and Blake Sheltons Great Love Affair Unraveled,TRUE,TRUE
+1529,1529,A Day In The Life: How Jourdan Dunn Gets Ready For Fashion Week on ZIG,TRUE,TRUE
+1530,1530,Lauren Conrad buys $8.5-million home in Laguna Beach [Photos],TRUE,TRUE
+1531,1531,The Lesson Anna Faris Learned From Chris Pratt Divorce,TRUE,TRUE
+1532,1532,John Stamos is going to be a great dad: Lori Loughlin,TRUE,TRUE
+1533,1533,Matt Lauer throws Megyn Kelly under the bus,FAKE,TRUE
+1534,1534,Taylor Swift Is Countersuing for Just $1 in Her Sexual Assault Trial,FAKE,TRUE
+1535,1535,Did Kristen Doute *Really* Hook Up with James Kennedy in Mexico?,TRUE,TRUE
+1536,1536,Al Roker Reacts to Matt Lauer's Recent Public Statement Following 'Today' Show Firing (Exclusive),FAKE,TRUE
+1537,1537,Drake Lets Loose at 'Scorpion' Album Release Party in Miami,TRUE,TRUE
+1538,1538,"Nick and Vanessa Lachey Joining 'Dancing With the Stars' Season 25 Cast, Source Says",TRUE,TRUE
+1539,1539,Jessica Lange,TRUE,TRUE
+1540,1540,Teen Mom's Catelynn Lowell Ups and Downs,TRUE,TRUE
+1541,1541,Golden Globes Women Speak Out In Unity About Sexual Harassment,FAKE,TRUE
+1542,1542,"Kylie Jenner & Travis Scott Are ""Hands-On Parents"" Despite Busy Schedules",FAKE,FAKE
+1543,1543,Katy Perry &amp; Orlando Bloom Visit a Castle on Romantic Prague Getaway,TRUE,TRUE
+1544,1544,Khlo Kardashian And Tristan Thompson Celebrate His Birthday After Baby Shower With The Family,TRUE,TRUE
+1545,1545,"Daniel Day-Lewis retires from acting: Why fans shouldn't consider it a great tragedy- Entertainment News, Firstpost",FAKE,TRUE
+1546,1546,Prince Harrys exes: whos invited and who hasn't made the cut to the wedding of the year,FAKE,TRUE
+1547,1547,Johnny Depp Settles $25 Million Suit with Former Business Managers: Report,TRUE,TRUE
+1548,1548,Jennifer Lopez and The Rock worked out together like total badasses,TRUE,TRUE
+1549,1549,"Wendy Williams fainted on live TV, and it was terrifying",TRUE,TRUE
+1550,1550,Scarlett Johansson makes first appearance with Colin Jost,TRUE,TRUE
+1551,1551,Alessia Cara Defends Her Best New Artist Grammy Win: 'What I've Created Is Worth Something',TRUE,TRUE
+1552,1552,"5 Awkward Details About Blake Shelton And Gwen Stefani's Relationship, Including What She's Said About Marrying Him",FAKE,FAKE
+1553,1553,Alejandro Sanz honored by stars as Latin Grammy's Person of the Year,TRUE,TRUE
+1554,1554,Selena Gomez keeps her head down in New York City,TRUE,TRUE
+1555,1555,WAGS Atlanta's Kaylin Jurrjens Is Waking Up Her Hosting Face With Acting Lessons: ''I Feel Like I'm About to Motorboat Someone'',TRUE,TRUE
+1556,1556,Trump Rescinds Rules on Bathrooms for Transgender Students,FAKE,TRUE
+1557,1557,"Selena Gomez and Justin Bieber Are ""Talking Babies"" Because the Heart Wants What It Wants, Obv (EXCLUSIVE)",FAKE,FAKE
+1558,1558,Beyonce Dancers Les Twins Not Aging Well?,FAKE,FAKE
+1559,1559,Shakira Postpones El Dorado World Tour Opening Dates to 'Continue on Vocal Rest',TRUE,TRUE
+1560,1560,Sisters At War! Kylie Plotting To Conquer Kendalls Catwalk Career,FAKE,FAKE
+1561,1561,"Chlo Grace Moretz Washes Her Face With Olive Oil, And It's Genius",TRUE,TRUE
+1562,1562,12 Moments From 1D's Tour That Made Us Fall In Love With Harry Styles EVEN More!,TRUE,TRUE
+1563,1563,Joey Fatone Denies Rumors of *NSYNC Reunion at Super Bowl,FAKE,TRUE
+1564,1564,The Arrangements Christine Evangelista Covers Social Life Magazine: See the Gorgeous Pics!,TRUE,TRUE
+1565,1565,Too Close For Comfort? Jennifer Lopez Might Take A BREAK From Alex Rodriguez,FAKE,FAKE
+1566,1566,Katie Couric Opens Up About Matt Lauer's Firing from the Today Show,FAKE,TRUE
+1567,1567,Celebrity Culture,TRUE,TRUE
+1568,1568,Jamie Otis,TRUE,TRUE
+1569,1569,Roseanne Barr (Maybe) Spoils Her 'Conners' Exit,TRUE,TRUE
+1570,1570,"Leonardo DiCaprio Star in, Produce The Black Hand  Variety",FAKE,TRUE
+1571,1571,"Steven Bochco, Innovative Co-Creator of NYPD Blue, Hill Street Blues, Dies at 74",TRUE,TRUE
+1572,1572,Moms Leading Lady Chemistry Has Made Flaws Funny for 100 Episodes and Counting,TRUE,TRUE
+1573,1573,Doctor Who season 11: Is Missy about to RETURN? Michelle Gomez drops HUGE hint,TRUE,TRUE
+1574,1574,Bristol Palin takes dig at Dakota Meyer on Instagram,TRUE,TRUE
+1575,1575,The 15 Saddest Taylor Swift Breakup Songs,FAKE,TRUE
+1576,1576,"life, family, children, parents, story, death, school, old, information, born, movie",TRUE,TRUE
+1577,1577,Justin Bieber to Play in 2018 NBA Celebrity All-Star Game,TRUE,TRUE
+1578,1578,"Inside Melania Trumps complicated White House life: Separate schedule, different priorities",FAKE,TRUE
+1579,1579,Can growing up without a father be a gift? Jay-Z thinks so,FAKE,TRUE
+1580,1580,Kylie Jenner Talks Challenges of Motherhood With Kim Kardashian,TRUE,TRUE
+1581,1581,George Clooney Begging Amal For More Babies ,FAKE,FAKE
+1582,1582,Chris Evans and His Brother Quiz Each Other and Share Hilarious Childhood Memories,TRUE,TRUE
+1583,1583,2018 MTV Movie & TV Awards,TRUE,TRUE
+1584,1584,"Kourtney Kardashian Hoodie NOT A Message To Scott Disick, Despite Claim",FAKE,FAKE
+1585,1585,Katy Perry: Disastrous VMAs Hosting Has American Idol Producers in a PANIC!,FAKE,FAKE
+1586,1586,The Perfect Messy Bun in 3 Steps,TRUE,TRUE
+1587,1587,Jessica Alba Uses This Product to Fix Creases in her Concealer,TRUE,TRUE
+1588,1588,Meghan Markle Reportedly Approves of Priyanka Chopra and Nick Jonas' Engagement,TRUE,FAKE
+1589,1589,Pick You Favorites To See Which Netflix Series You Should Binge Next,TRUE,TRUE
+1590,1590,Selenas Hell! Gomez Goes To Rehab As Friends Fear Another Drug Relapse,FAKE,FAKE
+1591,1591,"Cameron Diaz, Jim Carrey ditch reunion movie plans",FAKE,FAKE
+1592,1592,Stars at the 2017 MTV EMAs: See all the red carpet pics,TRUE,TRUE
+1593,1593,How Hollywood Is Responding to the Harvey Weinstein Allegations,TRUE,TRUE
+1594,1594,"Chrissy teigen, demi lovato, justin timberlake and other celebs who've embraced their memes:",TRUE,TRUE
+1595,1595,Kardashians Diet: Salad on Keeping Up With the Kardashians,TRUE,TRUE
+1596,1596,"Bill Cosby Breaks His Silence to Say He's Blind, as Daughter Emotionally Defends Him",TRUE,TRUE
+1597,1597,Tips on How to Wear a Jean Jacket with Any Outfit,TRUE,TRUE
+1598,1598,"Robert Pattinson 2018: Kristen Stewarts Ex Reportedly Flirting With Kylie Minogue, Bella Hadid And Katy Perry",FAKE,FAKE
+1599,1599,Bridget Marquardt hasnt seen Hugh Hefner in years,TRUE,TRUE
+1600,1600,Check Out The REAL Reason For Which Miley Cyrus Is So Happy These Days  Brandi And Tish Cyrus Reveal Everything,TRUE,FAKE
+1601,1601,Gwen Stefani And Blake Shelton Look Like Theyre Celebrating Something In Mexico With Friends,FAKE,FAKE
+1602,1602,Blac Chyna Dances While Celebrating BFF Treasures Baby Shower,TRUE,TRUE
+1603,1603,Tim McGraw collapses on stage in Ireland,TRUE,TRUE
+1604,1604,"Cheryl Cole Responds to Liam Payne Breakup Rumors, Says Mother Wasn't Involved",TRUE,TRUE
+1605,1605,Zayn Malik Shaves His Head Bald,TRUE,TRUE
+1606,1606,CHADWICK BOSEMAN AND LUPITA NYONGO EXPLAIN THEIR MAGNETIC CHEMISTRY IN BLACK PANTHER:,TRUE,TRUE
+1607,1607,Top 10 Richest Rappers in The World 2018,TRUE,TRUE
+1608,1608,Aquaman offers first look at Nicole Kidman's Atlanna and villainous Black Manta,FAKE,TRUE
+1609,1609,Ariana Grande's Manager Scooter Braun Talks Las Vegas Shooting,FAKE,TRUE
+1610,1610,Lady Gagas New Version Of Joanne Is Even More Emotional Than The Original,TRUE,TRUE
+1611,1611,"The architect behind Beyonc and Jay-Z's $88 million house is building a new $500 million LA mansion with 7 pools, a jellyfish lounge, and a casino",TRUE,TRUE
+1612,1612,"Its Official! Kenya Moore Will Not Return to RHOA for New Season, More Details Revealed About Her Firing & Showdown with Bravo",TRUE,TRUE
+1613,1613,"North West plays with a Kanye West look-alike doll, because of course",TRUE,TRUE
+1614,1614,Lisa Vanderpump Will Be Handing Out Best in Show at the Beverly Hills Dog Show,TRUE,TRUE
+1615,1615,Yara Shahidi's Hairstylist Reveals 3 Tips for Perfecting Baby Hair,TRUE,TRUE
+1616,1616,Jennifer Aniston and Courteney Cox: Best Friend Photos,TRUE,FAKE
+1617,1617,Paris Jackson braless as split with boyfriend emerges,FAKE,FAKE
+1618,1618,List of songs recorded by Taylor Swift,TRUE,TRUE
+1619,1619,Amber Rose Says She and Rapper 21 Savage Are 'Perfect for Each Other'  Read Her Emotional Note,TRUE,TRUE
+1620,1620,"Brad Pitt Is Still Single, Despite Rumors He's Dating MIT Professor Neri Oxman",FAKE,FAKE
+1621,1621,The Real Housewives Blog: Porsha Williams Teases Drama On 'The Real Housewives of Atlanta''s Barcelona Trip,TRUE,TRUE
+1622,1622,Give Your Everyday Ponytail a NYFW Makeover With This Rope Twist Trick,TRUE,TRUE
+1623,1623,"Gwyneth Paltrow, Angelina Jolie and Others Say Weinstein Harassed Them",FAKE,TRUE
+1624,1624,The News of Keith Urban Getting Upset with Nicole Kidman!! How much of it is true?Know more about their Relationship  Married Biography,FAKE,FAKE
+1625,1625,This Photo Of Kanye West Kissing Saint Chicago Captures The Sweetest Father-Daughter Moment,TRUE,TRUE
+1626,1626,Kendall Jenner Hospitalized After Vitamin Drip Reaction: Report,FAKE,FAKE
+1627,1627,Paris Jackson mistaken for homeless person on movie set,TRUE,TRUE
+1628,1628,December 2018 Horoscopes: What the Stars Have in Store for Your Love Life and Career,TRUE,TRUE
+1629,1629,Miss Teen USA 2017,TRUE,TRUE
+1630,1630,"10 Things We Love About Oregons Newest TV Show, Everything Sucks! On Netflix",TRUE,TRUE
+1631,1631,Adventure & Romance! Inside 95-Year-Old Betty Whites Bucket List,FAKE,TRUE
+1632,1632,Gal Gadot shuts down 'Wonder Woman' body shaming,TRUE,TRUE
+1633,1633,Jennifer Garner,TRUE,TRUE
+1634,1634,See Every Celebrity at the Royal Wedding of Prince Harry and Meghan Markle,TRUE,TRUE
+1635,1635,Mariah Too Fat To Walk!,FAKE,FAKE
+1636,1636,Skier Lindsey Vonn leaves the 2018 Winter Olympics with lots of tweets but just one medal,TRUE,TRUE
+1637,1637,Bobby Brown Pays Tribute to His 'Angel' Bobbi Kristina as 2-Year Anniversary of Daughter's Death Approaches,TRUE,TRUE
+1638,1638,Meek Mill to remain behind bars during appeal as judge denies bail request,TRUE,TRUE
+1639,1639,George Clooneys Friends Want Him To Run For President: He Would Be Amazing With Amal As First Lady,FAKE,FAKE
+1640,1640,Real Housewives' Harry Hamlin stands behind wife Lisa Rinna following outburst,FAKE,TRUE
+1641,1641,"BTS! BTS! BTS Just Performed ""Fake Love"" At The Billboard Music Awards And It Was Phenomenal",TRUE,TRUE
+1642,1642,7 Best and Blackest moments of the MTV Movie & TV Awards,TRUE,TRUE
+1643,1643,Gwyneth Paltrow and Nikki Reed mark Mother's Day with unclothed pregnancy photos,TRUE,TRUE
+1644,1644,Justin Timberlake Working Out With Son on Instagram 2017,TRUE,TRUE
+1645,1645,Rita Ora Teases 'Fifty Shades Freed' Collaboration With Liam Payne,TRUE,TRUE
+1646,1646,The Bachelorette Week 4: The Race Conversation Begins and No One Can Spell,TRUE,TRUE
+1647,1647,"Johnny Depp: A Star in Crisis and the Insane Story of His ""Missing"" Millions",TRUE,FAKE
+1648,1648,Jessica Simpson and Tracee Ellis Ross Help Niece Jagger Celebrate Her 2nd Birthday,TRUE,TRUE
+1649,1649,Hunky Actor Chris Evans Admits He Doesnt Actually Believe Hes Hot After Rough Teen Years,TRUE,TRUE
+1650,1650,Lady Antebellum's Hillary Scott gives birth to twins: 'Thank you Lord',TRUE,TRUE
+1651,1651,Amy Schumer Gushes Over Marriage to Chris Fischer: ''He's Really Proud of Me'',TRUE,TRUE
+1652,1652,Mama June's Daughter Pumpkin Gets Married in Las Vegas,TRUE,TRUE
+1653,1653,Meghan Markle Will Spend Her First Royal Birthday at a Wedding With Prince Harry,FAKE,TRUE
+1654,1654,Amal Clooney Gives Birth to Twins,TRUE,TRUE
+1655,1655,Sarah Hyland says doctors won't listen to her 'chronic pain' concerns,TRUE,TRUE
+1656,1656,"Malia Obama Moves Into Harvard, Joining The Class of 2021",TRUE,TRUE
+1657,1657,"Phaedra Parks and Shemar Moores Chemistry Is Undeniable, But Are They Actually Dating?",TRUE,TRUE
+1658,1658,"Nicole Kidman, Keith Urban Selling Rural Tennessee Retreat  Variety",TRUE,FAKE
+1659,1659,8 Stylish Sunglasses Celebrities Are Wearing Right Now: Shop,TRUE,TRUE
+1660,1660,Prince Harry Opens Up About Asking Prince Charles to Walk Meghan Markle Down the Aisle at Wedding,TRUE,TRUE
+1661,1661,"Daniel Dae Kim, Grace Park Exit Hawaii Five-0",TRUE,TRUE
+1662,1662,Luann de Lesseps Rejects Plea Deal In Drunken Battery Case,TRUE,TRUE
+1663,1663,Gotham Awards 2017: Complete Winners List,TRUE,TRUE
+1664,1664,Scott Disick is still insanely jealous of Kourtney Kardashians boyfriend Younes Bendjima,TRUE,FAKE
+1665,1665,One Love Manchester: Katy Perry wears photos of 22 victims,TRUE,TRUE
+1666,1666,'Club Mickey Mouse' newest Mouseketeers revealed Video,TRUE,TRUE
+1667,1667,Celebrities Respond as President Trump Backs Out of Paris Accord  Variety,FAKE,FAKE
+1668,1668,Kim Kardashian uses shaving cream in another surprisingly helpful way,TRUE,TRUE
+1669,1669,"Trump's alleged 'knew what he signed up for' comment to widow is worth caution, but fits a clear pattern",FAKE,FAKE
+1670,1670,"Sorry Bughead Fans, KJ Apa And Charles Melton Are 'Riverdale's Cutest Couple",TRUE,TRUE
+1671,1671,Diana's Boys: How Prince William and Prince Harry Keep Their Mom's Memory Alive,TRUE,TRUE
+1672,1672,Olympian Ryan Lochte receives 14-month ban for violating anti-doping rule,TRUE,TRUE
+1673,1673,"Scheana Marie Gets Candid About Her Past Relationships: ""I Wasn't Really Being My True Self""",TRUE,TRUE
+1674,1674,"Conjugal Visits, Gay Hookups, & Porn: Joes Prison Sex Secrets Exposed",FAKE,TRUE
+1675,1675,A Timeline of Justin Bieber's Dating History,FAKE,FAKE
+1676,1676,"LoLa Monroe Sets Alycia Bella Up on a Blind Date on The Platinum Life: ""I Know What She Likes and She Likes Rappers!""",TRUE,TRUE
+1677,1677,'The Sandlot' cast reunites on the baseball diamond for 25th anniversary,TRUE,TRUE
+1678,1678,Taylor Swift Purchases New Apartment in N.Y.C.,TRUE,TRUE
+1679,1679,J-Law Says She Doesnt Know If Kim Kardashian Considers Her A Friend,TRUE,TRUE
+1680,1680,Model Mom! Caitlyn Hits The Catwalk In Bold Career Move,FAKE,FAKE
+1681,1681,Khloe Kardashian & Tristan Thompson: Why Shes Hoping Baby Comes During NBA All-Star Break,FAKE,FAKE
+1682,1682,Katy Perry Says She's Ready for a 'Soul Overhaul' After 'Killing Her Ego' This Past Year,TRUE,TRUE
+1683,1683,Richard Gere dumps Julia Roberts,FAKE,FAKE
+1684,1684,Brooke Shields Joins Season 19 of Law & Order: SVU  Variety,TRUE,TRUE
+1685,1685,19 of the best looks from the MTV Movie and TV Awards,TRUE,TRUE
+1686,1686,Dana Isaiah Wiki: 5 Facts To Know About Jordin Sparks' Boyfriend,TRUE,TRUE
+1687,1687,Jazz Jennings 'Doing Super Well' After Gender Confirmation Surgery,TRUE,TRUE
+1688,1688,"Yep, Oprah Winfrey and Serena Williams rode the shuttles to the royal wedding",TRUE,TRUE
+1689,1689,Willow Smith Says She Used To Feel Jealous About Curvier Girls,TRUE,TRUE
+1690,1690,"Ashley Graham Reveals the Moment That Made Her Think: ""My Career Is Over""",TRUE,TRUE
+1691,1691,4 Shoe Trends Celebrities Wear With Mom Jeans,TRUE,TRUE
+1692,1692,Alexandra Daddario Slams Rumors Shes Still Dating Zac Efron  What Happened?,FAKE,FAKE
+1693,1693,Madonna Fired Assistant MidFlight ,FAKE,FAKE
+1694,1694,Selena Gomez Not Looking To Compete With Justin Bieber In Finding A Rebound Romance,FAKE,FAKE
+1695,1695,Miranda Lambert's ACMs Speech Annoyed Gwen Stefani (REPORT),FAKE,FAKE
+1696,1696,O.J. Simpson walks out of Nevada prison after 9 years,TRUE,TRUE
+1697,1697,"Meghan Markle's Old, New, Borrowed and Blue Wedding Details",TRUE,TRUE
+1698,1698,Channing Tatum and Jenna Dewan Silence Rumors About Their Split,FAKE,TRUE
+1699,1699,Ryan Phillippe hospitalized with leg injury: 'I'm going to be ok',TRUE,TRUE
+1700,1700,Keeping Up With The Kardashians: Kim not happy with Scott,TRUE,TRUE
+1701,1701,A 'Newlyweds' producer admits Jessica Simpson probably wasn't acting,TRUE,FAKE
+1702,1702,"JAY-Z's '4:44': A complete guide to the album's disses, from Kanye to Cosby",TRUE,TRUE
+1703,1703,FKA Twigs Reveals She Had Six Fibroid Tumors Removed from Her Uterus: 'I Felt Really Alone',TRUE,TRUE
+1704,1704,'NCIS': Pauley Perrette to be replaced by recurring guest star Diona Reasonover,TRUE,TRUE
+1705,1705,Aziz Ansari: Lena Waithe Breaks Silence on Allegations Against 'Master of None' Co-Star,TRUE,TRUE
+1706,1706,Gwen Stefani Gives Spring Knitwear a Rock and Roll Twist,TRUE,TRUE
+1707,1707,"Luann de Lesseps' Divorce News Has This Celeb Superfan's Heart Like ""Scrambled Eggs a la Francaise""",TRUE,TRUE
+1708,1708,Conrad Hilton Arrested on Charges of Grand Theft Auto and Restraining Order Violation,TRUE,TRUE
+1709,1709,Why Putting Family First Turned Dwayne Johnson Into Hollywoods Biggest Star,TRUE,TRUE
+1710,1710,Michael Jackson speaks BEYOND THE GRAVE to reveal TRUTH about death,TRUE,FAKE
+1711,1711,The Turpin 13: Oxygen Goes Inside the Harrowing Family Ordeal With Soledad O'Brien,TRUE,TRUE
+1712,1712,Revealing Details About Prince William and Prince Harrys Royal Feud With Camilla,FAKE,FAKE
+1713,1713,Total Bellas Recap: Brie Bella and Daniel Bryan Discover Their Heritage and Nikki Bella Has a Big Career Decision to Make  Steemit,TRUE,TRUE
+1714,1714,Justin Bieber and Selena Gomez Taking Some SpaceBut Dont Call It a Breakup,FAKE,FAKE
+1715,1715,Jessie James Decker Welcomes Baby #3  and His Name Is Adorable,TRUE,TRUE
+1716,1716,Chrissy Teigen's Second Pregnancy Style Is Equally Polished and Relaxed (and We're Taking Notes),TRUE,TRUE
+1717,1717,Kaitlyn Bristowe talks pressure to have 'perfect' body on 'The Bachelor',TRUE,TRUE
+1718,1718,Brad Pitt Committed,FAKE,FAKE
+1719,1719,Zach Gilford and Kiele Sanchez Welcome First Child,TRUE,TRUE
+1720,1720,Nick Jonas Reunites With Ex-Girlfriend Delta Goodrem in Matching Outfits,TRUE,TRUE
+1721,1721,Kim Kardashian plants a kiss on sweet son Saint at party,FAKE,TRUE
+1722,1722,Kylie Jenner Walks Away With Major Ring Bling After Trip to Jewelry Store,TRUE,FAKE
+1723,1723,Justin Bieber Didnt Want To Steal Selena Gomezs Spotlight By Attending Billboard Event,FAKE,FAKE
+1724,1724,Do Prince William and Prince Harry Get Along With Camilla?,FAKE,TRUE
+1725,1725,Robert Pattinson and Suki Waterhouse spark romance rumors in London,TRUE,FAKE
+1726,1726,Victoria Beckham,TRUE,TRUE
+1727,1727,See All the Looks from the 2018 Met Gala,TRUE,TRUE
+1728,1728,Katie Yeagers &quot;Normal Life&quot; After Teen Mom 3: How the Former MTV Star Started Over by,TRUE,TRUE
+1729,1729,Kendra Wilkinson Baskett Tells Her Mom 'I Feel Like I'm Blamed for Being Alive',TRUE,TRUE
+1730,1730,Dancing with the Stars,FAKE,TRUE
+1731,1731,Photo of Selena Gomez & The Weeknd's Matching Outfits On NYC Date Will Make You Swoon,TRUE,TRUE
+1732,1732,Corinne Olympios Says Her Team Has Completed Its Own Investigation into What Happened on Bachelor in Paradise,TRUE,TRUE
+1733,1733,The Estates of Carrie Fisher & Debbie Reynolds To Sell Home & Personal Items,TRUE,TRUE
+1734,1734,The Bachelorette Rachel Lindsay Sounds Off on Peter's Proposal Phobia and Her Family's Concern Over Bryan,TRUE,TRUE
+1735,1735,Blue Ivy Carter Is Vacation Goals: How to Travel Just Like Beyonc and Jay-Z's Daughter,TRUE,TRUE
+1736,1736,Kourtney Kardashian,TRUE,TRUE
+1737,1737,The Highs and Lows of Janet Jackson's Roller-Coaster Year,TRUE,TRUE
+1738,1738,12 Law & Order Episodes Ripped From the Headlines,TRUE,TRUE
+1739,1739,The Love Portfolio: Samira Wiley + Lauren Morelli,TRUE,TRUE
+1740,1740,Hillary Scott Reveals Gender of Her Twins With the Cutest Pic: 'We Are Overjoyed',TRUE,TRUE
+1741,1741,Liam Paynes Solo Career Has Started With a One Direction Diss,FAKE,TRUE
+1742,1742,Milo Ventimiglia Mandy Moore Not Dating Reason,TRUE,FAKE
+1743,1743,Why you shouldnt try Miranda Kerrs go-to pimple treatment,TRUE,TRUE
+1744,1744,20 Best Christmas Party Outfits 2018,TRUE,TRUE
+1745,1745,Beach Babes: The Hottest Celebrity Swim,TRUE,TRUE
+1746,1746,"Watch Anna Faris Fall in Love With Her ""Fake Husband"" in New Overboard Trailer",TRUE,TRUE
+1747,1747,US report: Suris secret plea to missing dad Tom Cruise,FAKE,FAKE
+1748,1748,'Teen Mom' Star Catelynn Lowell Reveals She Suffered a Miscarriage and Had Suicidal Thoughts,TRUE,TRUE
+1749,1749,Kylie Jenner and Travis Scott: A Timeline of Their Relationship,FAKE,TRUE
+1750,1750,Taylor Swift and Joe Alwyn,TRUE,TRUE
+1751,1751,Telli Swift Finds Out the Sex of Her Baby at Boxing Themed Reveal Party on the Season Finale of WAGS Atlanta  E! Online  Boxing News Wire,TRUE,TRUE
+1752,1752,Kylie Jenner won't let motherhood stop her being sexy as she poses for sultry pics in white swimsuit,FAKE,TRUE
+1753,1753,Khloe Kardashian fires a contestant from Revenge Body,TRUE,TRUE
+1754,1754,Harvey Weinstein scandal: Who has accused him of what?,TRUE,TRUE
+1755,1755,How The Magicians Musical Episode Came to Be,TRUE,TRUE
+1756,1756,"Kendall Jenner, Gigi and Bella Hadid dazzle at Victoria's Secret Fashion Show",TRUE,TRUE
+1757,1757,Billboard Music Awards 2018 list of winners,TRUE,TRUE
+1758,1758,Inside Ciara and Russell Wilson's Romantic 1-Year Anniversary Celebration,TRUE,TRUE
+1759,1759,Enrique Iglesias speaks about his twins for the first time,TRUE,TRUE
+1760,1760,Fergie Shows Shows Emotional Relationship In New Video,TRUE,TRUE
+1761,1761,Gwen Stefani Vs. Miranda Lambert  Which Of Blake Sheltons Loves Has The Sexiest Looks?,FAKE,FAKE
+1762,1762,Maisie Williams Will Be a Bridesmaid at Sophie Turner and Joe Jonass Wedding,TRUE,TRUE
+1763,1763,Kim Kardashian reveals that North 'hardly talks' to brother Saint,TRUE,TRUE
+1764,1764,This Is Us Promotes Lyric Ross to Series Regular for Season 3,TRUE,TRUE
+1765,1765,Taylor Swift Now Has More YouTube Subscribers Than Rihanna,TRUE,TRUE
+1766,1766,"Kourtney, Kim, & Khloe Kardashian Celebrate The Fourth Of July In Style",TRUE,TRUE
+1767,1767,Andrew Garfield's First Kiss Was with '30 Girls' at a House Party: 'A Mass Sexual Awakening',TRUE,TRUE
+1768,1768,Mandy Moore says her divorce had to happen but her stalled career is 'soul-crushing',TRUE,TRUE
+1769,1769,Miley Cyrus and Liam Hemsworth Are in a Great Place: Relive Their Ups and Downs Through the Years,TRUE,TRUE
+1770,1770,"'Friends' pals 'Rachel' and 'Monica' reunite, wear coordinated outfits!",TRUE,TRUE
+1771,1771,"Has King Robert Found His Queen on The Royals? Meet Cassandra, His Feisty New Love Interest!",TRUE,TRUE
+1772,1772,Second 'Bachelor in Paradise' Producer Files Complaint - Report,TRUE,TRUE
+1773,1773,"Jennifer Aniston Does Not Hate Matthew Perry, Despite Report",FAKE,FAKE
+1774,1774,Pete Davidson Gushes Over Ariana Grande Onstage at Comedy Club,TRUE,TRUE
+1775,1775,John Mayer still keeps tabs on ex-girlfriend Katy Perry,TRUE,FAKE
+1776,1776,Angelina Jolie Focused On Improving Health & Well-Being As Fans Worry Over Skinny Pics,FAKE,FAKE
+1777,1777,"Kim Kardashian and Donald Trump talked about prison reform, because 2018 is off the rails",FAKE,TRUE
+1778,1778,Selma Blair and Rachel McAdams Share Their Stories of James Tobacks Sexual Harassment,TRUE,TRUE
+1779,1779,Channing Tatum  Jenna Dewan Fighting Over Nude Photo  Claim,FAKE,FAKE
+1780,1780,Shannon Beador Addresses Weight Gain on RHOC Season 12 Premiere,TRUE,TRUE
+1781,1781,Outlander Season 3 Preview: Caitriona Balfe and Sam Heughan Tease Whats Ahead for Claire and Jamie,TRUE,TRUE
+1782,1782,Tabloid: Kristen Stewart Pregnant with Robert Pattinson's Baby,FAKE,FAKE
+1783,1783,RHONY: Where Bethenny Frankel Stands with Her Castmates,TRUE,TRUE
+1784,1784,Keith Urban and wife Nicole Kidman will spend Christmas in Australia,FAKE,FAKE
+1785,1785,Here's All the Proof You Need That Kristen Bell Is a Real-Life Fairy Godmother,TRUE,TRUE
+1786,1786,Mobb Deep Rapper Prodigy's Cause of Death Revealed,TRUE,TRUE
+1787,1787,"Catherine Zeta Jones, 48, & Michael Douglas Send Handsome Look-Alike Son, 17, Off To Prom",TRUE,TRUE
+1788,1788,Only Gigi Hadid Could Make a Neon Wig Look Chic at Jeremy Scott,TRUE,TRUE
+1789,1789,Bachelorette Star Chad Johnson Reveals Why He Sabotages Relationships And The Toll His Moms Death Took,TRUE,TRUE
+1790,1790,"Hillary Clinton, Cardi B and More 'Audition' to Narrate 'Fire and Fury' at the 2018 Grammys",TRUE,TRUE
+1791,1791,Ivanka Trump 'Blindsided' by 'Level of Viciousness' in Washington,TRUE,TRUE
+1792,1792,Katie Holmes  Jamie Foxx Getting Married In Backyard Wedding ,FAKE,FAKE
+1793,1793,The Internet Is Convinced Taylor Swifts New Song Is Actually About Arya Stark,TRUE,TRUE
+1794,1794,"Ed Sheeran Weighs In on Taylor Swift, Katy Perry Feud",FAKE,TRUE
+1795,1795,"Wendy Williams Suffers from Thyroid Issues & Graves' Disease, Will Take 3-Week Hiatus",TRUE,TRUE
+1796,1796,Jeff Goldblum and Emilie Livingston Welcome Son River,TRUE,TRUE
+1797,1797,Here's why Julia Roberts missed George Clooney's AFI Life Achievement Award Ceremony,TRUE,TRUE
+1798,1798,"BTS Boys Dish on 2017 AMAs, Celeb Crushes and Favorite Music Artists",TRUE,TRUE
+1799,1799,Drake Bell Reveals Exactly Why Josh Peck Didn't Invite Him to His Wedding,TRUE,TRUE
+1800,1800,See Brie Bellas gruelling 21-hour labor on Total Bellas season finale,TRUE,TRUE
+1801,1801,Selena Gomez travels to the '70s in new 'Bad Liar' video,TRUE,TRUE
+1802,1802,16 Red Carpet Beauty Products You Can Actually Afford,TRUE,TRUE
+1803,1803,Sarah Hyland Wears Wells Adams' Initial on Necklace After Being Inspired by Taylor Swift Song,TRUE,TRUE
+1804,1804,Pink Reveals Christina Aguilera Tried to Punch Her: 'She Swung at Me in a Club',TRUE,TRUE
+1805,1805,Lea Michele: The Ugly Gleekling,TRUE,FAKE
+1806,1806,Jack Antonoff Defends Lena Dunham Amid Dispute With Animal Shelter,TRUE,TRUE
+1807,1807,'Khloe is not a Kardashian': TWO of her father's ex-wives claim he expressed doubts over paternity,FAKE,TRUE
+1808,1808,Eliza Dushku Says She Wasnt Invited to Buffy Reunion,TRUE,TRUE
+1809,1809,Rihannas BF Hassan Jameel Worried About Unpredictable Chris Brown & Fears He Wants Her Back,FAKE,FAKE
+1810,1810,Blake Sheltons CMT Awards Performance: Why Miranda Lambert Was Touched,FAKE,TRUE
+1811,1811,Penelope Cruz Talks About Tom Cruise,TRUE,FAKE
+1812,1812,Are Rihanna & Hassan Jameel Really Engaged? The Truth Behind Her Diamond Ring,FAKE,FAKE
+1813,1813,Every Photo Kylie Jenner Posted of Her Baby So Far,TRUE,TRUE
+1814,1814,Justin Timberlake Wears Stella McCartney at Super Bowl Halftime Show,TRUE,TRUE
+1815,1815,Are Dakota Johnson and Chris Martin Dating?,FAKE,FAKE
+1816,1816,Jennifer Lawrence's Slip Dress Is Made For Lazy Girls And More Best Dressed,TRUE,TRUE
+1817,1817,Aaron Rodgers Girlfriend: Is Packers QB Dating Soccer Star Marie Margolius? [VIDEO],FAKE,FAKE
+1818,1818,Angelina Jolies Vanity Fair Cover Story,FAKE,FAKE
+1819,1819,Gwen Stefani Call Off Blake Shelton,FAKE,FAKE
+1820,1820,"For The Love Of God, Why Can't Anyone Write Kate McKinnon A Good Movie Role?",FAKE,TRUE
+1821,1821,The Royals' Queen Helena Is Giving Herself the Hottest Birthday Gift of Them All: Sebastian!,TRUE,TRUE
+1822,1822,Amal Clooney Is a Gorgeous Lady in Red Ahead of U.N. Event,TRUE,TRUE
+1823,1823,Kanye West Is Staying With Caitlyn Jenner on the Heels of Divorce From Kim Kardashian (EXCLUSIVE),FAKE,FAKE
+1824,1824,How Bachelor Contestants Cash In After the Show Is Over,TRUE,TRUE
+1825,1825,Piers Morgan brands Meghan Markle's half-sister a 'little vulture',TRUE,TRUE
+1826,1826,Marc Anthony Gets Playful With Girlfriend Raffaella Modugno,TRUE,TRUE
+1827,1827,The Bellas are ready to get back in the ring,TRUE,TRUE
+1828,1828,The Real Housewives of New York City Season 9 Episode 22 News,TRUE,TRUE
+1829,1829,15 Things Meghan Markle Cant Do Once She Becomes A Royal,TRUE,FAKE
+1830,1830,This Victorias Secret Model Got Caught Having Sex On A Plane,TRUE,TRUE
+1831,1831,Bridesmaids And Page Boys Announced For Prince Harry And Meghan Markles Royal Wedding,TRUE,TRUE
+1832,1832,Justin Brescia,TRUE,TRUE
+1833,1833,Selena Gomez Vogue Cover Story: See Interview Highlights!,FAKE,TRUE
+1834,1834,Reuniting? Luanns Daughter Snaps Photo With De Lesseps Ex On Family Vacation,TRUE,TRUE
+1835,1835,The Crown season 3: First look as Helena Bonham Carter as Princess Margaret,TRUE,TRUE
+1836,1836,A Timeline of Gwen Stefani & Blake Shelton's Relationship,FAKE,FAKE
+1837,1837,Savannah Guthrie regrets suggesting this Christmas gift for Vale,TRUE,TRUE
+1838,1838,Rose McGowan says she will plead not guilty to drug possession,TRUE,TRUE
+1839,1839,Fifty Shades Of Dakota: 15 Things People Don't Know About Dakota Johnson,FAKE,TRUE
+1840,1840,How Emma Roberts Wears Pastels Without Looking Like an Easter Egg,TRUE,TRUE
+1841,1841,Zac Efron and Alexandra Daddario spark dating rumors as they buy pet supplies together,TRUE,TRUE
+1842,1842,"Matthew Perry talks 'Friends' residual checks, reveals which Chandler storyline he axed",TRUE,TRUE
+1843,1843,Khloe Kardashian and Tristan Thompson Relationship Timeline,TRUE,TRUE
+1844,1844,The Resident Season Two Press Release,TRUE,TRUE
+1845,1845,Valor Canceled by CW  Variety,TRUE,TRUE
+1846,1846,Kylie Jenner and Travis Scott Take a Baby Duty Break With Miami Getaway,TRUE,TRUE
+1847,1847,Iman Confronts the Lack of Diversity in Fashion in Harper's Bazaar,TRUE,TRUE
+1848,1848,Charlie Weber admits 'I'm very happy' dating HTGAWM co-star Liza Weil,TRUE,TRUE
+1849,1849,"Prince William, Kate are 'thrilled' to welcome nephew as social media congratulates Pippa",TRUE,TRUE
+1850,1850,"Met Gala Time Machine: Revisit Beyonc, Sarah Jessica Parker, Anna Wintour  More Fashionistas 'First and Last Appearances",TRUE,TRUE
+1851,1851,'American Idol Lovebirds Maddie Poppe and Caleb Lee Hutchinson Share Relationship Update (Exclusive),TRUE,TRUE
+1852,1852,All Dolled Up! Taylor Swift and Joe Alwyn Hold Hands on Rare Public Date Night in London,TRUE,TRUE
+1853,1853,Chance The Rapper Apologizes After Fans Slam Him For Defending Kanye Wests Trump Tweets,TRUE,TRUE
+1854,1854,US report: George and Amals $1 billion divorce announcement,FAKE,FAKE
+1855,1855,Ireland Baldwin Claps Back at Body Shamers: 'This Is Who I Am',TRUE,TRUE
+1856,1856,Watch Britney Spears End Las Vegas Residency With New Year's Eve Performance,TRUE,TRUE
+1857,1857,Everyone Is Screaming at Each Other in This Shahs of Sunset Season 6 Premiere Sneak Peek,TRUE,TRUE
+1858,1858,Mariska Hargitay Shines in Law & Order: SVU Sneak Peek: You Don't Mess With Mama Bear Benson,TRUE,TRUE
+1859,1859,Cher Announces Broadway Musical Based on Her Life Coming in 2018,TRUE,TRUE
+1860,1860,Mean Girls' Jonathan Bennett Confirms He's Dating Jaymes Vaughn!,TRUE,TRUE
+1861,1861,Dream Kardashian Looked Adorable for Her First Halloween,TRUE,TRUE
+1862,1862,Justin Bieber & Selena Gomez Spotted Leaving For Romantic Pre-Valentines Day Vacation,FAKE,FAKE
+1863,1863,Mark Sallings Autopsy Reveals Cause of Death,TRUE,TRUE
+1864,1864,Mark Consuelos,TRUE,TRUE
+1865,1865,"R. Kelly sued by Texas woman for sexual battery, false imprisonment, claims he gave her STD",TRUE,TRUE
+1866,1866,Angelina Jolie Channels Meghan Markle At Royal Event,TRUE,TRUE
+1867,1867,List of Women Brad Pitt Has Dated,FAKE,FAKE
+1868,1868,Gina Rodriguez Is Engaged to Joe LoCicero: See Her Ring,TRUE,TRUE
+1869,1869,Sarah Jessica Parker and Matthew Broderick Net Worth,FAKE,TRUE
+1870,1870,"Kim, Kourtney and Khloe Kardashian Hear Woman's HIV Story During 'Eye-Opening' Visit to Planned Parenthood",TRUE,TRUE
+1871,1871,Zoe Saldana's Guardians Of The Galaxy character Gamora will appear in Avengers: Infinity War,TRUE,TRUE
+1872,1872,Jada Pinkett Smith Tears Up Learning's daughter Willow used to cut herself  NewsBeezer,TRUE,TRUE
+1873,1873,Great News is a comedic nod to creators overbearing mom,TRUE,TRUE
+1874,1874,The Sinner season 2: Why isn't Jessica Biel in the new series?,TRUE,TRUE
+1875,1875,3 Denim Styling Tricks to Achieve That Model Off-Duty Look,TRUE,TRUE
+1876,1876,Lady Gaga Reveals Heartbreaking Reason She Split from Taylor Kinney,FAKE,TRUE
+1877,1877,Lea Michele Announces BFF Jonathan Groff Will Be Her Maid of Honor' for Wedding to Zandy Reich,TRUE,TRUE
+1878,1878,Channing Tatum Apologizes to Halle Berry for 'Kingsman' Comic-Con Stunt With 'Magic Mike Live' Dancers,TRUE,TRUE
+1879,1879,Abby Lee Miller Receives Initial Diagnosis of Non-Hodgkin&#39;s Lymphoma,TRUE,TRUE
+1880,1880,The Handmaids Tale Season 2 Is Brutal and Not Much Else,TRUE,TRUE
+1881,1881,Millie Bobby Brown leaves Twitter,TRUE,TRUE
+1882,1882,"Disney's New 'Lion King' Movie Cast Includes Beyonc, And People Are Freaking Out",TRUE,TRUE
+1883,1883,Sarah Michelle Gellar Pays Tribute to Robin Williams on Anniversary of His Death: 'We Miss You Every Day',TRUE,TRUE
+1884,1884,Kris Jenner's Over-the-Top Christmas Decorations Are Rainbow-Themed This Year,TRUE,TRUE
+1885,1885,Camila Cabello Grammys speech is message to Dreamers and immigrants,TRUE,TRUE
+1886,1886,Ungrateful B*tch! Kim Kardashian At War With Kylie Jenner Over Her Stolen Style  Threatening To Sue!,FAKE,FAKE
+1887,1887,[Possible S5 spoilers] Let's talk about season 6. : The100,TRUE,TRUE
+1888,1888,Gwen Stefani: She Might Have To Break Promise To Celebrate Thanksgiving With Blake Shelton In OK,FAKE,FAKE
+1889,1889,Watch Gold Medalist Aly Raisman's Powerful Statement at Larry Nasser's Sentencing,TRUE,TRUE
+1890,1890,Has President Obama made racism worse?,FAKE,FAKE
+1891,1891,Dakota Johnson Reveals the 'Very Scary' Parts of Filming 'Fifty Shades' Franchise,TRUE,TRUE
+1892,1892,13 Reasons Why Season 2 First Look Photos Are Super Intense,TRUE,TRUE
+1893,1893,See Every Red Carpet Look at the 2018 Emmy Awards,TRUE,TRUE
+1894,1894,Gigi Hadid Slams Body Shamers Calling Her 'Too Skinny' At NYFW,TRUE,TRUE
+1895,1895,Cannes Film Festival Pictures,FAKE,TRUE
+1896,1896,Charlize Theron on Playing a Female James Bond: I'm Very Old,TRUE,TRUE
+1897,1897,Where's MEGHAN? Prince Harry and ex-girlfriend Cressida Bonas attend Carol Concert,TRUE,TRUE
+1898,1898,"'Dancing with the Stars' is a 'Bloodbath,' Tom Bergeron Says About Athletes Edition",TRUE,TRUE
+1899,1899,Yikes! Mariah Carey Reportedly Having Sex With Bryan Tanaka in Restaurant Bathroom,FAKE,FAKE
+1900,1900,The Complete History Of The Kardashian Kristmas Eve Party,TRUE,TRUE
+1901,1901,9 Shady Things About The Royal Family Everyone Likes to Ignore,TRUE,TRUE
+1902,1902,Brie Bella Asks Trinity Fatu and Nattie Neidhart to Babysit Birdie Joe Danielson on Total Divas,TRUE,TRUE
+1903,1903,Candice Swanepoel Reveals Gender of Baby No. 2 in Sweet Instagram Video,TRUE,TRUE
+1904,1904,Saturday Savings: Emma Robert's Topshop Satin Slip Is on Sale!,TRUE,TRUE
+1905,1905,Tim McGraw and Faith Hills Farm Is $20 Million,TRUE,TRUE
+1906,1906,Interview Magazine,TRUE,TRUE
+1907,1907,"Prince Harry and Meghan Markle Are ""Total Homebodies"" When She Visits Kensington Palace",TRUE,TRUE
+1908,1908,'It's not cool': Tyrese Gibson regrets public feud with Dwayne Johnson,TRUE,TRUE
+1909,1909,Blake Lively shows off 61-pound post-baby weight loss: 'Feeling very proud',TRUE,TRUE
+1910,1910,Matt Damons publicist forced to deny reports actor is moving to Australia because he can't stand Donald Trump,FAKE,FAKE
+1911,1911,Troy Gentry Helicopter Crash Caused by Engine Failure: New Report Details Final Moments of Fatal Flight,TRUE,TRUE
+1912,1912,"Ronnie Ortiz-Magro, Jen Harley Drama: Everything We Know",TRUE,TRUE
+1913,1913,Kim Kardashian Worried Sick Kanye Wests Feud With JAY-Z Will Cause Relapse https://tmbw.news/kim-kardashian-worried-sick-kanye-wests-fe,FAKE,FAKE
+1914,1914,Taylor Swift's 2017: The Timeline,TRUE,TRUE
+1915,1915,Jennifer Aniston: Why Shes Looking For A Much Younger Man To Be Her Next Lover,FAKE,FAKE
+1916,1916,Mama June Keeps Weight Loss Promise as She Maintains Her Figure 7 Months After Dropping 300-Lbs.,TRUE,TRUE
+1917,1917,Katie Holmes and Jamie Foxxs relationship timeline,FAKE,FAKE
+1918,1918,"Kourtney Kardashian Spends Night With New Boyfriend Younes Bendjima, Has A Long Morning Make-Out Session",TRUE,FAKE
+1919,1919,Halsey and G-Eazy Split: Musicians 'Taking Time Apart' After Year of Dating,TRUE,TRUE
+1920,1920,Kim Kardashian Sued For Allegedly Stealing Lighting Technique For Selfies,FAKE,TRUE
+1921,1921,People Are Still Asking Maggie Gyllenhaal If She Has Taylor Swift's Scarf From 'All Too Well',TRUE,TRUE
+1922,1922,Ben Affleck Can't Stop Smiling With New Girlfriend Lindsay Shookus,TRUE,FAKE
+1923,1923,"PSA: Richard Dreyfuss Is Not Julia Louis-Dreyfus' Late Father, William",TRUE,TRUE
+1924,1924,"Chris Pratt, Amy Poehler Dating?",FAKE,FAKE
+1925,1925,Beckham allegations from 'hacked and doctored emails',FAKE,TRUE
+1926,1926,Dakota Johnson's Modesty Thong Had to Be Superglued to Her Body During 'Fifty Shades Freed',TRUE,TRUE
+1927,1927,Inside 'Teen Mom OG' Catelynn Lowell's Post-Treatment Plan,TRUE,TRUE
+1928,1928,Kym Herjavec,TRUE,TRUE
+1929,1929,Jennifer Lawrence Delivers Moving Speech About Feeling Trapped and Objectified in Early Career,TRUE,TRUE
+1930,1930,"Brad Pitt and Angelina Jolie Still ''at Odds'' Over Custody Agreement, Insider Says",TRUE,FAKE
+1931,1931,Kate Winslet Alludes to Bitter Regrets Over Woody Allen,TRUE,TRUE
+1932,1932,Christina El Moussa Claps Back at Tarek El Moussa for Joking About Their Explosive Fight a Year Ago,TRUE,TRUE
+1933,1933,"Amazon.com: Festive Fall 24"" Wreath with Mixed Maple Leaves, Twigs and Berries: Home & Kitchen",TRUE,TRUE
+1934,1934,"Bob, Eliza, Bellarke fandom wins at EOnline TV Scoop Awards 2018 : The100",TRUE,TRUE
+1935,1935,Abby Lee Miller flashes thumbs up on way to Easter church service,TRUE,TRUE
+1936,1936,'Big Little Lies' Season 2: All the Details (So Far),TRUE,TRUE
+1937,1937,"Adele Planned, Officiated and Sang at Her Best Friend's Wedding in Her Backyard",TRUE,TRUE
+1938,1938,Omarosa Sent to Hospital for Injury During 'Celebrity Big Brother' Competition (UPDATE),TRUE,TRUE
+1939,1939,What happens at the abbey's cory zwierzynski and murray swanby discuss the drama that comes with dating a co-worker,TRUE,TRUE
+1940,1940,Kourtney Kardashian Takes Boyfriend Younes Bendjima on Surprise Trip After Showing Red Carpet PDA,TRUE,TRUE
+1941,1941,Justin Bieber Caught Partying On Grammys Night After Skipping Despacito Performance,FAKE,TRUE
+1942,1942,"Rumored Firing of 1 Dallas Housewife, but who? : BravoRealHousewives",TRUE,TRUE
+1943,1943,"NBC Renews Will & Grace for Season 3, Adds to Season 2 Episode Order",TRUE,TRUE
+1944,1944,Uma Thurman,TRUE,TRUE
+1945,1945,Are Gwen Stefani And Blake Shelton Married? New Details On Their Rumored Secret Wedding,FAKE,FAKE
+1946,1946,"Nicky Hilton Reveals How Sister Paris Spoils Her Daughter: ""She Comes Bearing Sweet Gifts""",TRUE,TRUE
+1947,1947,The Real Housewives of Atlanta Recap: Truth or Dare,TRUE,TRUE
+1948,1948,"HollywoodLife Debunks True Ben Affleck, Jennifer Garner Caribbean Vacation Story",FAKE,FAKE
+1949,1949,Nicki Minaj Breaks The Internet,TRUE,TRUE
+1950,1950,Find Celebrities in LA: 9 Celebrity Hangouts in LA,TRUE,TRUE
+1951,1951,Model Emily Ratajkowski: Blurred Lines video is 'the bane of my existence',TRUE,TRUE
+1952,1952,"Hollywood Ex-Wives: Why Jennifer Garner, Angelina Jolie & Fellow Stars Have to Be Infinitely Stronger Than Their Former Husbands",TRUE,FAKE
+1953,1953,New Man! Teen Mom OG Tyler Baltierra Flaunts 40 Pound Weight Loss,TRUE,TRUE
+1954,1954,Chlo Moretz 'wanted to hide' after Brooklyn Beckham split,TRUE,TRUE
+1955,1955,Pete Davidson Obsesses Over Ariana Grande's 'F--king Lit' Wango Tango Performance,TRUE,TRUE
+1956,1956,Fall Premiere Dates For New & Returning Series: 2017 Edition,TRUE,TRUE
+1957,1957,When was Cheryl and Liam Paynes son Bear born and what does his name mean?,FAKE,TRUE
+1958,1958,US late night TV hosts call for gun control after Las Vegas shooting,TRUE,TRUE
+1959,1959,The 2018 World Cup's Most Adorable Fans? Kym Johnson Herjavec's Twins and More Celeb Kids!,TRUE,TRUE
+1960,1960,Minnie Driver Rationalizes Matt Damon's Sexual Harassment Remarks: He's a 'Nice White Male',TRUE,TRUE
+1961,1961,Steve Bannon responds to being portrayed as The Grim Reaper on 'Saturday Night Live',TRUE,TRUE
+1962,1962,Tuesday Ten: My 10 Favorite Pieces from My LC Lauren Conrad Line,TRUE,TRUE
+1963,1963,Noah Cyrus Says Miley Cyrus Hasn't Changed One Bit Ahead of Billboard Music Awards Appearance,TRUE,TRUE
+1964,1964,All about Meghan Markle's spa-themed bridal shower,TRUE,TRUE
+1965,1965,"Vicki Gunvalson Reflects on Brooks Ayers Drama: ""He Wasn't a Monster"" - The Real Housewives",TRUE,TRUE
+1966,1966,Guillermo Del Toro refuses to leave Golden Globes stage despite time being up: 'It's taken 25 years',TRUE,TRUE
+1967,1967,"Amber Heard and Elon Musk Vacationing in Chile together, a week after kissing photos  TECH2",TRUE,TRUE
+1968,1968,Star: Girly princess Suri Cruise vs. tomboy supreme Shiloh Jolie-Pitt,FAKE,FAKE
+1969,1969,2018 ACM Awards list of winners,TRUE,TRUE
+1970,1970,Reese Witherspoon and Oprah Winfrey Can't Stop Gushing Over Each Other! Inside Their Surprising Friendship,TRUE,TRUE
+1971,1971,"Simple English Wikipedia, the free encyclopedia",TRUE,TRUE
+1972,1972,E! NEWS EXCLUSIVE: Behind the Scenes of Amanda Bynes' Quiet Lifeand What Her Main Goal Is Today,TRUE,TRUE
+1973,1973,Brad Pitt Relieved About Angelina Jolie Custody Arrangement After Separation From Kids,FAKE,FAKE
+1974,1974,Camilla: I was prisoner in my own home after Prince Charles affair exposed,TRUE,TRUE
+1975,1975,The Handmaids Tale Season 2 Is Brutal and Not Much Else,TRUE,TRUE
+1976,1976,WATCH: Jennifer Lawrence Interviews Kim Kardashian West Video,FAKE,TRUE
+1977,1977,ESI WORLD NEWS: Get Zendaya's Killer Style on a Budget,TRUE,TRUE
+1978,1978,LITTLE MIX & CNCO PREMIERE MUSIC VIDEO FOR REGGAETN LENTO (REMIX) -,TRUE,TRUE
+1979,1979,Khloe Kardashian Surprises Revenge Body Contestant Kelsey With a Professional Modeling Shoot,TRUE,TRUE
+1980,1980,Jenna Bush Hager Writes Moving Tribute to Grandmother Barbara Bush,TRUE,TRUE
+1981,1981,Hilary Duff Tells Body-Shamers to Kiss My Ass,TRUE,TRUE
+1982,1982,The Voices Kelly Clarkson Wonders Why Gwen Stefani Is With Her Buddy Blake Shelton Too,TRUE,FAKE
+1983,1983,Gisele and Tom Brady's Never-Before-Seen Wedding Photos Are Making Us Emotional,TRUE,TRUE
+1984,1984,Katie Lowes Welcomes Son Albee,TRUE,TRUE
+1985,1985,Jimmy Kimmel Denies Fawning All Over Donald Trump,TRUE,FAKE
+1986,1986,Want to Get in Tomb Raider Shape Like Alicia Vikander? Prepare to Make Some Sacrifices,TRUE,TRUE
+1987,1987,Teen Mom 2s Adam Lind Released From Jail,TRUE,TRUE
+1988,1988,"George Clooney, Amal required table near them at the restaurant have vacated?",FAKE,FAKE
+1989,1989,Harry Styles Wont Deny That He Wrote Two Ghosts About Taylor Swift,TRUE,TRUE
+1990,1990,Meghan Markle Has Lost Sleep Over Relatives As Wedding Nears,FAKE,FAKE
+1991,1991,'Black Panther' Stars Lupita Nyong'o and Danai Gurira Are Each Other's Biggest Fangirls,TRUE,TRUE
+1992,1992,"Kate Winslet and Leo DiCaprio Still Quote Titanic Lines To Each Other, NBD",TRUE,TRUE
+1993,1993,Lorenzo Lamas Net Worth,TRUE,TRUE
+1994,1994,Invite Only Cabo S1:E1 Tick Tick Boom Recap,TRUE,TRUE
+1995,1995,Little Richard calls same-sex love unnatural years after coming out as gay,TRUE,TRUE
+1996,1996,"Kendra Wilkinson Apologizes, Admits She Ended Hank Basketts Football Career",TRUE,TRUE
+1997,1997,"Selena Gomez Did NOT Jump Kidney Transplant Waiting List, Despite Claim",FAKE,FAKE
+1998,1998,Malika Haqq explains why she split from Ronnie Ortiz-Magro,TRUE,TRUE
+1999,1999,"Tyga, Blac Chyna, and Lamar Odom All Walk Into a Party...",TRUE,TRUE
+2000,2000,Kourtney Kardashians Pregnancy Scare With Younes: Why Shes Teasing Scott About It,FAKE,FAKE
+2001,2001,A Detailed History of Prince Harry and Meghan Markle's Relationship,TRUE,TRUE
+2002,2002,TV Review: Rose McGowan in Citizen Rose on E!,TRUE,TRUE
+2003,2003,"As Emma Stone is declared Forbes' highest earning actress of 2017, look back at her most glamorous red carpet moments",TRUE,TRUE
+2004,2004,Kim defends herself after calling Kourtney lazy: She 'sure wanna live that Kardashian life though',TRUE,TRUE
+2005,2005,"Prince Harry, Prince William Get Emotional About Princess Diana In New Documentary Promo",TRUE,TRUE
+2006,2006,The Real Housewives of New Jersey,TRUE,TRUE
+2007,2007,Taylor Swift Spent Her Fourth of July in Turks and Caicos with Boyfriend Joe Alwyn,FAKE,TRUE
+2008,2008,Chanel Iman and Sterling Shepard Are Married,TRUE,TRUE
+2009,2009,"Jennifer Garner watches helplessly as Ben Affleck returns to womanizing ways, reports say",FAKE,FAKE
+2010,2010,"Angelina Jolies Alleged Shocking Impact On Brad Pitt Makes Jennifer Aniston Turn To Ex, Reports Express",FAKE,FAKE
+2011,2011,Selena Gomez Flaunting The Weeknd Romance To Hurt Bella Hadid ,FAKE,FAKE
+2012,2012,Julianne Hough's favorite beauty products,TRUE,TRUE
+2013,2013,18 celebrity tips on dealing with stress,TRUE,TRUE
+2014,2014,8 Kate and Pippa Middleton-Inspired Mothers Day Gifts,TRUE,TRUE
+2015,2015,Inside the Sadness Plaguing K-Pop,TRUE,TRUE
+2016,2016,White House glows pink for breast cancer,TRUE,TRUE
+2017,2017,Khloe Kardashians Colorist Tracey Cunningham Flies to Ohio Just to Fix Her Roots,TRUE,TRUE
+2018,2018,Scheana Marie Speaks Out on Ronnie Ortiz-Magro's Relationship Drama,TRUE,TRUE
+2019,2019,"Woman claims botched implant surgery left her with bacterial infection, severe scarring",TRUE,TRUE
+2020,2020,A Complete List of Who Lives and Dies in Avengers: Infinity War,TRUE,TRUE
+2021,2021,Nicole Kidman reveals creepy secret: 'I eat bugs',TRUE,TRUE
+2022,2022,"Katy Perry is a cannibal is the craziest, most believable conspiracy theory Ive ever read",FAKE,FAKE
+2023,2023,Justin Bieber,TRUE,TRUE
+2024,2024,Paris Jackson is favourite to play Madonna in film biopic,FAKE,FAKE
+2025,2025,"The CW renews 'Supernatural,' 'Arrow,' 'Supergirl, 'Riverdale,' and more",TRUE,TRUE
+2026,2026,Brad Pitt & Angelina Jolie Reportedly Agree To Spend Christmas Together With The Kids,FAKE,FAKE
+2027,2027,Damon Lindelof on Balancing Mystery and Closure in 'The Leftovers' Finale,TRUE,TRUE
+2028,2028,Brady Bunch Home Sells To HGTV For $3.5 Million  $1.6 Million Over Asking Price,TRUE,TRUE
+2029,2029,Celine Dion Rocks Faux Leather Overalls and Sparkling Shades in Paris,TRUE,TRUE
+2030,2030,Arrested Development Season 4 Is Getting A Remix,TRUE,TRUE
+2031,2031,Kim Kardashian Just Trashed All Your Kylie Surrogate Theories,FAKE,TRUE
+2032,2032,SNL Turns Prince William's New Buzz Cut Into a Punch Line,TRUE,TRUE
+2033,2033,BTS Talks About Their Nerve-Wracking 2017 AMAs Performance in Front of The Chainsmokers,TRUE,TRUE
+2034,2034,"MTV Movie & TV Awards: Big Sean, Noah Cyrus Set to Perform",TRUE,TRUE
+2035,2035,CLIPS FROM E!S WAGS ATLANTA NOW AVAILABLE,TRUE,TRUE
+2036,2036,Kendall and Pregnant Kylie Jenner Enjoy 'Cuddly' Halloween-Themed Double Date with Blake Griffin and Travis Scott,TRUE,TRUE
+2037,2037,Wendy Williams Net Worth,TRUE,TRUE
+2038,2038,"Are You Obsessed With Justin & Selena's Reunion? Yea, We Are Too  Here's Why",TRUE,FAKE
+2039,2039,The Carmichael Show Canceled After 3 Seasons At NBC After Star Leaks News,TRUE,TRUE
+2040,2040,Drake & Josh Alum Josh Peck Marries Paige OBrien,TRUE,TRUE
+2041,2041,Justin Bieber asked Stephen Baldwin for Haileys hand,TRUE,FAKE
+2042,2042,Celebrities at the 2018 Cannes Film Festival,TRUE,TRUE
+2043,2043,Lisa Vanderpump Shades Brandi Glanville & Explains Why She'll Never Reconcile with RHOBH Alum,TRUE,TRUE
+2044,2044,"Matt Lauers First Accuser Lives in Constant Fear of Being Discovered, Lawyer Says",TRUE,TRUE
+2045,2045,Caitlyn Jenner Is Feeling Herself ... Literally! The Reason She Loves Breast Massages,FAKE,FAKE
+2046,2046,How Amanda Stanton Met Boyfriend Bobby Jacobs,TRUE,TRUE
+2047,2047,"Will & Grace is back, and so is the debate over its place in LGBTQ history",TRUE,TRUE
+2048,2048,"Anna Faris Hilariously Live Tweets Chris Pratt's 'Guardians of t - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",TRUE,TRUE
+2049,2049,Gus kenworthy reveals what it's really like to pose nude for espn the magazine's body issue:,TRUE,TRUE
+2050,2050,The hopeful message hidden in Drakes One Dance.,FAKE,TRUE
+2051,2051,Read McKayla Maroney's full victim impact statement in Larry Nassar case,TRUE,TRUE
+2052,2052,"Derek Jeter Admits He's ""Unprepared"" for Fatherhood as Hannah Jeter Joins Him at Jersey Retirement Ceremony",TRUE,TRUE
+2053,2053,Robyn Is the Only Wife Standing by Kody Brown Amid 'Sister Wives' Cancellation,FAKE,TRUE
+2054,2054,"Ben Affleck Ignored Questions, Texted During Justice League Comic-Con Panel?",FAKE,FAKE
+2055,2055,Tracee Ellis Ross Raps With Big Sean On 'Carpool Karaoke',TRUE,TRUE
+2056,2056,"Princess Dianas legacy is more urgent than ever, 20 years after her death",TRUE,TRUE
+2057,2057,Selena Gomez Is Reportedly Done With Justin Bieber for Good,FAKE,FAKE
+2058,2058,Gwen Stefani Finding the Inspiration to have Another Baby from Janet Jackson!! Is the Story true? Find out what Gossip Cop has to say about it!  Married Biography,FAKE,FAKE
+2059,2059,"Julia Roberts, Kobe Bryant and More Celebs Hit Up Taylor Swifts Reputation Concert in L.A.  L.A. STYLE Magazine",TRUE,TRUE
+2060,2060,Kourtney Kardashian Reportedly Pregnant With Baby #4  Is Ex-BF Younes Bendjima The Dad?,FAKE,FAKE
+2061,2061,Jennifer Lopez and Alex Rodriguez Celebrate Christmas in Miami with Their Families,FAKE,TRUE
+2062,2062,Sean and Catherine Lowe Welcome Baby No. 2 -- See the Sweet Pics!,TRUE,TRUE
+2063,2063,All of Khloe Kardashian's glorious baby bump photos so far,TRUE,TRUE
+2064,2064,NAACP Image Awards 2018: See All the Red Carpet Fashion as the Stars Arrive - Parker XL,TRUE,TRUE
+2065,2065,Christina El Moussa and Boyfriend Ant Anstead Show PDA,TRUE,TRUE
+2066,2066,Every Aca Pun in the Pitch Perfect Movies,TRUE,TRUE
+2067,2067,Justin Theroux Found Jennifer Aniston's Love Note Post-Its From Brad Pitt,FAKE,FAKE
+2068,2068,Kourtney Kardashian tries to 'rescue' Kris Jenner on KUWTK,TRUE,TRUE
+2069,2069,Catelynn Lowell and Tyler Baltierra Celebrate 12-Year Anniversary,TRUE,TRUE
+2070,2070,LeeAnne Locken Addresses Fianc Rich Emberlin Infidelity Rumors,TRUE,TRUE
+2071,2071,All Episodes Talk: All About the Divas,TRUE,TRUE
+2072,2072,Bill Hader Files for Divorce from Wife Maggie Carey After 11 Years of Marriage,TRUE,TRUE
+2073,2073,The Flash meets his future self in the darkest timeline,TRUE,TRUE
+2074,2074,How Katie Holmes Got Into the Best Shape of Her Life,TRUE,TRUE
+2075,2075,14 Hollywood Stars Who Immigrated to the U.S. and Became Citizens,TRUE,TRUE
+2076,2076,Sara Sampaio Didnt Agree To Lui Cover Photo Shoot  I Felt Violated,TRUE,TRUE
+2077,2077,"Jada Pinkett Smith and Will Smith reveal why they never got divorced, despite not calling themselves 'married'",TRUE,TRUE
+2078,2078,Shiva Safai Is Ready to Get Married While Tania Mehra's Wedding Invitations Spark Conflict in Second Wives Club Premiere,TRUE,TRUE
+2079,2079,Theresa and Larry Caputo Discussed Separation and Divorce on Long Island Medium,TRUE,TRUE
+2080,2080,Gwyneth Paltrow Shares Bikini Snap From Her Bachelorette Party: See the Pic!,TRUE,TRUE
+2081,2081,Gwen Stefani Is Still Smitten With Blake Shelton and 'Has Never Once' Tried to Change Him (Exclusive),FAKE,FAKE
+2082,2082,Jonas Brothers and Other Celebs Party at Pre-2018 Grammys Bashes,TRUE,TRUE
+2083,2083,Muse's Matthew Bellamy and Model Elle Evans Get Engaged,TRUE,TRUE
+2084,2084,TV Scoop Awards 2018: Vote for the Best Drama Actor and Actress : lucifer,TRUE,TRUE
+2085,2085,Kanye West's Lonely-Looking Dinner Photo Just Spawned a Whole Bunch of Amusing Memes,TRUE,TRUE
+2086,2086,Jamie Dornan  s Wife Forbid Him From Working With Angelina Jolie ,FAKE,FAKE
+2087,2087,Kelly Clarkson on Her Bossy Kids,TRUE,TRUE
+2088,2088,DWTS: Jenna Johnson Asked Adam Rippon to Be in Her Wedding,TRUE,TRUE
+2089,2089,2018 TV Couples March Madness Challenge: Vote In The Elite 8!,TRUE,TRUE
+2090,2090,Gwyneth Paltrow's Goop Is Valued at $250 Million. Here Are All the Ways She Makes Money From the Cult Lifestyle Brand,TRUE,TRUE
+2091,2091,"Worst Dressed at MTV Movie & TV Awards 2017: Holland Roden, Shannon Purser & More!",TRUE,TRUE
+2092,2092,Are Nicole Kidman and Keith Urban headed for divorce?,FAKE,FAKE
+2093,2093,Is Emily Maynard Throwing Shade at Arie Luyendyk Jr. on Instagram? Bachelor Nation Thinks So,TRUE,TRUE
+2094,2094,"CMT Awards 2018: Lindsey Vonn and P.K. Subban are Dating, Make Red Carpet Debut",TRUE,TRUE
+2095,2095,Keira Knightley returns in Pirates 5' international trailer,TRUE,TRUE
+2096,2096,Shakira and Gerard Piqu's Love Story,TRUE,TRUE
+2097,2097,"Watch Elton John, Miley Cyrus Tender Tiny Dancer Duet at Grammys 2018",TRUE,TRUE
+2098,2098,How To Shop Like This Is Us Star Chrissy Metz,TRUE,TRUE
+2099,2099,Lamar Odom Is Doing Well After Collapsing at Hollywood Nightclub,TRUE,TRUE
+2100,2100,Abby Huntsman to join 'The View' as new co-host,TRUE,TRUE
+2101,2101,Harvey Weinstein Could Have a Toxic Effect on Georgina Chapman's Fashion Line. Here's What We Know,TRUE,TRUE
+2102,2102,Mandy Moore Says Matching Blue Dresses With 'This Is Us' Co-Stars at SAG Awards Was (Somehow) Not,TRUE,TRUE
+2103,2103,How to Get Away With Murders Jack Falahee Comes Out as Straight Because of Donald Trumps Election,TRUE,TRUE
+2104,2104,"Kristen Bell Performs 'Frozen' Songs at Hurricane Irma Shelter, Continues to Rescue Co-Stars' Families",TRUE,TRUE
+2105,2105,You gotta see jay z cradling beyonc's baby bump at the clippers game,TRUE,TRUE
+2106,2106,I miss the old Kanye: what has happened to raps most complex star?,FAKE,TRUE
+2107,2107,Singer Aaron Carter pens emotional open letter about his sexuality,TRUE,TRUE
+2108,2108,"Candace Cameron Bure Synonymous with Christmas, All Thanks to Hallmark Channel-Superbhub",TRUE,TRUE
+2109,2109,Stunning 2018 Vanity Fair Oscars After-Party Portraits (35 photos),TRUE,TRUE
+2110,2110,Kaylin Gets Emotional Amid Shocking News About Her Husbands Career in WAGS Atlanta Premiere,TRUE,TRUE
+2111,2111,Jennifer Aniston Is 'Casually Dating' After Split From Justin Theroux,FAKE,FAKE
+2112,2112,'13 Reasons Why' star Christian Navarro on his Tony theme song and new movie 'Bushwick',TRUE,TRUE
+2113,2113,Brad Pitt Spends Fathers Day in London with His Kids Amid Custody Dispute,TRUE,TRUE
+2114,2114,A Complete Timeline of Brad Pitt and Jennifer Aniston's Relationship,FAKE,FAKE
+2115,2115,Did Ellen & Portia have a food fight at a restaurant?,FAKE,FAKE
+2116,2116,Alec Baldwin dances with daughter Carmen on Ellen,TRUE,TRUE
+2117,2117,Lupita Nyong'o Jokes Black Panther Cast Needs a ''Support Group'' to Deal With Fan Hysteria,TRUE,TRUE
+2118,2118,"Tom Cruise NOT Quitting Scientology For Daughter Suri, Despite Report",FAKE,FAKE
+2119,2119,Ben Affleck Gifted A Pet Pooch On What A Source Tells Us Is His Final Day In Rehab,FAKE,FAKE
+2120,2120,Dean McDermott Net Worth,FAKE,TRUE
+2121,2121,Shia LaBeouf Calls Cop Fking Bch During Drunken Arrest: Watch Wild Video,TRUE,TRUE
+2122,2122,Jenna Dewan Says Her Divorce From Channing Tatum Was a Positive Thing,FAKE,TRUE
+2123,2123,Jennifer Lawrence's Real-Life Best Friend Called Her On TV To Find Out If She's Been Replaced By Amy Schumer,TRUE,TRUE
+2124,2124,Jay-Z and Beyonce Dont Like Kim Kardashian  Will It Ruin Her Relationship with Kanye West?,FAKE,FAKE
+2125,2125,Halsey breaks down in tears on stage after G-Eazy breakup,TRUE,TRUE
+2126,2126,Miley Cyrus Helps The Voice Contestant Find Housing After Cancer Battle,TRUE,TRUE
+2127,2127,Rihanna Honeymoon Billionaire Boyfriend,FAKE,FAKE
+2128,2128,All The Kardashians' Responses To Kylie Jenner's Pregnancy Rumors Prove They're Great At Playing Coy,TRUE,TRUE
+2129,2129,"Spotted! Rachel Lindsay Puts Her ""Family First"" After Missing Engagement Party Getaway",TRUE,TRUE
+2130,2130,Blake Sheltons Secret Late Night Calls To Miranda,FAKE,FAKE
+2131,2131,Rob Kardashian CAUGHT Slapping His Ex In The Face!,FAKE,FAKE
+2132,2132,Tim Allen's 'Last Man Standing' Officially Revived at Fox,TRUE,TRUE
+2133,2133,Netflix is raising its prices starting this month,TRUE,TRUE
+2134,2134,Katie Holmes & Jamie Foxx Reportedly Getting Married After Years Of Secretly Dating,FAKE,FAKE
+2135,2135,Is Meghan Markle At The Centre Of A Feud Between Amal Clooney And Angelina Jolie?,FAKE,FAKE
+2136,2136,Swim Week puts focus on Miami designers | Miami Herald,TRUE,TRUE
+2137,2137,Kim Kardashian on hiring surrogate: 'It was so hard to not carry my own child',TRUE,TRUE
+2138,2138,Madame Tussauds in Vegas: The Lady Gaga Experience [CANCELLED],TRUE,TRUE
+2139,2139,Spooky and Sweet: The Cast of Sabrina the Teenage Witch Reunites in Los Angeles,TRUE,TRUE
+2140,2140,Ellen DeGeneres and Portia de Rossi Exchange Loving Anniversary Tributes in Celebration of Nine Years of Marriage,FAKE,TRUE
+2141,2141,ABC News Radio,TRUE,TRUE
+2142,2142,"Serena Williams is pregnant, shares baby bump pic at '20 weeks'",TRUE,TRUE
+2143,2143,Meghan Markle's father won't attend royal wedding,TRUE,TRUE
+2144,2144,Is Katy Perry morphing into Miley Cyrus? Proof that popstar is taking style inspiration from her BFF,TRUE,FAKE
+2145,2145,Alaska bride surprised by her late son's heart recipient,TRUE,TRUE
+2146,2146,"Meghan Markle 'Wants to be Princess Diana 2.0', Says Book",TRUE,FAKE
+2147,2147,RHOA Kenya Moore in Egypt with Husband Marc Daly,TRUE,TRUE
+2148,2148,"Celebrity Bridesmaids Photos: Pippa Middleton, Olsen Twins and More",TRUE,TRUE
+2149,2149,Amazon.com: Watch A Bad Moms Christmas,TRUE,TRUE
+2150,2150,Kylie Jenner and Travis Scott Make Their Fashion Event Debut at the 2018 Met Gala,TRUE,TRUE
+2151,2151,Survivor: Game Changers,TRUE,TRUE
+2152,2152,James Brolin Reflects on 20 Years of Marriage With Barbra Streisand (Exclusive),FAKE,TRUE
+2153,2153,Angelina Jolie Sparkles in Nude Feathered Gown at 2018 ASC Awards,TRUE,TRUE
+2154,2154,"Kim Kardashian Says Selfies Are Over, so I Guess the Internet's Canceled",TRUE,TRUE
+2155,2155,Chrissy Teigen Gets Her Nintendo Switch Back After Twitter Plea,TRUE,TRUE
+2156,2156,Ariana Grande Defends Sweetener Song Named After Pete Davidson,TRUE,TRUE
+2157,2157,Kendall Jenner and Blake Griffin a Enjoy Sweet Sushi Date in Beverly Hills,TRUE,TRUE
+2158,2158,Kim Kardashian shares new images from makeup collaboration with Kylie Jenner,TRUE,TRUE
+2159,2159,Kate Middletons wedding surprise for Meghan Markle,FAKE,FAKE
+2160,2160,Mindy Kaling reveals she worked out until the morning she gave birth,TRUE,TRUE
+2161,2161,'Fear the Walking Dead' Bringing Troy & Daniel Back?! 10 Ways They Could Return (PHOTOS),TRUE,TRUE
+2162,2162,Larsa Pippen bankrolled by Kourtney Kardashian amid split,TRUE,TRUE
+2163,2163,Kristen Bell Shares Frozen Lip Sync Idina Menzel on Instagram,TRUE,TRUE
+2164,2164,Ashton Kutcher celebrates 'Bachelor in Paradise' return: 'I was concerned',TRUE,TRUE
+2165,2165,"Josh Gad revealed what his kids thought of ""Frozen 2""",TRUE,TRUE
+2166,2166,"Leslie Grace Talks About Working With Friend Becky G on ""Dganle""Plus, Casper Smart's Cameo",TRUE,TRUE
+2167,2167,"Nancy Kerrigan's 'Dancing with the Stars' exit -- Artem Chigvintsev: It was a shock, she deserved to go further",TRUE,TRUE
+2168,2168,'Fixer Upper' stars Chip and Joanna Gaines returning to TV with a new Discovery network,TRUE,TRUE
+2169,2169,Craig Morgan Suing Life Jacket Maker Over Sons Death,FAKE,TRUE
+2170,2170,Victoria Beckham reportedly furious about David's female friend,FAKE,FAKE
+2171,2171,Winona Ryder Net Worth,TRUE,TRUE
+2172,2172,Kim Kardashian Hurt By Awkward Exchange With Beyonce  She Wants To Be Friends,FAKE,FAKE
+2173,2173,Oscars 2018: Songwriter Robert Lopez becomes a double EGOT award winner,TRUE,TRUE
+2174,2174,30 Funny Dads Share The Truth About Fatherhood,TRUE,TRUE
+2175,2175,Katherine Jackson Resigns as Blanket's Guardian,FAKE,TRUE
+2176,2176,Kim Kardashian,TRUE,TRUE
+2177,2177,Beyoncs 2018 Grammy Awards Look Was Inspired by the Black Panthers,TRUE,TRUE
+2178,2178,Arrow's Season 5 Finale Was A Decent End To An Okay Season,TRUE,TRUE
+2179,2179,'Black Mirror' Season 4: How Close to That Tech Are We?,TRUE,TRUE
+2180,2180,Are Khlo Kardashian and Tristan Thompson Engaged? New Mom Wears a Huge New Diamond Ring,FAKE,TRUE
+2181,2181,Nicole 'Snooki' Polizzi On Why Sammi 'Sweetheart' Won't Be Back for MTV's Jersey Shore Revival,TRUE,TRUE
+2182,2182,Miley Cyrus and Liam Hemsworth Have Date Night at Elton John's Final Vegas Concert,TRUE,TRUE
+2183,2183,Brad Pitt Getting Married,FAKE,FAKE
+2184,2184,Richard Curtis says co-hosting Live! With Kelly Ripa again was 'fantastic',TRUE,TRUE
+2185,2185,Sofia Richie Paying Scott Disick  s Bills  Reports,FAKE,FAKE
+2186,2186,"70th Annual DGA Awards: Judd Apatow to Host, Don Mischer to Chair",TRUE,TRUE
+2187,2187,Russell Crowe reveals he's lost 24 kgs after gaining weight for The Nice Guys role,FAKE,TRUE
+2188,2188,All the Details on O.J. Simpson's Intense Parole Hearing & What's Next for Him,TRUE,TRUE
+2189,2189,Miss South Africa Demi-Leigh Nel-Peters is crowned Miss Universe 2017,TRUE,TRUE
+2190,2190,Kevin Hart Relives His Cheating Scandal By Playing Himself in J. Cole Music Video,TRUE,TRUE
+2191,2191,Behold the leg lamp: Fox's 'A Christmas Story' offers live-musical take on holiday classic,TRUE,TRUE
+2192,2192,Kevin Hart Refuses to Let Tiffany Haddish Pay Back $300 Life-Changing Loan,TRUE,TRUE
+2193,2193,"Met Gala 2018: Best memes of Madonna, Katy Perry, Kardshians",TRUE,TRUE
+2194,2194,Kristin Cavallari gave parenting advice to Hills co-stars,TRUE,TRUE
+2195,2195,Beyonce Stranded by Flying Stage Malfunction in Warsaw (Watch)  Variety,TRUE,TRUE
+2196,2196,Princess Kate Bulimia Battle: Shocking New Photos,FAKE,FAKE
+2197,2197,'Suits' creator gushes about what it was like to attend Meghan and Harry's wedding,TRUE,TRUE
+2198,2198,"Haters are Shaming Faith Hill and Tim McGraw's for Being ""Too Thin"" In New Photo",FAKE,TRUE
+2199,2199,Vili Fulaau claims he and ex-teacher are still in love,TRUE,TRUE
+2200,2200,Female First Forum,FAKE,TRUE
+2201,2201,Ordeal by Innocence producers explain decision to reshoot BBC drama following Ed Westwick allegations,TRUE,TRUE
+2202,2202,Camila Cabello and Lindsay Lohan Were Taylor Swift's Biggest Fans at iHeartRadio's Jingle Ball in NYC,TRUE,TRUE
+2203,2203,10 sites to shop for leather and suede skirts in 2018,TRUE,TRUE
+2204,2204,Josh Duhamel Catches a Mouse in the Today Show Green Room,TRUE,TRUE
+2205,2205,OMG! Kris Jenner Copies Kim Kardashian and Debuts a Platinum Blond Hairdo on Kardashians,TRUE,TRUE
+2206,2206,Brooklyn Beckham Was Photographed Kissing a Model Who's Not Chlo Grace Moretz,TRUE,FAKE
+2207,2207,Jennifer Hudson Joins The Voice Season 13 as Coach,TRUE,TRUE
+2208,2208,Luann de Lesseps Checks Herself into Alcohol Treatment Center After Palm Beach Arrest,TRUE,TRUE
+2209,2209,Michael Jordan,TRUE,TRUE
+2210,2210,Jennifer Lawrence Deeply Disturbed To Hear Harvey Weinstein News,TRUE,TRUE
+2211,2211,Here Is the Complete List of Winners From the 2017 Billboard Music Awards,TRUE,TRUE
+2212,2212,Khloe Kardashian Pranks Sister Kourtney on New 'KUWTK' Promo -- Watch!,TRUE,TRUE
+2213,2213,Khloe Kardashian & Tristan Thompson Reportedly Planning $2 Million Wedding: Shes Going All Out,FAKE,FAKE
