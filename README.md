@@ -12,8 +12,24 @@ In order to run any of the notebooks, the file paths to the relevant data need t
 - Setup a HuggingFace account in order to authenticate the use of private models
 - Set up and Weights & Biases account
 
+### Packages and Dependencies 
+pip installations and imports are included in the notebooks where they are needed
+- Accelerate
+- PEFT
+- BitsAndBytes
+- Transformers
+- trl
+- Pandas
+- NumPy
+- Scikit-learn model selection, Scikit-learn metrics
+- imblearn metrics
+- Torch
+- HuggingFace Datasets
+- HuggingFace Hub 
+
 ## Organization of Repo
-- `datasets/`: datasets used for training, including the splits
+- `datasets/ForTraining`: Original training datasets
+- `datasets/ProcessedTestingDatasets`: The processed versions of the datasets used for testing 
 - `scripts/`: the Python notebooks used to execute the training, validation, and testing of the Llama 2 models
 - `scripts/unused-experiments`: contains upsampling, downsampling, changing number of layer experiments which are not used in final results
 - `scripts/preprocessing`: contains the preprocessing scripts
@@ -35,4 +51,6 @@ For the 2 step predictor:
 
 Baseline model: `FakeNewsLlama/TrueFakeBaseline`
 
-Processed Training Datasets can be found in this HuggingFace Dataset: FakeNewsLlama/ProcessedTrainingDatasets
+## Where to find the datasets?
+Processed Training Datasets can be found in this HuggingFace Dataset: `FakeNewsLlama/ProcessedTrainingDatasets`
+The Dataset also includes the processed training datasets split by domain for true/fake training in TrueFakeTraining.zip
