@@ -45,7 +45,7 @@ For the 2 step predictor:
 - Domain classifier: `FakeNewsLlama/CombinedDomainClassifier_E1_7`
 - Politics True/Fake predictor: `FakeNewsLlama/PoliticsTrueFakeClassifier`
 - Social True/Fake predictor: `FakeNewsLlama/SocialTrueFakeClassifier_E1_LR4`
-- Health True/Fake predictor: `FakeNewsLlama/HealthTrueFakeClassifier`
+- Health True/Fake predictor: `FakeNewsLlama/HealthTrueFakeClassifierFinal`
 - Crime True/Fake predictor: `FakeNewsLlama/CrimeTrueFakeClassifier5e-4`
 - Science True/Fake predictor: `FakeNewsLlama/ScienceTrueFakeClassifier_E7_LR1_4`
 
