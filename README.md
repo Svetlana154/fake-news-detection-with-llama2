@@ -27,7 +27,7 @@ In order to run any of the notebooks, the file paths to the relevant data need t
 
 For the 2 step predictor:
 - Domain classifier: `FakeNewsLlama/CombinedDomainClassifier_E1_7`
-- Politics True/Fake `predictor: FakeNewsLlama/PoliticsTrueFakeClassifier`
+- Politics True/Fake predictor: `FakeNewsLlama/PoliticsTrueFakeClassifier`
 - Social True/Fake predictor: `FakeNewsLlama/SocialTrueFakeClassifier_E1_LR4`
 - Health True/Fake predictor: `FakeNewsLlama/HealthTrueFakeClassifier`
 - Crime True/Fake predictor: `FakeNewsLlama/CrimeTrueFakeClassifier5e-4`
