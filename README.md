@@ -34,3 +34,5 @@ For the 2 step predictor:
 - Science True/Fake predictor: `FakeNewsLlama/ScienceTrueFakeClassifier_E7_LR1_4`
 
 Baseline model: `FakeNewsLlama/TrueFakeBaseline`
+
+Processed Training Datasets can be found in this HuggingFace Dataset: FakeNewsLlama/ProcessedTrainingDatasets
