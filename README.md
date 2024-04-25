@@ -2,7 +2,10 @@
 This repository contains code relevant to the Honours project (CSI4900) completed in Winter 2024.
 
 ## Running the code
-Note: During the experimental setup, the Python notebooks to fine-tune the model were imported into Kaggle Notebooks, alongside the relevant training/validation/testing datasets.
+*Note: During the experimental setup, the Python notebooks to fine-tune the model were imported into Kaggle Notebooks, alongside the relevant training/validation/testing datasets.
+Meanwhile, the preprocessing Python notebooks that acquired and split the training and testing datasets were imported into Google Collab, alongside the relevant datasets.*
+
+Therefore, in order to run any of the notebooks, the file paths to the relevant data need to be updated.
 
 ### Organization of Repo
 - `data/`: datasets used for training, including the splits
