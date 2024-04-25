@@ -13,7 +13,7 @@ In order to run any of the notebooks, the file paths to the relevant data need t
 - Set up and Weights & Biases account
 
 ## Organization of Repo
-- `data/`: datasets used for training, including the splits
+- `datasets/`: datasets used for training, including the splits
 - `scripts/`: the Python notebooks used to execute the training, validation, and testing of the Llama 2 models
 - `scripts/unused-experiments`: contains upsampling, downsampling, changing number of layer experiments which are not used in final results
 - `scripts/preprocessing`: contains the preprocessing scripts
