@@ -33,4 +33,4 @@ For the 2 step predictor:
 - Crime True/Fake predictor: `FakeNewsLlama/CrimeTrueFakeClassifier5e-4`
 - Science True/Fake predictor: `FakeNewsLlama/ScienceTrueFakeClassifier_E7_LR1_4`
 
-Baseline model: FakeNewsLlama/TrueFakeBaseline
+Baseline model: `FakeNewsLlama/TrueFakeBaseline`
