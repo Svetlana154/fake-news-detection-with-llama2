@@ -7,6 +7,9 @@ Note: During the experimental setup, the Python notebooks to fine-tune the model
 ### Organization of Repo
 - `data/`: datasets used for training, including the splits
 - `scripts/`: the Python notebooks used to execute the training, validation, and testing of the Llama 2 models
+- `scripts/unused-experiments`: contains upsampling, downsampling, changing number of layer experiments which are not used in final results
+- `scripts/preprocessing`: contains the preprocessing scripts
+- `scripts/test-results-processing-scripts`: contains scripts to process the testing results
 - `results/testing_split`: results acquired from running models on their respective test split
 - `results/testing_datasets/final_results`: results acquired from running models on their respective testing datasets
 - `results/testing_datasets/intermediate_classifier_results`: intermediate results after using the domain classifier
